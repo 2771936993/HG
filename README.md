@@ -2,4 +2,4 @@
 
 不定时更新
 
-点击链接https://raw.githubusercontent.com/2771936993/HG/main/hg.txt
+复制链接 https://raw.githubusercontent.com/2771936993/HG/main/hg.txt
