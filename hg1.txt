@@ -6,6 +6,48 @@
 ! 作者：海哥
 ! 全由海哥自己制作
 
+
+||p.qpic.cn^
+||molelink.cn^
+||res.doyea.cn^
+||res.molelink.cn^
+||qqhl.bvsp.cn^
+||cos*.cos.ap-nanjing^
+||nezha-bus-prod.qiliangjia.com^
+||sf1-pitaya-tos.pstatp.com^
+||static.qiliangjia.com^
+||trk.changan.com.cn^
+||argus-u.leshu.com^
+||h5api.m.goofish.com^
+||gjusp.alicdn.com^
+||api.e.kuaishou.com^
+||star.meituan.com^
+||click.yingzhongshare.com^
+||g.cn.miaozhen.com^
+||v.douyin.com^
+||959628.cn^
+||bs-adaptive.pull.yximgs.com^
+||ty.a.yximgs.com^
+||impression.aflink.com^
+||bas.hismarttv.com^
+||lbgs.hismarttv.com^
+||xy77874.com^
+||ip.qd28.net^
+||tj.sejie008.top^
+||shixunjs.th21333.com^
+||f8sm0x1k-android.mobile-messenger.intercom.com^
+||com2023710713725.com^
+||net72091.com^
+||qonrrsea.com^
+||ia.51.la^
+||mobile.shuzilm.cn^
+||telecom.shuzilm.cn^
+||avatar.coolapk.com^
+||ad.a.yximgs.com^
+||ap.cpatrk.net^
+||apijs1.gifshow.com^
+||hw.pull.yximgs.com^
+||monitor.zqids.com^
 ||tp.9377j.com^
 ||999.haofu333.com^
 ||rxwi3bebbenvkq38zbyvrtynj0fu0lfj.top^
@@ -31,11 +73,9 @@
 ||htggcy.com^
 ||pull-tsl-f13.douyincdn.com^
 ||pull-tsl-hs-spe-f5.douyinliving.com^
-||pull-f5-xg.flive.ixigua.com^
 ||haokawx.lot-ml.com
 @@||mvconf.f.360.cn^
 ||69up.top^
-||s2.pstatp.com^
 ||umso.niceloo.com^
 ||yl.niceloo.com^
 ||adshare.toutiao.com^
@@ -60,10 +100,8 @@
 ||opencloud.wostore.cn^
 ||unipayupg.wostore.cn^
 ||pull-rtmp-l6-xg.ixigua.com^
-||pull-flv-f6-xg.bytecdn.cn^
 ||scc.bytedance.com^
 ||webcast5-wbnormal-lq.toutiaoapi.com^
-||p6-tt-video-sprite-sign.byteimg.com^
 ||v3-gray.toutiaovod.com^
 ||exporteducationprogram.googlecnapps.cn^
 ||p3-ad-sign.byteimg.com^
@@ -209,7 +247,6 @@
 ||www.xm.com^
 ||www.agoda.com^
 ||www.agoda.cn^
-||android.bugly.qq.com^
 ||www.dhgate.com^
 ||t1z1et.tpe76.com^
 ||inputl1.xfinfr.com^
@@ -258,7 +295,6 @@
 ||m.123gf.com^
 ||impress.bigda.com^
 ||bsgslb.cn^
-||dig.bdurl.net^
 @@||zhan.vivo.com.cn^
 @@||h5.vivo.com.cn^
 ||4.d7na.com^
@@ -623,6 +659,7 @@
 ||static.9377a.com^
 ||vconf.f.360.cn^
 ||wvw.9377.com^
+@@||github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^
 @@||ws-p2p.pull.yximgs.com^
 ||zttvc-1.v.bsgslb.com^
 ||2409-8c6a-b011-23-800-0-0-f.volcsiriusbd.com^
@@ -746,7 +783,6 @@
 ||stun.fpapi.io^
 ||fpnpmcdn.net^
 ||ktku2q-530-ppp.s3.ap-east-1.amazonaws.com^
-||*-east-1.amazonaws.com^
 ||08273.net^
 ||www.08273.net^
 ||81y119.com^
@@ -852,7 +888,6 @@
 ||d8qk.143.cc^
 ||feq3.143.cc^
 ||x012.hikedj.com^
-||157.240.8.36^
 ||03qr.143.cc^
 ||taw9.143.cc^
 ||173.252.248.244^
@@ -887,7 +922,6 @@
 ||199.59.148.97^
 ||wmdv.143.cc^
 ||ur94.143.cc^
-||74.86.12.172^
 ||n23m.143.cc^
 ||092f.143.cc^
 ||zwj5.143.cc^
@@ -1900,7 +1934,6 @@
 ||885422.com^
 ||66377311795.com^
 ||ccs.cholor20902.cn^
-||centertime.ksyun.com^
 ||apiyd.my91app.com^
 ||apm-rum.inf.miui.com^
 ||lupic.cdn.bcebos.com^
@@ -2404,7 +2437,6 @@
 ||zhhainiao.com^
 ||cg.hmedustudy.com^
 ||tsearch-lq.snssdk.com^
-||lf3-static.bytednsdoc.com^
 ||p6-mgsdk-sign.byteimg.com^
 ||bhss.oclkj.com^
 ||res-bhss.oclkj.com^
