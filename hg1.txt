@@ -6,7 +6,38 @@
 ! 作者：海哥
 ! 全由海哥自己制作
 
-
+||track.mediav.com^
+||e.so.com^
+||softdl6.360tpcdn.com^
+||dig.bdurl.net^
+||hugelog.fcbox.com^
+||bigdatacloud.net^
+||myqcloud.com^
+||dsp.fcbox.com^
+||91haoka.cn^
+||zfn3zilf7lxdjtoqwr92l4oq9pp4mqqu7auvjawm90x4g3nane.free-lbv3.idouyinvod.com^
+||store.steampowered.com^
+||2atlua.tdum.alibaba.com^
+||tui.buff.vip^
+||api.buff.vip^
+||alicdn.anjiu.cn^
+||youxifan.com^
+||ase5sk.tdum.alibaba.com^
+||metrics-collector.xaidc.com^
+||cdn.anjiu.cn^
+||pds-demo.oss-cn-hangzhou.aliyuncs.com^
+||yximgs-webrtc.liveplay.myqcloud.com^
+||ws.push.yximgs.com^
+||chengzijianzhan.shop^
+||ej29351947.m.jzfkw.net^
+||mo.faisys.com^
+||lnk0.com^
+||p1-pay.eckwai.com^
+||p2-yxjz.adbkwai.com^
+||p1-yxjz.adbkwai.com^
+||esplayer.tga.qq.com^
+||estv-conn.tga.qq.com^
+||bpi1.yipualn.com^
 ||p.qpic.cn^
 ||molelink.cn^
 ||res.doyea.cn^
@@ -42,7 +73,6 @@
 ||ia.51.la^
 ||mobile.shuzilm.cn^
 ||telecom.shuzilm.cn^
-||avatar.coolapk.com^
 ||ad.a.yximgs.com^
 ||ap.cpatrk.net^
 ||apijs1.gifshow.com^
@@ -64,7 +94,6 @@
 ||tdid.m.qq.com^
 ||xlog.jd.com^
 ||access1.tpns.tencent.com^
-||sdk.beizi.biz^
 ||sdktmp.hubcloud.com.cn^
 ||ipv6.shuzilm.cn^
 ||lf-rc1.yhgfb-cn-static.com^
@@ -201,7 +230,6 @@
 ||m.akauunnqnfha.cn^
 !微信小程序运行!
 @@||ocsp.digicert.com^
-||p9-tt-video-sprite-sign.byteimg.com^
 ||ht926.com^
 ||www.lsjapp1.cc^
 ||report-stats.ad.jiguang.cn^
@@ -294,7 +322,6 @@
 ||audid-api.taobao.com^
 ||m.123gf.com^
 ||impress.bigda.com^
-||bsgslb.cn^
 @@||zhan.vivo.com.cn^
 @@||h5.vivo.com.cn^
 ||4.d7na.com^
@@ -370,7 +397,6 @@
 ||uas.cmge.com^
 ||vc-mirror.ndcpp.com^
 ||vc-brain.ndcpp.com^
-||*.bsccdn.net^
 ||p3-be-pack-sign.pglstatp-toutiao.com^
 ||p6-ad-sign.byteimg.com^
 ||p9-ad-sign.byteimg.com^
@@ -390,7 +416,6 @@
 ||landing.1lk.cn^
 ||ocean-alps.wifi188.com^
 ||mum.hzchengdun.com^
-||image.coolapk.com^
 ||adashbc.ut.taobao.com^
 ||acs4baichuan.m.taobao.com^
 ||activity.yftui18.cn^
@@ -421,7 +446,6 @@
 ||dm.toutiao.com^
 ||starnews.2345.com^
 ||rcv.aiclk.com^
-||mssdk.volces.com^
 ||ulogs.umeng.com^
 ||toblog.volceapplog.com^
 ||api.jietuhb.com^
@@ -561,7 +585,6 @@
 ||s3m.mediav.com^
 ||c.ssp.360.cn^
 ||s3m1.nzwgs.com^
-||sqimg.qq.com^
 ||w32af.com^
 ||c05001.sv61705w.com^
 ||js.letfab.cn^
@@ -1076,7 +1099,6 @@
 ||r4.gs^
 ||10086.cscsearch.com^
 ||kswk.kol.top^
-||webapi.amap.com^
 ||api.getkwai.com^
 ||ali-ky.static.yximgs.com^
 ||ali-ky.video.yximgs.com^
@@ -1679,7 +1701,6 @@
 ||rzgvdm5.com^
 ||537882736.com^
 ||yd11_13-site-02.cdn-ng.net^
-||s.f.360.cn^
 ||gz.adsl.cn^
 ||clicksys.e7j.cn^
 ||transfer-proxy.kcdn.yximgs.com^
@@ -2161,7 +2182,6 @@
 ||api.comm.miui.com^
 ||chenzhongtech.com^
 ||jszcshangmao.com^
-||sm.cn^
 ||40.205.29.196^
 ||image.9xsecndns.cn^
 ||campaigncdn.m.taobao.com^
@@ -3207,9 +3227,7 @@
 ||genshuixue.com^
 ||ali.game.yximgs.com^
 ||mix.jinritemai.com^
-||monsetting.toutiao.com^
 @@||ini.update.360safe.com^
-||c.dun.163.com^
 ||ks.push.yximgs.com^
 ||v4.kwaicdn.com^
 ||guliad.com^
@@ -3231,7 +3249,6 @@
 ||ug.snssdk.com^
 ||v3-be-pack.pglstatp-toutiao.com^
 ||sf3-be-pack.pglstatp-toutiao.com^
-||tobapplog.ctobsnssdk.com^
 ||access.pangolin-sdk-toutiao-b.com^
 ||game.weixin.qq.com^
 ||oth.eve.mdt.qq.com^
