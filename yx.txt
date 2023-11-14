@@ -6,6 +6,10 @@
 ! 全由海哥自己制作
 
 
+||*.tfogc.com^
+||report.tga.qq.com^
+||cfm-op.tga.qq.com^
+||cfmtv-pic.tga.qq.com^
 ||conf.yuanjingss.com^
 ||mobile.yuanjingss.com^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
@@ -83,7 +87,6 @@
 ||info.3g.qq.com^
 ||i.gtimg.cn^
 ||report.gamecenter.qq.com^
-||down-update.qq.com
 ||update1.dlied.qq.com
 ||update5.dlied.qq.com
 ||oth.str.mdt.qq.com
@@ -106,7 +109,6 @@
 ||masdk.3g.qq.com
 ||ossweb-img.qq.com^
 ||gzhcos.qq.com^
-||game.gtimg.cn^
 ||pvp.qq.com^
 ||api.kingdata.ksyun.com^
 ||img.msdk.qq.com^
