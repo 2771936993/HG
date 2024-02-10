@@ -9,6 +9,14 @@
 
 
 
+||apimobile.meituan.com^
+||cdn-xyx.raink.com.cn^
+||xyx-app-ad.raink.com.cn^
+||mall.bilibili.com^
+||www.biligame.com^
+||ali-bj-pcdn-27.biliapi.net^
+||gprp.4399api.net^
+@@||support.weixin.qq.com^
 ||trackapi.zkyouxi.com^
 ||bd11-rel.52playgame.com^
 ||ap.cpatrk.net^
@@ -811,7 +819,6 @@
 ||www.xn--http-ub2hy94t^
 ||dxr.hrzwaq.store^
 ||dxr.onjesb.shop^
-||img-operation.csdnimg.cn^
 ||kunyu.csdn.net^
 ||xingyunjiaoyu.cn^
 ||pg-chatn9.bjmantis.net^
@@ -862,7 +869,6 @@
 ||s0fanxing.kugou.com^
 ||nsongacsing.kugou.com^
 ||mmgame.qpic.cn^
-||minorshort.weixin.qq.com^
 ||wxa.wxs.qq.com^
 ||fy-game-api.feigo.fun^
 ||xj.gtimg.cn^
