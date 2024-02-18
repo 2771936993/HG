@@ -9,6 +9,26 @@
 
 
 
+||vpic.cms.qq.com^
+||wybh5qpdeymsgcf23pz46de.49363302.com^
+||t2.04703601.com^
+||022022.cc^
+||066066.cc^
+||xx44.cc^
+||198558.com^
+||vpic.cms.qq.com^
+||wybh5qpdeymsgcf23pz46de.49363302.com^
+||t2.04703601.com^
+||kjapi.peiluyou.com^
+||img.xn--nyw355ejle.com^
+||img30.360buyimg.com^
+||m.360buyimg.com^
+||g.gtimg.cn^
+||storage.360buyimg.com^
+||img01.cheyuan.com^
+||tj-adc-exposure.wtzw.com^
+||zhu.zhuchaoo.com^
+||pg-chatn4.bjmantis.net^
 ||apimobile.meituan.com^
 ||cdn-xyx.raink.com.cn^
 ||xyx-app-ad.raink.com.cn^
@@ -103,7 +123,8 @@
 ||www.daduoduo.com^
 ||oss-image3.quanmamaimg.com^
 ||oss-image2.quanmamaimg.com^
-||qzonestyle.gtimg.cn^
+@@||qzonestyle.gtimg.cn^
+！！群公告
 ||res.hduofen.cn^
 ||ty.svipapp.cn^
 ||log-verify.mob.com^
@@ -138,17 +159,14 @@
 ||hltx-app-storage.oss-cn-zhangjiakou.aliyuncs.com^
 ||uayy71.cc^
 ||h07.yytxqcy.com^
-||tc.bian666.cf^
 ||i.meee.com.tw^
 ||147639.com^
 ||www.grgx1.com^
 ||bzib.nelreports.net^
 ||595js.oss-accelerate.aliyuncs.com^
 ||assets.msn.com^
-||superapp.msn.com^
 ||595dl930.xyz^
 ||app.xpjwww.tech^
-||www.microsoftedgeinsider.com^
 ||amfu2.siyutui.com^
 ||qd.siyutui.com^
 ||qqk.foncao.com^
@@ -229,7 +247,6 @@
 ||fund.10jqka.com.cn^
 ||img.gamecenter.qq.com^
 ||yun-hl.3g.qq.com^
-||da.mmarket.com^
 ||ali-bj-pcdn-16.biliapi.net^
 ||praisewindow.ugsdk.cn^
 ||auth.fenqile.com^
@@ -417,6 +434,7 @@
 ||vip5.4466bb10.com^
 ||5566.4466ccc6.com^
 ||5566.4466ccc4.com^
+||900868.com^
 ||vip6.4466kk4.com^
 ||vip.4466bb13.com^
 ||_9020._https.vip2.4466bb9.com^
@@ -986,7 +1004,6 @@
 ||pic2.zhuanstatic.com^
 ||pic1.zhuanstatic.com^
 ||m.zhuanzhuan.com^
-||config2.cmpassport.com^
 ||hw-ot-ad.a.yximgs.com^
 ||amdcopen.m.taobao.com^
 ||ssp.vivo.com.cn^
@@ -1102,7 +1119,6 @@
 @@||is.snssdk.com^
 ||res01.101865.com^
 ||884227.com^
-||log2.cmpassport.com^
 ||zzg64.com^
 ||qh-material.taobao.com^
 ||img-nos.yiyouliao.com^
@@ -1127,7 +1143,6 @@
 ||p1-lm.adukwai.com^
 ||sdk.e.qq.com^
 ||tnc3-bjlgy.zijieapi.com^
-||tnc3-alisc1.zijieapi.com^
 ||exquisite.shouji.360.cn^
 ||impression.biligame.com^
 ||ad-bili-data.biligame.com^
@@ -1163,7 +1178,6 @@
 ||2409-8c6a-b011-23-800-0-0-f.volcsiriusbd.com^
 ||dd-static.jd.com^
 ||sdk.51.la^
-||cdn-01.xcggzzb.com^
 ||lf9-sf-be-pack-sign.pglstatp-toutiao.com^
 ||hmdmfbmdrt.asjoosapp.top^
 ||1q1q889-1318812507.cos.accelerate.myqcloud.com^
@@ -1187,7 +1201,6 @@
 ||dmugc-cn.domobcdn.com^
 @@||fengduxiaoshuo.com^
 ||www.wyt497.com^
-||rcs.cmpassport.com^
 ||api-asp.yiye.ai^
 ||cdn-asp.yiye.ai^
 ||sentrytrack.yiye.ai^
@@ -1994,7 +2007,6 @@
 ||*.ecombdimg.com^
 ||p3.douyinpic.com^
 ||lf-c-flwb.bytetos.com^
-||bytegoofy.com^
 ||stun.l.google.com^
 ||cc.chuidiren.com^
 ||heliang.cc^
@@ -2322,7 +2334,6 @@
 ||api5-normal-lq.toutiaoapi.com^
 ||111.59.67.*^
 ||lf3-cdn-tos.bytescm.com^
-||lf3-short.bytegoofy.com^
 ||lf3-short.ibytedapm.com^
 ||lf-cdn-tos.bytescm.com^
 ||p6-webcast.douyinpic.com^
@@ -2374,7 +2385,6 @@
 ||richmedia.video.qq.com^
 ||tracker.faw-vw.com^
 ||static.sensorsdata.cn^
-||.bytegoofy.com^
 ||m-mall.svw-volkswagen.com^
 |csvw.com^
 @@||hot.browser.miui.com^
@@ -3480,7 +3490,6 @@
 ||700159.com^
 ||api-access.pangolin-sdk-toutiao.com^
 ||edu.3dmaxvip.com^
-||config.cmpassport.com^
 ||d5-magic.a.kwimgs.com^
 ||media.novel.hnyxa.cn^
 ||zhipu-static.oss-cn-shanghai.aliyuncs.com^
