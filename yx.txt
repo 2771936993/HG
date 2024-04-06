@@ -511,9 +511,12 @@
 ||file.spaceparty.cn^
 ||channel.sdk.mobileztgame.com^
 ||openapi.music.163.com^
-||apilocate.amap.com^
-||dualstack-restapi.amap.com^
-||dualstack-logs.amap.com^
+
+##定位##
+@@||apilocate.amap.com^
+@@||dualstack-restapi.amap.com^
+@@||dualstack-logs.amap.com^
+
 ||file.heiheiyuyin.com^
 ||image.spaceparty.cn^
 ||file-reserve.spaceparty.cn^
@@ -847,7 +850,8 @@
 ||union.csy.tcdnos.com^
 ||union.gdtimg.com^
 ||info.3g.qq.com^
-||i.gtimg.cn^
+@@||i.gtimg.cn^
+!!登录
 ||report.gamecenter.qq.com^
 ||update1.dlied.qq.com
 ||update5.dlied.qq.com
