@@ -6,6 +6,63 @@
 ! 作者：海哥
 ! 全由海哥自己制作
 
+
+||w2.bpaykwai.com^
+||ad.nuoyouyou.cn^
+||minigame.gtimg.cn^
+||m-api.37.com.cn^
+||pvt-api.37.com.cn^
+||lightstep.kaizen.nvidia.com^
+||gbmshvac.gree.com^
+||h5.getkwai.com^
+||26369.net^
+||lisestella.digital^
+||yonmewon.com^
+||11.271y.com^
+||ak.hetapus.com^
+||d.jalosoul.com^
+||v4.4017089031.shop^
+||web-t9zzm1.openinstall.com^
+||cdn4tc.nicelift.cn^
+||cloud.aaalamps.com^
+||landapi-v4.bao265.com^
+||guardogoter.shop^
+||yxres4tc.nicelift.cn^
+||www.ogzniwp.top^
+||s3t3d2y8.afcdn.net^
+||www.lanmao20.top^
+||abtfliping.top^
+||fi.questormyxo.com^
+||thugouf.shop^
+||snowflake.qq.com^
+||cid-materials-cdn.smallfighter.com^
+||cid-landpage.smallfighter.com^
+||az1-api-idc.ksapisrv.com^
+||api-e189.21cn.com^
+||beacon.ztgame.com^
+||w1.bpaykwai.com^
+||p2-ad.adkwai.com^
+@@||activity.e.kuaishou.com^
+||26371.net^
+||93165.net^
+||fc8oa.bemobtrcks.com^
+||cdn.zhifengjt.com^
+||cacheintum.com^
+||ozcoa6hlr.com^
+||track.cybersafezones.com^
+||thelifeandmore.com^
+||invol.co^
+||clobberprocurertightwad.com^
+||bustslicerstrongbox.com^
+||endowmentoverhangutmost.com^
+||scxs.pysmei.com^
+||sdk.z74d.cn^
+||zz.bdstatic.com^
+||cmsmanage-siteapi.gwm.com.cn^
+||prt-newdev-stsdk.vivo.com.cn^
+||9601010.com^
+||static.iyf.tv^
+||3.cn^
 ||one5bha.com^
 ||tysk.a.kwimgs.com^
 ||callback.api.xyzggg.com^
@@ -30,7 +87,6 @@
 ||hhweb.kdv3oejb.com^
 ||api.qulianaiba.com^
 ||mhstat.metatube.pro^
-||webapi.amap.com^
 ||campaign.gac-toyota.com.cn^
 @@||huatuocode.huatuo.qq.com^
 ||beacon-h2.ztgame.com^
@@ -87,7 +143,6 @@
 ||jstm2m.cn^
 ||lym2m.com^
 ||az1-live.ksapisrv.com^
-||s3.kskwai.com^
 ||sh-gateway.shihuo.cn^
 ||www.shihuo.cn^
 ||shence.shihuo.cn^
@@ -139,7 +194,6 @@
 ||d4-magic.a.kwimgs.com^
 ||jscmmov.a.etoote.com^
 ||upload.kuaishouzt.com^
-||ali2.a.yximgs.com^
 ||wzpxh5-qcdn.huaduonet.com^
 ||az2-upload.ksapisrv.com^
 ||gdfpsec.gifshow.com^
@@ -530,8 +584,6 @@
 ||t2.04703601.com^
 ||kjapi.peiluyou.com^
 ||img.xn--nyw355ejle.com^
-||img30.360buyimg.com^
-||m.360buyimg.com^
 ||g.gtimg.cn^
 ||img01.cheyuan.com^
 ||tj-adc-exposure.wtzw.com^
@@ -546,7 +598,6 @@
 @@||support.weixin.qq.com^
 ||trackapi.zkyouxi.com^
 ||bd11-rel.52playgame.com^
-||ap.cpatrk.net^
 ||ae.tapdb.net^
 ||p5-pro.a.yximgs.com^
 ||hldjclick.gzjykj.com^
@@ -618,7 +669,6 @@
 ||oss.iyunzk.com^
 ||pic.kuaizhan.com^
 ||api.cmsv5.iyunzk.com^
-||img13.360buyimg.com^
 ||ubb.bbb.wzguosutang.com^
 ||t1.xyjgjp.com^
 ||hwmov.a.yximgs.com^
@@ -642,9 +692,6 @@
 ||oss.ttxn.com^
 ||static.ixuenong.com^
 ||app.ixuenong.com^
-||pic2.zhimg.com^
-||pic3.zhimg.com^
-||pic1.zhimg.com^
 ||web.dylzcx.com^
 ||public-file.dylzcx.com^
 ||lyftykpahggn.busss.cn^
@@ -688,7 +735,6 @@
 ||comking.oss-cn-beijing.aliyuncs.com^
 ||et-api.happyelements.com^
 ||s1-11289.kwimgs.com^
-||p3.adkwai.com^
 ||fengchao-api.mgp.mi.com^
 ||chenzhongkj.cn^
 ||h2.static.yximgs.com^
@@ -1331,11 +1377,9 @@
 ||pg-chatn9.bjmantis.net^
 ||oss.mkqh168.com^
 ||qh.mkqh168.com^
-||www.onethingcloud.com^
 ||act-test.walk-live.com^
 ||audio-miniprogram-o.doutuimao.net^
 ||push.gifshow.com^
-||img14.360buyimg.com^
 ||p1-kp.adkwai.com^
 ||luimg.baidu.com^
 ||mores.toponad.com^
@@ -1471,7 +1515,6 @@
 ||tcbox.baidu.com^
 ||jzapi.baidu.com^
 ||g20.alicdn.com^
-||fclog.baidu.com^
 ||jmy-pic.baidu.com^
 ||cover.baidu.com^
 ||imgsrc.baidu.com^
@@ -1747,7 +1790,6 @@
 ||dataflow.biliapi.com^
 ||w1.paykwai.com^
 ||ali-ec.static.yximgs.com^
-||zt-sup.kwd.inkuai.com^
 ||media.9game.cn^
 ||qcskloej.zhema1688.com^
 ||newapi.39center.com^
@@ -2296,7 +2338,6 @@
 ||s2-11583.ssrcdn.com^
 ||qutu-source.laoliuqutu.com^
 ||www.laoliuqutu.com^
-||w2.kskwai.com^
 ||txcmmov.a.etoote.com^
 ||traffic-monitor.kuaishou.com^
 ||w2.paykwai.com^
@@ -2651,7 +2692,6 @@
 ||hlgg81ly.com^
 ||bucket6668.oss-cn-shenzhen.aliyuncs.com^
 ||sdk.gbbeghn.cn^
-||brevent.jianyu.io^
 ||kcpca.xyz^
 ||19R.net^
 ||pe06.cn^
@@ -2743,7 +2783,6 @@
 ||funnull01.vip^
 ||whoami.akamai.net^
 ||ppg.viviv.com^
-||push.ksapisrv.com^
 ||game-channel.gamed.kuaishou.com^
 ||srgnmsrg.com^
 ||ul.soulapp.cn^
@@ -2895,7 +2934,6 @@
 ||mantis.iqihang.com^
 ||eapi.ybren.com^
 ||ybren.com^
-||hwmov.a.kwimgs.com^
 ||pinyin.voicecloud.cn^
 ||qinshy04.xyz^
 ||tj.17she.net^
@@ -3170,7 +3208,6 @@
 ||310win.com^
 ||js.a.kspkg.com^
 ||name.jiangoo.com^
-||miniapi.gifshow.com^
 ||txcmvod.a.etoote.com^
 ||alicmmov.a.etoote.com^
 ||app.50bangzh.com^
@@ -4167,7 +4204,6 @@
 ||contile.services.mozilla.com^
 ||1-1ads.com^
 @@||ad.e.kuaishou.com^
-||alimov2.a.kwimgs.com^
 ||www.bytedance.com^
 ||toufang.huixuanjiasu.com^
 ||adtrack.e.kuaishou.com^
