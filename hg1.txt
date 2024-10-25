@@ -1,5 +1,6 @@
 ! 此规则不定时更新
 ! This rule does not regularly updated
+! This rules ad blocking, ad blocking only
 ! 规则链接地址
 ! Rules link address
 ! QQ：630814741
@@ -7,6 +8,65 @@
 ! 全由海哥自己制作
 
 
+
+||lftxali.fancyapi.com^
+||c.etoolads.cn^
+@@||mssdk3-normal-hj.zijieapi.com^
+@@||lf1-cdn-tos.bytegoofy.com^
+@@||tnc3-alisc1.zijieapi.com^
+@@||download.voicecloud.cn^
+@@||lf-dy-sourcecdn-tos.bytegecko.com^
+@@||api.huangye.miui.com^
+@@||api-e189.21cn.com^
+@@||tnc3-bjlgy.zijieapi.com^
+@@||wx.tenpay.com^
+||promotion-partner.kuaishou.com^
+||p1-ff.adkwai.com^
+||v23-skvod.kwaicdn.com^
+||web-hzg4ir.openinstall.io^
+||res.openinstall.com^
+||kkaqlinks.grs1l.com^
+||vip.cqtnfs.com^
+||p.sda1.dev^
+||api.qttunion.com^
+||adx-open-service.youku.com^
+||adx-core.youku.com^
+||yk-ssp.ad.youku.com^
+||4gq.cn^
+||0ab.cn^
+||kzs6.cn^
+||h7xc.cn^
+||c51.cn^
+||g6v.cn^
+||g6h.cn^
+||q6g.cn^
+||az3-api.ksapisrv.com^
+||spm.mobgi.com^
+||ulogjs.ksapisrv.com^
+||prom-sdkv2.jysper.net^
+||pub-api.zwyll.com^
+||ad-ggtg-kuaishou-api.37.com.cn^
+||94454d8c-dnsotls-ds.metric.gstatic.com^
+||tracksc.haifurong.cn^
+||ali-origin-pull.live-voip.com^
+||adapi-btyx.bt581.com^
+||tz-t.quluyx.cn^
+||bdsk.a.kwimgs.com^
+||monitor.43wan.com^
+||p5-ad.adukwai.com^
+||www.qchannel03.cn^
+@@||restsdk.amap.com^
+@@||reading.snssdk.com^
+||lftxali.fancyapi.com^
+||c.etoolads.cn^
+@@||open.snssdk.com^
+||apply.bituike.net^
+||www.asdizeqt.cn^
+||img.fanuchdf.com^
+||update.googleapis.com^
+||n79od5592tp.obs.cn-north-1.myhuaweicloud.com^
+||m.xeyubrnhmep.com^
+||t7qmlfbt1hn9.obs.cn-north-1.myhuaweicloud.com^
 ||5hc.cc^
 ||obj.ttwifi.net^
 ||obj.test.ttwifi.net^
@@ -25,7 +85,6 @@
 @@||mm.novels.tsqewcmprjwv.com^
 @@||mm.avatars.tsqewcmprjwv.com^
 ||www.plxmglwyukyq.cn^
-||wx.tenpay.com^
 ||voipfinderliveplay1.wxqcloud.qq.com^
 ||pull-m1.wxlivecdn.com^
 ||lf-tt-gr-sourcecdn.bytegecko.com^
@@ -37,7 +96,6 @@
 ||ipv4.iwangding.com^
 ||iwdtv.chuangwei.iwangding.com^
 ||amdcopen.m.taobao.com^
-||wximg.wxs.qq.com^
 ||r3vt1uz.top^
 ||app.adjust.world^
 ||a55euid.752faka.cn^
@@ -100,7 +158,6 @@
 ||wx.d4t.cn^
 ||id.kuaishou.com^
 ||static.zx10000.com^
-||lf1-cdn-tos.bytegoofy.com^
 ||launch.zx10000.com^
 ||p3-ad.adbkwai.com^
 ||v10.kwaicdn.com^
@@ -606,7 +663,6 @@
 ||cid-materials-cdn.smallfighter.com^
 ||cid-landpage.smallfighter.com^
 ||az1-api-idc.ksapisrv.com^
-||api-e189.21cn.com^
 ||beacon.ztgame.com^
 ||w1.bpaykwai.com^
 ||p2-ad.adkwai.com^
@@ -852,7 +908,6 @@
 ||stat.hzins.net^
 ||apm-collect.hzins.net^
 ||www.pp96.vip^
-||umeng.com^
 ||h5.hzwxbz3.cn^
 ||role.botaoo.com^
 ||xbly.kuairen88.com^
@@ -1042,7 +1097,6 @@
 ||study-image.nos.netease.com^
 ||l9z.cn^
 ||expendablekmrcdnretry.kugou.com^
-||download.voicecloud.cn^
 ||niu.e.kuaishou.com^
 ||verification.kuaishouzt.cn^
 ||uc.e.kuaishou.com^
@@ -1058,7 +1112,6 @@
 ||xa.luckypray.org^
 ||www.wxp2022.vip^
 ||api.game.chot.cn^
-||wxsnsdythumb.wxs.qq.com^
 ||slb-p2p.vcloud.ks-live.com^
 ||tpjtzy.kuairen88.com^
 ||img.tryineeditor.tryinegroup.com^
@@ -1240,7 +1293,6 @@
 ||ty.svipapp.cn^
 ||log-verify.mob.com^
 ||dmp-data.ftms.com.cn^
-||audid.umeng.com^
 ||imp-toutiao-data.37.com.cn^
 ||10b0500001-0.m.ctrmi.cn^
 ||www.ninimeng.com^
@@ -1586,9 +1638,7 @@
 ||cdn.cn.gcloudcs.com^
 ||lobby1-live.cn.codm.qq.com^
 ||hycdn.cn.codm.qq.com^
-||d7a3fb6.com^
-||sdk.beizi.biz^
-||beizi.biz^
+||d7a3fb6.com
 ||s3a.bytecdn.cn^
 ||lf3-static.bytednsdoc.com^
 ||s.tzqdr68.com^
@@ -1614,7 +1664,6 @@
 ||webh5.24705a4.com^
 ||hw-sh-pcdn-09.biliapi.net^
 ||firebase-settings.crashlytics.com^
-||plbslog.umeng.com^
 ||track.mediav.com^
 ||softdl6.360tpcdn.com^
 ||dig.bdurl.net^
@@ -1675,7 +1724,6 @@
 ||net72091.com^
 ||qonrrsea.com^
 ||ia.51.la^
-||telecom.shuzilm.cn^
 ||ad.a.yximgs.com^
 ||apijs1.gifshow.com^
 ||hw.pull.yximgs.com^
@@ -1834,7 +1882,6 @@
 ||appweb.yangqianguan.com^
 ||public.yangqianguan.com^
 ||marketing-api.yangqianguan.com^
-||lf-dy-sourcecdn-tos.bytegecko.com^
 ||vcl-brain.ndcpp.com^
 ||zdfb9qg4pqq7r3y9d37z2fqbdswxiwz1loiif48zao6lkm7841x.free-lbv3.idouyinvod.com^
 ||h5.jcyeah.com^
@@ -1992,7 +2039,6 @@
 ||ll.aicqq.cn^
 ||pg-talk2.bjmantis.net^
 ||shuimu.smzyedu.com^
-||sss.umeng.com^
 ||landing.1lk.cn^
 ||mum.hzchengdun.com^
 ||adashbc.ut.taobao.com^
@@ -2017,14 +2063,12 @@
 ||t12.baidu.com^
 ||c-adx.2345.com^
 ||oss.cdn.aiclk.com^
-||dsp.ads.umeng.com^
 ||aw-mic.teeen.cn^
 ||business-syh-cdn.2345ii.com^
 ||apmplus.volces.com^
 ||dm.toutiao.com^
 ||starnews.2345.com^
 ||rcv.aiclk.com^
-||ulogs.umeng.com^
 ||toblog.volceapplog.com^
 ||api.jietuhb.com^
 ||tracelog-debug.aiclk.com^
@@ -2205,7 +2249,6 @@
 /yiye/
 ||verify.zijieapi.com^
 ||mcs.zijieapi.com^
-/zijieapi/
 ||gres.602.com^
 ||4366.com^
 ||9377s.com^
@@ -2213,7 +2256,6 @@
 ||sjws.ssl.qihucdn.com^
 ||p1-lm.adukwai.com^
 ||sdk.e.qq.com^
-||tnc3-bjlgy.zijieapi.com^
 ||exquisite.shouji.360.cn^
 ||impression.biligame.com^
 ||ad-bili-data.biligame.com^
@@ -2986,8 +3028,6 @@
 ||zconfig.alibabausercontent.com^
 ||xpis-xcdn.youku.com^
 ||mus-nettech.youku.com^
-||appdownload.youku.com^
-||m.ykimg.com^
 ||pns.alicdn.com^
 ||adashx.ut.youku.com^
 ||apiv4-iyes.youku.com^
@@ -3052,7 +3092,6 @@
 ||openapi.vmall.com^
 ||www.samsungeshop.com.cn^
 ||image.samsungeshop.com.cn^
-||restapi.amap.com^
 ||crumb.sobot.com^
 ||pic01.10086.cn^
 ||gov.govwza.cn^
@@ -3704,7 +3743,6 @@
 ||z8q.cn^
 @@||h5api.m.taobao.com^
 ||api.comm.miui.com^
-||chenzhongtech.com^
 ||jszcshangmao.com^
 ||40.205.29.196^
 ||image.9xsecndns.cn^
@@ -4003,7 +4041,6 @@
 ||35332.com^
 ||uland.tb-api.com^
 ||mercury-sdk.snssdk.com^
-||*.snssdk.com^
 ||shijitiankai.cn^
 ||97h72.com^
 ||aa55x.com^
@@ -4581,7 +4618,6 @@
 ||3335665.com^
 ||vfd87k.com^
 ||aces.cn-hangzhou.log.aliyuncs.com^
-||api.huangye.miui.com^
 ||api.vc.bilibili.com^
 ||grpc.biliapi.net^
 ||sdonline-js.oss-cn-shenzhen.aliyuncs.com^
@@ -4759,8 +4795,6 @@
 ||wxsnsdy.wxs.qq.com^
 ||api-access.pangolin-sdk-toutiao-b.com^
 ||mssdk-bu.snssdk.com^
-||aaid.umeng.com^
-||i.snssdk.com^
 ||pangolin.snssdk.com^
 ||extlog.snssdk.com^
 ||bds.snssdk.com^

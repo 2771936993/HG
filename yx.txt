@@ -1,14 +1,24 @@
 ! 此规则游戏拦截
+!This rule game intercepts, only intercepts games
 ! 规则链接地址
 ! Rules link address
-! QQ：84182854
+! QQ：630814741
 ! 作者：海哥
 ! 全由海哥自己制作
 
 
-
-
-
+||cb.qq.com^
+||www.wegame.com.cn^
+||wegame.gtimg.com^
+||game.bilibili.com^
+||line3-log.biligame.net^
+||mall.51haoka.shop^
+||game.weixin.qq.com^
+#↑↑微信有些打不开就关闭他#
+||s11gatefumo.yyxxgame.com^
+||fumocdn1.yyxxgame.com^
+||fumoapi.yyxxgame.com^
+||aduc.qingshigame.com^
 ||sdk.xianyi.club^
 ||sdkadmin.aigame100.com^
 ||update1.dkd.aigame100.com^
@@ -275,8 +285,7 @@
 ||wap.cmpassport.com^
 ||log1.cmpassport.com^
 ||auth.wosms.cn^
-||daily.m.zzx9.cn^
-||open.e.189.cn^
+||daily.m.zzx9.cn
 ||downloadjl.ztgame.com.cn^
 ||apis.sdk.mobileztgame.com^
 ||5.0.4.e.0.8.f.0.2.7.5.a.7.3.0.c.1.1.5.5.4.3.d.5.2.6.a.8.9.0.4.2.ip6.arpa^
@@ -511,9 +520,12 @@
 ||file.spaceparty.cn^
 ||channel.sdk.mobileztgame.com^
 ||openapi.music.163.com^
-||apilocate.amap.com^
-||dualstack-restapi.amap.com^
-||dualstack-logs.amap.com^
+
+##定位##
+@@||apilocate.amap.com^
+@@||dualstack-restapi.amap.com^
+@@||dualstack-logs.amap.com^
+
 ||file.heiheiyuyin.com^
 ||image.spaceparty.cn^
 ||file-reserve.spaceparty.cn^
@@ -835,10 +847,6 @@
 ||nj.cschannel.anticheatexpert.com^
 ||guid.tpns.tencent.com^
 ||queuesdk-sh.gcloud.qq.com^
-||a39afa5dc8b1fdf62661930921b96ad4.dlied1.cdntips.net^
-||a0a2fb3913fabdf7a11acc59bef9e158.dlied1.cdntips.net^
-||adbca3b5b19caaf8470aa753c965fc76.dlied1.cdntips.net^
-||*.cdntips.net^
 ||cdn.jkmobile.qq.com^
 ||android.crashsight.qq.com^
 ||static.xinyue.qq.com^
@@ -847,7 +855,8 @@
 ||union.csy.tcdnos.com^
 ||union.gdtimg.com^
 ||info.3g.qq.com^
-||i.gtimg.cn^
+@@||i.gtimg.cn^
+!!登录
 ||report.gamecenter.qq.com^
 ||update1.dlied.qq.com
 ||update5.dlied.qq.com
