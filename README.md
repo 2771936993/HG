@@ -8,4 +8,5 @@
 
 gitee仓库链接：https://gitee.com/hgzsg_admin/HG.git
 规则链接:https://gitee.com/hgzsg_admin/HG/raw/main/hg1.txt
+
 更新慢，稳定
