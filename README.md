@@ -7,3 +7,5 @@
 复制链接 https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt
 
 gitee仓库链接：https://gitee.com/hgzsg_admin/HG.git
+规则链接:https://gitee.com/hgzsg_admin/HG/raw/main/hg1.txt
+更新慢，稳定
