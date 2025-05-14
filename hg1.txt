@@ -10,6 +10,11 @@
 
 
 
+||seeds-open.qiezibenpao.com^
+||c-30103.p.easyliao.com^
+||coneduad.cn^
+||47.112.197.107^
+||pzh.huimengcg.com^
 ||hw-sh-pcdn-93.biliapi.net^
 ||app.fengxianglvsuo.com^
 ||kainosiuorod3mt9s5f8ojc3623tn2vb893v5ji0asics86ar3i8qou.tt.x.bsgslb.cn^
@@ -84,7 +89,6 @@
 ||wd.602.com.volcgslb.com^
 ||sx-region-v4.volcgtm.com^
 ||115.223.46.138^
-||115.223.46.139^
 ||conn001.al86989chatddfgfgbos.com^
 ||gcali.cdn.al86989chatddfgfgbos.com^
 ||h5static7.prmwye.com.d82bf228.cdnhwcvix16.com^
@@ -3722,7 +3726,6 @@
 |ase5sk.tdum.alibaba.com^
 |aslp8888.com^
 |assets.giocdn.com^
-|assets.tsyule.cn^
 |assets.wi-fi.cn^
 |assets.xiaojukeji.com^
 |astra.qhfsh.com^
@@ -4256,7 +4259,6 @@
 |dc9nagzvbibd5.cloudfront.net^
 |dcc2.shuzilm.cn^
 |dd-static.jd.com^
-|dd.browser.360.cn^
 |dd3kd.com^
 |dd9111.com^
 |ddl.3521656.com^
@@ -6303,7 +6305,6 @@
 |qcskloej.zhema1688.com^
 |qd.siyutui.com^
 |qd84.nvpuwo.com^
-|qdactivitycdn.qidian.com^
 |qdff.ieoybyy.com^
 |qdff.oiukrmd.com^
 |qdp4.qczb.app^
@@ -6977,7 +6978,6 @@
 |tracelog-debug.aiclk.com^
 |track.cybersafezones.com^
 |track.dmrtb.com^
-|track.lc.quark.cn^
 |track.liangka.vip^
 |track.mediav.com^
 |track.sigmob.cn^
@@ -7175,7 +7175,6 @@
 |uploads1.ksapisrv.com^
 |uploads2.gifshow.com^
 |upmov.a.kwimgs.com^
-|upush.qidian.com^
 |upushv6.qidian.com^
 |ur94.143.cc^
 |uri6.com^
