@@ -1,12 +1,36 @@
-海哥拦截规则
+@海哥 # 海哥拦截规则
 
-不定时更新
+**更新时间**：不定时更新  
+**稳定性**：更新频率较慢，但规则稳定可靠
 
-不再更新hg.txt文件，请使用hg1.txt文件
+---
 
-复制链接 https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt
+## 使用说明
+本项目提供网络拦截规则，适用于广告屏蔽、隐私保护等场景。  
+请确保使用最新的规则文件以获得最佳效果。
 
-gitee仓库链接：https://gitee.com/hgzsg_admin/HG.git
-规则链接:https://gitee.com/hgzsg_admin/HG/raw/main/hg1.txt
+---
 
-更新慢，稳定
+## 文件说明
+- **已废弃文件**：`hg.txt`（不再更新）
+- **最新规则文件**：  
+  - [点击这里复制最新规则链接](https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt)
+
+---
+
+## 仓库链接
+- **GitHub 仓库**：  
+  [https://github.com/2771936993/HG](https://github.com/2771936993/HG)  
+- **Gitee 仓库**：  
+  [https://gitee.com/hgzsg_admin/HG.git](https://gitee.com/hgzsg_admin/HG.git)  
+  - [点击这里复制规则链接](https://gitee.com/hgzsg_admin/HG/raw/main/hg1.txt)
+
+---
+
+## 注意事项
+- 请确保复制正确的规则文件链接。
+- 如果需要帮助或建议，请提交 Issue 或联系开发者。
+
+---
+
+感谢您的支持！
