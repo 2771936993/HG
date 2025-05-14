@@ -1,4 +1,4 @@
-@海哥 # 海哥拦截规则
+海哥拦截规则
 
 **更新时间**：不定时更新  
 **稳定性**：更新频率较慢，但规则稳定可靠
@@ -14,7 +14,7 @@
 ## 文件说明
 - **已废弃文件**：`hg.txt`（不再更新）
 - **最新规则文件**：  
-  - [点击这里复制最新规则链接](https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt)
+  - [点击这里复制最新github规则链接](https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt)
 
 ---
 
@@ -23,7 +23,7 @@
   [https://github.com/2771936993/HG](https://github.com/2771936993/HG)  
 - **Gitee 仓库**：  
   [https://gitee.com/hgzsg_admin/HG.git](https://gitee.com/hgzsg_admin/HG.git)  
-  - [点击这里复制规则链接](https://gitee.com/hgzsg_admin/HG/raw/main/hg1.txt)
+  - [点击这里复制gitee规则链接](https://gitee.com/hgzsg_admin/HG/raw/main/hg1.txt)
 
 ---
 
