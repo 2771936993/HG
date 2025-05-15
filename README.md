@@ -16,6 +16,8 @@
 - **最新规则文件**：  
   - [点击这里复制最新github规则链接](https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt)
 
+  - [点击这里复制gitee规则链接](https://gitee.com/hgzsg_admin/HG/raw/main/hg1.txt)
+
 ---
 
 ## 仓库链接
