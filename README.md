@@ -16,16 +16,13 @@
 - **最新规则文件**：  
   - [点击这里复制最新github规则链接](https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt)
 
-  - [点击这里复制gitee规则链接](https://gitee.com/hgzsg_admin/HG/raw/main/hg1.txt)
-
 ---
 
 ## 仓库链接
 - **GitHub 仓库**：  
   [https://github.com/2771936993/HG](https://github.com/2771936993/HG)  
 - **Gitee 仓库**：  
-  [https://gitee.com/hgzsg_admin/HG.git](https://gitee.com/hgzsg_admin/HG.git)  
-
+没有了，官方说:平台不支持这种外链。
 ---
 
 ## 注意事项
