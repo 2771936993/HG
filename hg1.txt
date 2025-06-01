@@ -3,7 +3,7 @@
 ! This rules ad blocking, ad blocking only
 ! 规则链接地址
 ! Rules link address
-! https://gitee.com/hgzsg_admin/HG/raw/main/hg1.txt
+! 
 ! QQ：630814741
 ! 作者：海哥
 ! 全由海哥自己制作
