@@ -9,6 +9,90 @@
 ! 全由海哥自己制作
 
 
+@@||loc.map.baidu.com^
+#↑定位↑#
+@@||assets.woozooo.com^
+@@||36.156.169.71^
+||api2.gdapi2.com^
+@@||long.eqnsui.cn^
+||adsmartget.guangtuikeji.com^
+||as1.dcloud.net.cn^
+||apis.xayabx.com^
+||bkimg.cdn.bcebos.com^
+||pic9.iqiyipic.com^
+||qcwx.medproad.com^
+||image.uczzd.cn^
+||adtracker.adfunlink.com^
+||tr.medproad.com^
+||as2.dcloud.net.cn^
+||v4-lm.adukwai.com^
+||huichuan-mc.sm.cn^
+||ar2.dcloud.net.cn^
+||bac1.dcloud.net.cn^
+||bas1.dcloud.net.cn^
+||er.dcloud.net.cn^
+||jp.ad.gameley.com^
+||bar2.dcloud.net.cn^
+||lupic.cdn.bcebos.com^
+||telexrgram.cc^
+||hy993.tv^
+||qs920.cc^
+||i0k.cn^
+@@||frontier100-toutiao-hl.toutiaoapi.com^
+||77776666.cc^
+||tuchang.trafficmanager.net^
+||www.xx7691.cc^
+||www.016666x.cc^
+||pubsgppp.c1oudfront.com^
+||851777jj.cc^
+||103.231.15.143^
+||18.163.46.114^
+||103.246.244.129^
+||016871x.cc^
+||27.124.32.35^
+||134.122.133.68^
+||134.122.196.5^
+@@||ads.privacy.qq.com^
+#↑广告服务设置↑#
+@@||99375b853be1a877c382c871165862c2.oss-accelerate.aliyuncs.com^
+@@||mfunuevebimg1.sxjwwp.com^
+@@||newimgs02.whcmv.com^
+@@||2h4j.cfmjsm.com^
+||asd.xn--wcso9o10rgsl.com^
+||d32xso0qa9ju02.cloudfront.net^
+@@||cdn-msp3.jmapiproxy2.cc^
+||cnlogs.umeng.com^
+||utoken.umeng.com^
+@@||hjdh7.srksm.cn^
+@@||m8l8.fnxfpb.com^
+||m21.360ab.cn^
+||36.150.90.74^
+||117.187.203.34^
+||txdy.czrwe.com^
+||eapi.msxf.com^
+||crawlersdkapi.msxf.com^
+||abtest.msxf.com^
+||mmbiz.qpic.cn^
+||www.kaboss.cn^
+||wp.kaboss.cn^
+||cdbx.wxwsdl.cn^
+||3083602563.ahdohpiechei.com^
+||183.204.10.131^
+||vcl-lq-brain.ndcpp.com^
+||kzurl11.cn^
+||kzurl11.cn.cdn.dnsv1.com^
+||jssozdgq.sched.sma.tdnsstic1.cn^
+||inews.gtimg.com^
+||e6abbb5c.74067120.com^
+||g4e6dc1.cdn.74067120.com^
+||149.104.154.23^
+||149.104.154.22^
+||zbb.bbb.q2v8.pics^
+||ym456980.cc^
+||3377248c.app^
+||20.2.16.165^
+@@||static.geetest.com^
+||546390388389.dynamic-ip.jdcloudedge.com^
 ||b8888y831.vip^
 ||kzaizc9mdn.nmsaluw2404311.vip^
 ||bpngj20250060017mdn.nmlsigk475850223.mom^
@@ -74,7 +158,6 @@
 ||imgsa.baidu.com^
 ||img.looknewpoint.com^
 ||img.blkj58.com^
-||img.alicdn.com^
 ||cbu01.alicdn.com^
 ||apple-banana.oss-cn-shenzhen.aliyuncs.com^
 ||keji.coann500.top^
@@ -116,7 +199,7 @@
 ||77-100a7wjjfgg2onovgtn22saxcj4pw.deliv82slkamain.com^
 ||45.144.139.204^
 ||ae01.alicdn.com.danuoyi.alicdn.com^
-||74.226.208.51 (ttl=200)
+||74.226.208.51^
 ||swxfcpuq.bineap.com^
 ||154.93.100.47^
 ||23.225.104.34^
@@ -257,12 +340,10 @@
 ||conn.webpush.theengagelab.com^
 ||global-websis.api.engagelab.cc^
 ||114.119.189.26^
-||static.geetest.com^
 ||chalinhhhh.hftp666.com.w.kunlunpi.com^
 ||122.226.64.106^
 ||bolinhhhhhh.ifxs6c.com.w.kunlunpi.com^
 ||onglinhhhh.nmgdfwl.com.w.kunlunpi.com^
-||static.geetest.com.whjy.cdn.dnsv1.com^
 ||mb65wp01.sched.dma-dk.tdnsdl1.cn^
 ||122.246.26.92^
 ||183.131.191.219^
@@ -611,7 +692,6 @@
 ||1e509173.4jaw736jzv5d.com^
 ||1hz.web.hu2djz.7fw5q.com^
 ||1hz.web.hu2djz.nwa6a.com^
-||1j9tw456484q9xo7.aliyunddos0015.com^.
 ||20.2.1.217^
 ||20.2.117.230^
 ||20.2.8.84^
@@ -944,7 +1024,6 @@
 ||104.21.112.1^
 ||104.21.16.1^
 ||104.21.80.1^
-||104.21.64.1^
 ||104.21.96.1^
 @@||mjs.szaction.cc^
 @@||mjson.szaction.cc^
@@ -964,11 +1043,9 @@
 ||vqk14006.cc^
 ||h5static6.prmwye.com^
 ||223.109.4.245^
-||223.109.4.248^
 ||223.111.25.249^
 ||36.156.169.70^
 ||223.111.124.13^
-||36.156.169.71^
 ||8.142.145.157^
 ||47.92.71.224^
 ||xyp-n.kuiniuca.com^
@@ -1020,7 +1097,6 @@
 ||122.225.209.231^
 ||122.225.209.232^
 ||122.225.215.234^
-||122.225.216.231^
 ||122.225.217.228^
 ||13.224.222.31^
 ||13.224.222.40^
@@ -1079,7 +1155,7 @@
 ||46.149.203.153^
 ||46.149.203.154^
 ||47.242.187.5^
-||58.218.199.247
+||58.218.199.247^
 ||60.191.87.215^
 ||66.203.156.174^
 ||66.203.156.175^
@@ -1136,7 +1212,6 @@
 ||pg188.dk2.jhydns07.com^
 ||portal.ionewu.com^
 ||pub1.powershadow.com^
-||pw.mediav.com^
 ||qianlima.app^
 ||riskct.geetest.com^
 ||s-part-0045.t-0009.t-msedge.net^
@@ -1270,7 +1345,6 @@
 |mn.goumaoyuanny.com^
 |cbsipv4.shuzilm.cn^
 |dnms.getui.com^
-|c-gtc.getui.net^
 |earn-api.shengqu99.com^
 |d.szhaoju.com^
 |chahua-pic.china.com^
@@ -1290,7 +1364,6 @@
 |wsba.51y5.net^
 |ug.m.taobao.com^
 |mdad.cainiao.com^
-|shimo.im^
 |kv.stat.nearme.com.cn^
 |23.224.225.140^
 |23.224.225.142^
@@ -1480,7 +1553,6 @@
 |hthvip1902.com^
 |549htbet.com^
 |yaxin.fun^
-|loc.map.baidu.com^
 |zbb.bbb.x-je.pics^
 |hb7353.com^
 |tocwezsj.cc^
@@ -1720,7 +1792,6 @@
 |14.128.34.24^
 |ky88.tu66886688.cc^
 |cdnjs8888.com^
-|221.131.165.15
 |36.156.184.95
 |792ayvvcg0ve01yw705hmlhfayafwo.re4esbg8ijnhfdt5cd.qzhyqp.com^
 |dnse3.com^
@@ -2861,7 +2932,6 @@
 |cz446.7api.cn^
 |5.ngr2yui8.top^
 |qrlgtzny.tizkdnrh.xyz^
-|www.w3.org^
 |www.psd188.com^
 |yh.591zfw.com^
 |6f9tg.kaifu777.com^
@@ -4254,7 +4324,6 @@
 |ads-drcn.platform.hihonorcloud.com^
 |ads.cloud.huawei.com^
 |ads.juicyads.me^
-|ads.privacy.qq.com^
 |ads.service.kugou.com^
 |ads.umeng.com^
 |ads.v3mh.com^
@@ -4994,7 +5063,6 @@
 |cs.10jqka.com.cn^
 |csewkjy.cn^
 |csi.gstatic.com^
-|cstaticdun.126.net^
 |cstorage.pzqd3r.com^
 |ctobsnssdk.com^
 |ctr.hd.sohu.com^
@@ -5174,7 +5242,6 @@
 |dsgapp.xajtfwyxh.com^
 |dsp-kol.oss-cn-beijing.aliyuncs.com^
 |dsp.ads.umeng.com^
-|dsp.fcbox.com^
 |dsp.shenshiads.com^
 |dsp.xiaojukeji.com^
 |dsxy.jgpyedu.com^
@@ -5332,7 +5399,6 @@
 |fdfdsjfs7jbffd.com^
 |fdsfgyuj76.cn^
 |fe-static.hongsong.club^
-|fe-static.xhscdn.com^
 |fe-video-qc.xhscdn.com^
 |feconf.zhuanzhuan.com^
 |feedback-c.zijieapi.com^
@@ -5737,7 +5803,6 @@
 |huayi.top^
 |hub5pn.wap.sandai.net^
 |hub5pr.hz.sandai.net^
-|hugelog.fcbox.com^
 |huichuan.sm.cn^
 |huilongkj.^
 |hunggg.life^
@@ -6284,7 +6349,6 @@
 |line.txwlwwvv1314img.com^
 |line.txwlwwvvimg.com^
 |line1-h5-mobile-api.biligame.com^
-|line3-h5-mobile-api.biligame.com^
 |lingwu66.com^
 |link.233leyuan.com^
 |link.netease.im^
@@ -6993,7 +7057,6 @@
 |pic6.zhuanstatic.com^
 |pic640.weishi.qq.com^
 |pic8.iqiyipic.com^
-|picasso-static.xiaohongshu.com^
 |picshack.net^
 |piggy.xyz^
 |pinduoduo.*^
@@ -7068,7 +7131,6 @@
 |promotion-partner.kuaishou.com^
 |prt-newdev-stsdk.vivo.com.cn^
 |przy.8269.net^
-|ps.qhupdate.com^
 |pss.alicdn.com^
 |pt-my-api-ads0345-sdfk.siu5.com^
 |pt.clickdata.37wan.com^
@@ -7087,7 +7149,6 @@
 |pull-rtmp-l6-xg.ixigua.com^
 |pull-rtmp-l6.ixigua.com^
 |pull-stream3-live-ssl.a.88cdn.com^
-|pull-tsl-hs-spe-f5.douyinliving.com^
 |puruiwangluo.com^
 |push.10jqka.com.cn^
 |push.gifshow.com^
@@ -7509,7 +7570,6 @@
 |smsapp.cmoshlw.cn^
 |smsl8.cn^
 |snakeupload.tcsdzz.com^
-|sns-avatar-qc.xhscdn.com^
 |sns-img-qn.xhscdn.com^
 |sns.api.moji.com^
 |soagw-live-ssl.xunlei.com^
@@ -7614,7 +7674,6 @@
 |stun.ideasip.com^
 |stun.l.google.com^
 |stun.rapidnet.de^
-|stun.services.mozilla.com^
 |stun.syncthing.net^
 |stun.voipstunt.com^
 |stun.voipwise.com^
