@@ -12,7 +12,7 @@
 ---
 
 ## 文件说明
-- **已废弃文件**：`hg.txt`（不再更新）
+- **已废弃文件**：`hg.txt`（不再更新，🥰恶搞的可以添加，拦截com和cn网址）
 - **最新规则文件**：  
   - [点击这里复制最新github规则链接](https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt)
 
