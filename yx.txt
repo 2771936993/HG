@@ -1,11 +1,12 @@
-! æ­¤è§„åˆ™æ¸¸æˆæ‹¦æˆª
+! ´Ë¹æÔòÓÎÏ·À¹½Ø
 !This rule game intercepts, only intercepts games
-! è§„åˆ™é“¾æ¥åœ°å€
+! ¹æÔòÁ´½ÓµØÖ·
 ! Rules link address
-! QQï¼š630814741
-! ä½œè€…ï¼šæµ·å“¥
-! å…¨ç”±æµ·å“¥è‡ªå·±åˆ¶ä½œ
+! QQ£º630814741
+! ×÷Õß£ºº£¸ç
+! È«ÓÉº£¸ç×Ô¼ºÖÆ×÷
 
+||223.109.221.241^
 ||223.113.144.210^
 ||223.113.144.207^
 ||36.151.250.203^
@@ -235,7 +236,7 @@
 ||47.118.98.31^
 ||47.118.98.45^
 ||47.98.200.126^
-||47.99.179.165
+||47.99.179.165^
 ||47.99.191.200^
 ||58.216.99.26^
 ||58.218.215.101^
@@ -597,7 +598,7 @@
 ||uic.gamesafe.qq.com^
 ||m3ios.jgm.qq.com^
 @@||thirdqq.qlogo.cn^
-#â†‘å¤´åƒ#
+#¡üÍ·Ïñ#
 ||download.2.221234005.tc.gcloudgbs.com^
 ||download.949687666-1-1.gcloudsvcs.com^
 ||down.tyscyrj.qq.com^
@@ -655,7 +656,7 @@
 ||line3-log.biligame.net^
 ||mall.51haoka.shop^
 ||game.weixin.qq.com^
-#â†‘â†‘å¾®ä¿¡æœ‰äº›æ‰“ä¸å¼€å°±å…³é—­ä»–#
+#¡ü¡üÎ¢ĞÅÓĞĞ©´ò²»¿ª¾Í¹Ø±ÕËû#
 ||s11gatefumo.yyxxgame.com^
 ||fumocdn1.yyxxgame.com^
 ||fumoapi.yyxxgame.com^
@@ -926,7 +927,7 @@
 ||wap.cmpassport.com^
 ||log1.cmpassport.com^
 ||auth.wosms.cn^
-||daily.m.zzx9.cn
+||daily.m.zzx9.cn^
 ||downloadjl.ztgame.com.cn^
 ||apis.sdk.mobileztgame.com^
 ||5.0.4.e.0.8.f.0.2.7.5.a.7.3.0.c.1.1.5.5.4.3.d.5.2.6.a.8.9.0.4.2.ip6.arpa^
@@ -1158,7 +1159,7 @@
 ||ver.spaceparty.cn^
 ||channel.sdk.mobileztgame.com^
 ||openapi.music.163.com^
-##å®šä½##
+##¶¨Î»##
 @@||apilocate.amap.com^
 @@||dualstack-restapi.amap.com^
 @@||dualstack-logs.amap.com^
@@ -1361,7 +1362,6 @@
 ||tj3.mini1.cn^
 ||agg.mini1.cn^
 ||h5.mini1.cn^
-||operate.mini1.cn^$client='10.10.10.13'
 ||operate.mini1.cn^
 ||operate2cdn.mini1.cn^
 ||mdownload.mini1.cn^
@@ -1489,26 +1489,26 @@
 ||union.gdtimg.com^
 ||info.3g.qq.com^
 @@||i.gtimg.cn^
-!!ç™»å½•
+!!µÇÂ¼
 ||report.gamecenter.qq.com^
-||update1.dlied.qq.com
-||update5.dlied.qq.com
-||oth.str.mdt.qq.com
-||image.smoba.qq.com
-||game.qq.com
-||c.tdm.qq.com
-||chong.qq.com
-||mtcls.qq.com
-||tpns.qq.com
-||a.ssl.msdk.qq.com
-||control.mna.qq.com
-||szmg.qq.com
-||101.91.69.39
-||app.moba.qq.com
-||jsonatm.broker.tplay.qq.com
-||game.eve.mdt.qq.com
-||pingma.qq.com
-||cloudctrl.gclud.qq.com
+||update1.dlied.qq.com^
+||update5.dlied.qq.com^
+||oth.str.mdt.qq.com^
+||image.smoba.qq.com^
+||game.qq.com^
+||c.tdm.qq.com^
+||chong.qq.com^
+||mtcls.qq.com^
+||tpns.qq.com^
+||a.ssl.msdk.qq.com^
+||control.mna.qq.com^
+||szmg.qq.com^
+||101.91.69.39^
+||app.moba.qq.com^
+||jsonatm.broker.tplay.qq.com^
+||game.eve.mdt.qq.com^
+||pingma.qq.com^
+||cloudctrl.gclud.qq.com^
 ||ossweb-img.qq.com^
 ||gzhcos.qq.com^
 ||pvp.qq.com^
