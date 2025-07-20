@@ -9,44 +9,18 @@
 ! 全由海哥自己制作
 
 
-
-||upos-sz-mirrorcos.bilivideo.com^
-||https://^
-||upos-sz-static.bilivideo.com^
-||data.bilibili.com^
-||member.bilibili.com^
-||line1-log.biligame.net^
-||api.live.bilibili.com^
-||tf-i0.hdslb.com^
-||passport.bilibili.com^
-||api.vc.bilibili.com^
-||proxy-tf-all-ws.bilivideo.com^
-||show.bilibili.com^
-||app.biliapi.net^
-||app.biliapi.com^
-||proxy-tf-all-ws1.bilivideo.com^
-||i0.hdslb.com^
-||le3-api.game.bilibili.com^
-
-
-
 ||optimus-ads.ama^
 ||adashx.ut.amap.com^
 ||amdc.alipay.com^
 ||amdc.m.taobao.com^
-||upos-tf-all-hw.bilivideo.com^
-||upos-tf-all-tx.bilivideo.com^
 ||android.bugly.qq.com^
-||bfs-tf-all-bd.bilivideo.com^
 ||ilce.alicdn.com^
-||upos-tribe-static.bilivideo.com^
 ||ads.tencent.com^
 ||ad.tencent.com^
 ||ad.gt.qq.com^
 ||monitor.qq.com^
 ||report.qq.com^
 ||tajs.qq.com^
-||beacon.qq.com^
 ||szmmsns.qpic.cn^
 ||appcfg.v.qq.com^
 ||hw.flv.wxqcloud.qq.com^
