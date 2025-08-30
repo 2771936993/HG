@@ -1,4 +1,4 @@
-name: 同步多个文本文件（带版本和统计信息）
+name: 同步AdGuard规则文件（带统计信息）
 
 on:
   schedule:
@@ -23,10 +23,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests chardet
 
-      - name: 同步文件并添加元数据
+      - name: 同步文件并统计AdGuard规则
         run: |
           import requests
           import chardet
+          import re
           from requests.adapters import HTTPAdapter
           from urllib3.util.retry import Retry
           from datetime import datetime
@@ -40,6 +41,16 @@ jobs:
 
           success_count = 0
           error_messages = []
+
+          # AdGuard规则的正则表达式模式
+          # 匹配常见的AdGuard过滤规则格式
+          adguard_rule_pattern = re.compile(
+              r'^(\|{1,2}[^|]+\|{0,2}|@@\|{1,2}[^|]+\|{0,2}|'  # 基本域名过滤
+              r'\*[^*]+\*|@@\*[^*]+\*|'  # 通配符过滤
+              r'\/.*\/.*|@@\/.*\/.*|'  # 正则表达式过滤
+              r'\$([a-z-]+(=[^,]+)?(,[a-z-]+(=[^,]+)?)*)$'  # 选项修饰符
+              r')', re.IGNORECASE
+          )
 
           # 获取当前时间（北京时间）
           beijing_tz = datetime.utcnow().timestamp() + 8 * 3600  # UTC+8
@@ -74,13 +85,21 @@ jobs:
                               line.strip().startswith("! Total count:"))
                   ]
 
-                  # 统计规则数量（排除空行）
-                  rule_count = sum(1 for line in filtered_lines if line.strip())
+                  # 统计AdGuard规则数量（排除注释和空行）
+                  adguard_count = 0
+                  for line in filtered_lines:
+                      stripped_line = line.strip()
+                      # 跳过空行和注释行
+                      if not stripped_line or stripped_line.startswith(('!', '#')):
+                          continue
+                      # 检查是否符合AdGuard规则语法
+                      if adguard_rule_pattern.match(stripped_line):
+                          adguard_count += 1
 
                   # 构建元数据头部
                   header = [
                       f"! Version:    # 最后同步时间: {update_time} (北京时间)",
-                      f"! Total count: {rule_count}"
+                      f"! Total count: {adguard_count} (仅统计AdGuard规则)"
                   ]
 
                   # 组合新内容（头部 + 过滤后的内容）
@@ -89,13 +108,13 @@ jobs:
                   # 保存文件
                   with open(save_path, 'w', encoding='utf-8') as f:
                       f.write(new_content)
-                  print(f"文件已成功同步至 {save_path}，已添加版本信息和统计数据")
+                  print(f"文件已成功同步至 {save_path}，AdGuard规则数量: {adguard_count}")
                   success_count += 1
                   
               except Exception as e:
                   error_msg = f"同步 {url} 失败: {str(e)}"
                   print(error_msg)
-                  error_messages_messages.append(error_msg)
+                  error_messages.append(error_msg)
 
           # 如果有任何同步失败，输出错误信息
           if error_messages:
@@ -127,8 +146,9 @@ jobs:
           git add hg.txt hg1.txt yx.txt
           
           # 提交更改，无更改则不提交
-          git commit -m "自动同步多个文本文件并添加元数据 $(date +'%Y-%m-%d')" || echo "无更改需提交"
+          git commit -m "自动同步AdGuard规则文件 $(date +'%Y-%m-%d')" || echo "无更改需提交"
           
           # 推送更改到远程仓库
           git push
         # 如果你的默认分支是master，请将上面的"origin main"改为"origin master"
+    
