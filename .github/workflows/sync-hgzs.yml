@@ -51,6 +51,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add 1.txt  # 修改跟踪的文件路径
+          git add hg1.txt  # 修改跟踪的文件路径
           git commit -m "自动同步 http://hgzspj.51vip.biz/hg1.txt $(date +'%Y-%m-%d')" || echo "无更改需提交"
           git push
