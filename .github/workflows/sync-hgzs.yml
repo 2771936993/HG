@@ -1,4 +1,4 @@
-name: 同步多个文本文件
+name: 同步多个文本文件（带版本和统计信息）
 
 on:
   schedule:
@@ -23,12 +23,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests chardet
 
-      - name: 同步文件
+      - name: 同步文件并添加元数据
         run: |
           import requests
           import chardet
           from requests.adapters import HTTPAdapter
           from urllib3.util.retry import Retry
+          from datetime import datetime
 
           # 定义要同步的文件列表
           file_urls = [
@@ -39,6 +40,10 @@ jobs:
 
           success_count = 0
           error_messages = []
+
+          # 获取当前时间（北京时间）
+          beijing_tz = datetime.utcnow().timestamp() + 8 * 3600  # UTC+8
+          update_time = datetime.fromtimestamp(beijing_tz).strftime("%Y-%m-%d %H:%M:%S")
 
           # 创建带重试机制的session
           session = requests.Session()
@@ -61,16 +66,36 @@ jobs:
                   encoding = chardet.detect(response.content)['encoding'] or 'utf-8'
                   content = response.content.decode(encoding)
 
+                  # 过滤掉已存在的元数据行
+                  lines = content.splitlines()
+                  filtered_lines = [
+                      line for line in lines 
+                      if not (line.strip().startswith("! Version:") or 
+                              line.strip().startswith("! Total count:"))
+                  ]
+
+                  # 统计规则数量（排除空行）
+                  rule_count = sum(1 for line in filtered_lines if line.strip())
+
+                  # 构建元数据头部
+                  header = [
+                      f"! Version:    # 最后同步时间: {update_time} (北京时间)",
+                      f"! Total count: {rule_count}"
+                  ]
+
+                  # 组合新内容（头部 + 过滤后的内容）
+                  new_content = '\n'.join(header + filtered_lines)
+
                   # 保存文件
                   with open(save_path, 'w', encoding='utf-8') as f:
-                      f.write(content)
-                  print(f"文件已成功同步至 {save_path}")
+                      f.write(new_content)
+                  print(f"文件已成功同步至 {save_path}，已添加版本信息和统计数据")
                   success_count += 1
                   
               except Exception as e:
                   error_msg = f"同步 {url} 失败: {str(e)}"
                   print(error_msg)
-                  error_messages.append(error_msg)
+                  error_messages_messages.append(error_msg)
 
           # 如果有任何同步失败，输出错误信息
           if error_messages:
@@ -88,6 +113,22 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add hg.txt hg1.txt yx.txt  # 添加所有同步的文件
-          git commit -m "自动同步多个文本文件 $(date +'%Y-%m-%d')" || echo "无更改需提交"
+          
+          # 暂存本地更改
+          git stash
+          
+          # 拉取远程最新代码
+          git pull --rebase origin main
+          
+          # 恢复暂存的更改
+          git stash pop || echo "没有需要恢复的暂存内容"
+          
+          # 添加所有同步的文件
+          git add hg.txt hg1.txt yx.txt
+          
+          # 提交更改，无更改则不提交
+          git commit -m "自动同步多个文本文件并添加元数据 $(date +'%Y-%m-%d')" || echo "无更改需提交"
+          
+          # 推送更改到远程仓库
           git push
+        # 如果你的默认分支是master，请将上面的"origin main"改为"origin master"
