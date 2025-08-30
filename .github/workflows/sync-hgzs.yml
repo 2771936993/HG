@@ -1,0 +1,56 @@
+name: 同步 http://www.hgzs.host/1.txt
+
+on:
+  schedule:
+    # 每天 UTC 时间 0 点执行（北京时间 8 点）
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  sync-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码库
+        uses: actions/checkout@v4
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: 同步文件
+        run: |
+          import requests
+          import os
+
+          # 目标文件 URL
+          url = "http://www.hgzs.host/1.txt"
+          # 保存路径（修改为根目录下的 1.txt）
+          save_path = "1.txt"
+
+          try:
+              # 发送请求获取文件内容
+              response = requests.get(url, timeout=30)
+              response.raise_for_status()  # 检查请求是否成功
+
+              # 保存文件（根目录无需创建额外目录）
+              with open(save_path, 'w', encoding='utf-8') as f:
+                  f.write(response.text)
+              print(f"文件已成功同步至 {save_path}")
+          except Exception as e:
+              print(f"同步失败: {str(e)}")
+              exit(1)
+        shell: python {0}
+
+      - name: 提交更改
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add 1.txt  # 修改跟踪的文件路径
+          git commit -m "自动同步 http://www.hgzs.host/1.txt $(date +'%Y-%m-%d')" || echo "无更改需提交"
+          git push
