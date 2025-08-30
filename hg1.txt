@@ -50,15 +50,8 @@
 ||businesscard.e.kuaishou.com^
 ||zx01.cc^
 ||api.picopi.cn^
-||a.market.xiaomi.com^
-||app.market.xiaomi.com^
-||ad.mi^
-||ad.xiaomi^
-||tracking.miui.com^
-||data.mistat.xiaomi.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||ts.market^
-||www.taobao.com^
 ||sf0.market.xiaomi.com^
 ||tracking.miui.com^
 ||vd0.market.xiaomi.com^
