@@ -1,10 +1,10 @@
-! ´Ë¹æÔòÓÎÏ·À¹½Ø
+! æ­¤è§„åˆ™æ¸¸æˆæ‹¦æˆª
 !This rule game intercepts, only intercepts games
-! ¹æÔòÁ´½ÓµØÖ·
+! è§„åˆ™é“¾æ¥åœ°å€
 ! Rules link address
-! QQ£º630814741
-! ×÷Õß£ºº£¸ç
-! È«ÓÉº£¸ç×Ô¼ºÖÆ×÷
+! QQï¼š630814741
+! ä½œè€…ï¼šæµ·å“¥
+! å…¨ç”±æµ·å“¥è‡ªå·±åˆ¶ä½œ
 
 ||223.109.221.241^
 ||223.113.144.210^
@@ -598,7 +598,7 @@
 ||uic.gamesafe.qq.com^
 ||m3ios.jgm.qq.com^
 @@||thirdqq.qlogo.cn^
-#¡üÍ·Ïñ#
+#â†‘å¤´åƒ#
 ||download.2.221234005.tc.gcloudgbs.com^
 ||download.949687666-1-1.gcloudsvcs.com^
 ||down.tyscyrj.qq.com^
@@ -656,7 +656,7 @@
 ||line3-log.biligame.net^
 ||mall.51haoka.shop^
 ||game.weixin.qq.com^
-#¡ü¡üÎ¢ĞÅÓĞĞ©´ò²»¿ª¾Í¹Ø±ÕËû#
+#â†‘â†‘å¾®ä¿¡æœ‰äº›æ‰“ä¸å¼€å°±å…³é—­ä»–#
 ||s11gatefumo.yyxxgame.com^
 ||fumocdn1.yyxxgame.com^
 ||fumoapi.yyxxgame.com^
@@ -1159,7 +1159,7 @@
 ||ver.spaceparty.cn^
 ||channel.sdk.mobileztgame.com^
 ||openapi.music.163.com^
-##¶¨Î»##
+##å®šä½##
 @@||apilocate.amap.com^
 @@||dualstack-restapi.amap.com^
 @@||dualstack-logs.amap.com^
@@ -1489,7 +1489,7 @@
 ||union.gdtimg.com^
 ||info.3g.qq.com^
 @@||i.gtimg.cn^
-!!µÇÂ¼
+!!ç™»å½•
 ||report.gamecenter.qq.com^
 ||update1.dlied.qq.com^
 ||update5.dlied.qq.com^
