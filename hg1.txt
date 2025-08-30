@@ -1,12 +1,12 @@
-! ´Ë¹æÔò²»¶¨Ê±¸üĞÂ
+! æ­¤è§„åˆ™ä¸å®šæ—¶æ›´æ–°
 ! This rule does not regularly updated
 ! This rules ad blocking, ad blocking only
-! ¹æÔòÁ´½ÓµØÖ·
+! è§„åˆ™é“¾æ¥åœ°å€
 ! Rules link address
 ! 
-! QQ£º630814741
-! ×÷Õß£ºº£¸ç
-! È«ÓÉº£¸ç×Ô¼ºÖÆ×÷
+! QQï¼š630814741
+! ä½œè€…ï¼šæµ·å“¥
+! å…¨ç”±æµ·å“¥è‡ªå·±åˆ¶ä½œ
 
 
 
@@ -1041,7 +1041,7 @@
 ||static2.cuieyi.com^
 ||tj.aifqcp30718a.icu^
 @@||mmbiz.qpic.cn^
-#¡ü¹«ÖÚºÅÍ¼Æ¬¡ü#
+#â†‘å…¬ä¼—å·å›¾ç‰‡â†‘#
 ||uimwssm.com^
 ||uydkejwkbduvsonvidkhmgyqxlurjarb.qingchuan.org.w.cdngslb.com^
 ||uydkejwkbduvsonvidkhmgyqxlurjarb.qingchuan.org^
@@ -1062,7 +1062,7 @@
 ||ynz2pmb0sru7hl.lotencydecs.bqprwd.com^
 ||zexun208.top^
 @@||loc.map.baidu.com^
-#¡ü¶¨Î»¡ü#
+#â†‘å®šä½â†‘#
 @@||assets.woozooo.com^
 @@||36.156.169.71^
 ||api2.gdapi2.com^
@@ -1105,7 +1105,7 @@
 ||134.122.133.68^
 ||134.122.196.5^
 @@||ads.privacy.qq.com^
-#¡ü¹ã¸æ·şÎñÉèÖÃ¡ü#
+#â†‘å¹¿å‘ŠæœåŠ¡è®¾ç½®â†‘#
 @@||99375b853be1a877c382c871165862c2.oss-accelerate.aliyuncs.com^
 @@||mfunuevebimg1.sxjwwp.com^
 @@||newimgs02.whcmv.com^
@@ -1956,11 +1956,11 @@
 ||lf-leads-fe-scm.bytecdn.com^
 ||l.koolearn.com^
 @@||qiyukf.com^
-#¡ü¿Í·ş¶Ô»°#
+#â†‘å®¢æœå¯¹è¯#
 ||933900.com^
 ||qwertyui00577.shop^
 @@||d66-plat-solar.wsukwai.com^
-#¡üµÇÂ¼ÑéÖ¤#
+#â†‘ç™»å½•éªŒè¯#
 ||223.112.199.228^
 ||223.111.124.10^
 ||36.27.222.254^
@@ -2266,7 +2266,7 @@
 ||card.zhouyou360.com^
 ||applog.zijieapi.com^
 @@||thirdwx.qlogo.cn^
-#Í·Ïñ¡ü#
+#å¤´åƒâ†‘#
 |api.cid.tourenwang.com^
 |cn-api.anythinktech.com^
 |t7z.cupid.iqiyi.com^
@@ -2655,7 +2655,7 @@
 |gmscompliance-pa.googleapis.com^
 |rtawin.daikuan.360.cn^
 @@||aisubtitle.hdslb.com^
-#¡üßÙÁ¨ßÙÁ¨×ÖÄ»¡ü
+#â†‘å“”å“©å“”å“©å­—å¹•â†‘
 |mvp.cgdeuvip.com^
 |ele.daikuan.360.cn^
 |cdn.daikuan.360.cn^
@@ -2802,12 +2802,12 @@
 |dnse3.com^
 |uwlcxw.mentionee.uodbsly.com^
 |112.19.11.230
-#·ÖÆÚÀÖ
+#åˆ†æœŸä¹
 |www.fenqile.com^
 |opengw.xiaoying.com^
-#Ğ¡Ó®
+#å°èµ¢
 |cardloan.xiaoying.com^
-#¿ì´û
+#å¿«è´·
 |www.cdkuaidai.com^
 |sd-gl.xinqiucc.com^
 |1880923818.ietheivaicai.com^
@@ -3751,7 +3751,7 @@
 |_5688._https.ztpj74306.live^
 |tjj.03715.vip^
 @@||sharechain.qq.com^
-#qqÊÕ²Ø¡ü¡ü#
+#qqæ”¶è—â†‘â†‘#
 |zbb.bbb.aduw.pics^
 |69vvnstttaaa888.dzlndygh.com^
 |wvae69954.cc^
@@ -3879,7 +3879,7 @@
 |jx.cdn.qhstatic.com^
 |cq.4366aa.com^
 @@||www.n.cn^
-#360aiËÑË÷
+#360aiæœç´¢
 |www.bkevsr.cn^
 |www.5kq.0ghfxo.xyz^
 |w8f.hw766.top^
@@ -4221,7 +4221,7 @@
 @@||fe3cr.delivery.mp.microsoft.com^
 @@||fengduxiaoshuo.com^
 @@||film.video.qq.com^
-£¡¡ü¡üÌÚÑ¶ÊÓÆµÉè±¸¹ÜÀíÆ÷!
+ï¼â†‘â†‘è…¾è®¯è§†é¢‘è®¾å¤‡ç®¡ç†å™¨!
 @@||game-infoc.biligame.com^
 @@||game.eve.mdt.qq.com^
 @@||geiligeili.3haoquan.com^
@@ -4243,14 +4243,14 @@
 @@||hub5emu.sandai.net^
 @@||hub5pn.wap.sandai.net^
 @@||i.gtimg.cn^
-!¡ü¡üqq±íÇé°ü!
+!â†‘â†‘qqè¡¨æƒ…åŒ…!
 @@||img2.xiangbinjun.com^
 @@||img20.360buyimg.com^
 @@||incoming.telemetry.mozilla.org^
 @@||ini.update.360safe.com^
 @@||is.snssdk.com^
 @@||jhk-cdn-mampic.hismarttv.com^
-#º£ĞÅµçÊÓÓĞÏß¡ü
+#æµ·ä¿¡ç”µè§†æœ‰çº¿â†‘
 @@||jmcomic.one^
 @@||jscss.360buyimg.com^
 @@||kphm5nf3.m.chenzhongtech.com^
@@ -4293,7 +4293,7 @@
 @@||p1.ssl.qhimg.com^
 @@||p3.ssl.qhimg.com^
 @@||p66-pro.gskwai.com^
-!¡ü¡ü¿ìÊÖËÑË÷¡ü¡ü!
+!â†‘â†‘å¿«æ‰‹æœç´¢â†‘â†‘!
 @@||p9-open-sign.byteimg.com^
 @@||pages.tmall.com^
 @@||pan.quark.cn^
@@ -4309,7 +4309,7 @@
 @@||query.aliyun.com^
 @@||qurl.f.360.cn^
 @@||qzonestyle.gtimg.cn^
-£¡£¡qqÈº¹«¸æ¡ü
+ï¼ï¼qqç¾¤å…¬å‘Šâ†‘
 @@||reading.snssdk.com^
 @@||readstatic.zhulang.com^
 @@||report.qqweb.qq.com^
@@ -4348,7 +4348,7 @@
 @@||umcdn.uc.cn^
 @@||umwatson.events.data.microsoft.com^
 @@||unified-ter.hismarttv.com^
-#º£ĞÅµçÊÓÍ¼Æ¬¡ü
+#æµ·ä¿¡ç”µè§†å›¾ç‰‡â†‘
 @@||uosdk.biligame.com^
 @@||upload-as0.qbox.me
 @@||v1-vod.kwaicdn.com^
@@ -5535,7 +5535,7 @@
 |apollo.techgp.cn^
 |app-*.lp1.npns.srv.nintendo.net^
 |app-appstore.hismarttv.com^
-#µçÊÓÈí¼şÏÂÔØ
+#ç”µè§†è½¯ä»¶ä¸‹è½½
 |app-c01.lp1.npns.srv.n.nintendoswitch.cn^
 |app-center.cdn.bcebos.com^
 |app-kn0b2v.renrenjihua.com^
@@ -6495,7 +6495,7 @@
 |galaxy.safe.360.cn^
 |gallery.opgirl.cn^
 @@||galleryapi.micloud.xiaomi.net^
-#¡üĞ¡Ã×Ïà²á¸ß¼¶¹¦ÄÜÏÂÔØ¡ü#
+#â†‘å°ç±³ç›¸å†Œé«˜çº§åŠŸèƒ½ä¸‹è½½â†‘#
 |game-acc.qqbrowser.qq.com^
 |game-channel.gamed.kuaishou.com^
 |game.kuaishouzt.com^
@@ -7301,7 +7301,7 @@
 |lf3-reading.fqnovelstatic.com^
 |lf3-sf-be-pack-sign.pglstatp-toutiao.com^
 @@||lf3-short.ibytedapm.com^
-#¡üÍ·ÌõËÑË÷¡ü#
+#â†‘å¤´æ¡æœç´¢â†‘#
 |lf3-static.bytednsdoc.com^
 |lf6-ad-union-sdk.pglstatp-toutiao.com^
 |lf6-app-pkg-sign.bytesmanager.com^
