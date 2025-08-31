@@ -1,4 +1,4 @@
-! Version:    # 最后同步时间: 2025-08-30 17:10:07 (北京时间)
+! Version:    # 最后同步时间: 2025-08-31 09:01:57 (北京时间)
 ! Total count: 9734 (仅统计AdGuard规则)
 ! 此规则不定时更新
 ! This rule does not regularly updated
@@ -11,7 +11,7 @@
 ! 全由海哥自己制作
 
 
-
+||uvip3.com^
 ||apptg.zhonglianhuashu.com^
 ||v2-zj-zjun.kwaicdn.com^
 ||traffic-monitor.yximgs.com^
@@ -109,7 +109,6 @@
 ||lu7.cdn.lyfsp.cn^
 ||apilu7.cdn.lyfsp.cn^
 ||file.cdn.lyfsp.cn^
-||weather-server.allawntech.com^
 ||tougao.12371.cn^
 ||1.qaz138.xn--fiqs8s^
 ||w-1330371813.cos.ap-hongkong.myqcloud.com^
