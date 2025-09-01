@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-08-31 09:01:57 (北京时间)
-! Total count: 9734 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-09-01 09:08:28 (北京时间)
+! Total count: 9769 (仅统计AdGuard规则)
 ! 此规则不定时更新
 ! This rule does not regularly updated
 ! This rules ad blocking, ad blocking only
@@ -11,6 +11,44 @@
 ! 全由海哥自己制作
 
 
+||fnms.oss-cn-guangzhou.aliyuncs.com^
+||chat1.dx.cname.niyeys.cn^
+||831ym092.ftuju3.top^
+||ymad83jdksfx.dewmnjvus8d7.dafga1.com^
+||ldhfugftn.gzzm9y1.com^
+||qicheprintscreen.oss-cn-shanghai.aliyuncs.com^
+||file.cdn.gzthfs1.com^
+||831l153.6yrc3b.top^
+||jiuwan-2.cazcdz8fyag1.com^
+||m5a1k6.cc^
+||68be5006.38515875.com^
+||g25e07b.cdn.38515875.com^
+||qpappkf.emyzsg.com^
+||qpappkf.emyzsg.com.w.cdngslb.com^
+||eovo.wguecvps.cc^
+||eyluppfq.orionedg.com^
+||sessions.bugsnag.com^
+||778899xpj.cc^
+||777540.50822195.com^
+||888xm.cg.jkydns801.com^
+||g2c6beb.cdn.jkydns801.com^
+||xn--487-t28du2cm9hwtc0z4b3p0a1t2f.xn--4kq2d03bq04b7w0ahzbxx7a.xn--uis34aa41uba449a5fu38n5m2c1vn.com^
+||xn--487-t28du2cm9hwtc0z4b3p0a1t2f^
+||xn--4kq2d03bq04b7w0ahzbxx7a^
+||xn--uis34aa41uba449a5fu38n5m2c1vn.com^
+||gn.lidebo.com^
+||487dl3.com^
+||d1j4bjq42hezt5.cloudfront.net^
+||6rj8bf-1932-ppp.oss-accelerate.aliyuncs.com^
+||cn-hangzhou-ds-1009.oss-acc.aliyuncs.com^
+||notify.bugsnag.com^
+||kf.ccqczx.com^
+||kf.ccqczx.com.w.cdngslb.com^
+||487.fun^
+||487.tax^
+||487.games^
+||cn-shanghai-ds-1034.oss-acc.aliyuncs.com^
+||d188.rbread03.cn^
 ||uvip3.com^
 ||apptg.zhonglianhuashu.com^
 ||v2-zj-zjun.kwaicdn.com^
@@ -66,7 +104,7 @@
 ||apizwzwhzalh.work.stmkt238.com^
 ||058.00qvgt.top^
 ||as814r5.k70rrt.top^
-||xn--&versioncode=100000&versionname=1-er17c860cnwcm20pc91s.0&packagename=com.chuangliang^
+||xn--&versioncode=100000&versionname=1-er17c860cnwcm20pc91s.0&packagename=*^
 ||360mixup.com^
 ||strongwill100.com^
 ||techgeniuslink.com^
@@ -170,7 +208,6 @@
 ||mactivity.lenovo.com.cn^
 ||ecmb.bdimg.com^
 ||dss0.bdstatic.com^
-||tieba-ares.cdn.bcebos.com^
 ||lxcode.bs2cdn.yy.com^
 ||sdk-track.66mobi.com^
 ||kg-niferng.bfcsilp.com^
@@ -670,7 +707,6 @@
 ||104.18.7.145^
 ||104.18.6.145^
 ||mdehklink.gongzhonghaokefu.cn.w.cdngslb.com^
-||119.188.172.239^
 ||cr63-site-01.gocname.com^
 ||103.24.55.236^
 ||43.251.56.243^
@@ -685,7 +721,6 @@
 ||110.40.77.188^
 ||220.231.146.203^
 ||mdehkfiles.gongzhonghaokefu.cn.w.cdngslb.com^
-||119.188.172.237^
 ||ytsource-api.xjsspdcn.com^
 ||99.84.50.181^
 ||99.84.50.147^
