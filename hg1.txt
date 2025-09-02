@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-09-01 09:08:28 (北京时间)
-! Total count: 9769 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-09-02 08:58:48 (北京时间)
+! Total count: 9796 (仅统计AdGuard规则)
 ! 此规则不定时更新
 ! This rule does not regularly updated
 ! This rules ad blocking, ad blocking only
@@ -11,6 +11,37 @@
 ! 全由海哥自己制作
 
 
+
+||s3dljm.z.cjjd14.com^
+||sf3-pitaya-tos.pstatp.com^
+||s3drcn.z.cjjd14.com^
+||b0eydm.z.cjjd14.com^
+||qpt.qp54695.cc^
+||mzfhbzbr.qpd.kunkundun.com^
+||crt.sectigo.com^
+||crt.comodoca.com.cdn.cloudflare.net^
+||5900157.cc^
+||www.kgbd245.com^
+||insjs.qfbyjin6y1e3.com^
+||datpwznvucz1q.cloudfront.net^
+||m.tb.cn^
+||47v2.cc^
+||11t.my^
+||44t.my^
+||qpd.qp494610.cc^
+||pttmyvlv.qpd.kunkundun.com^
+||z6avbs2.6qjl8qif.com^
+||d3ibkbih91vhrr.cloudfront.net^
+||92n4vf.6qjl8qif.com^
+||d1htne1m7rgvpa.cloudfront.net^
+||i670dt.nhqbuhr5.com^
+||a48d7a3baeaba2a67.awsglobalaccelerator.com^
+||qp.bet^
+||qpd.qp791748.cc^
+||qpd.qp326014.cc^
+||qpd.qp129279.cc^
+||qpvip.bet^
+||img.qptpym.com^
 ||fnms.oss-cn-guangzhou.aliyuncs.com^
 ||chat1.dx.cname.niyeys.cn^
 ||831ym092.ftuju3.top^
@@ -8090,7 +8121,6 @@
 |plta.nt.app^
 |pltaoegle.com^
 |plus.migu.cn^
-|plx.meituan.com^
 |pm.7059078.com^
 |pm5n5lns.um2pcx.quest^
 |pmmtk-a.pinduoduo.com^
@@ -8349,7 +8379,6 @@
 |s.union.360.cn^
 |s.ycfema.xyz^
 |s.yd.qcloud.com^
-|s0.meituan.net^
 |s01.mifile.cn^
 |s02vbx.vfefdj.com^
 |s0fanxing.kugou.com^
@@ -9357,7 +9386,6 @@
 |www.dhgate.com^
 |www.douyin10010.cn^
 |www.douyu.com^
-|www.dpfile.com^
 |www.eanove.com^
 |www.easybots.cn^
 |www.ew3jd68.vip^
