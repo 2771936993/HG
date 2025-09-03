@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-09-03 08:55:07 (北京时间)
-! Total count: 9796 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-09-04 07:36:56 (北京时间)
+! Total count: 9800 (仅统计AdGuard规则)
 ! 此规则不定时更新
 ! This rule does not regularly updated
 ! This rules ad blocking, ad blocking only
@@ -11,7 +11,10 @@
 ! 全由海哥自己制作
 
 
-
+||abc.ciaab.xyz^
+||g1.vip0.cn^
+||crcok.cn^
+||www.shdhgwlj.cn^
 ||s3dljm.z.cjjd14.com^
 ||sf3-pitaya-tos.pstatp.com^
 ||s3drcn.z.cjjd14.com^
