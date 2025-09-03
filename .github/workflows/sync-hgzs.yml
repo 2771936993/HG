@@ -2,8 +2,8 @@ name: 同步AdGuard规则文件（带统计信息）
 
 on:
   schedule:
-    # 每天 UTC 时间 0 点执行（北京时间 8 点）
-    - cron: '0 0 * * *'
+    # 每7天 UTC 时间 0 点执行（北京时间 8 点）
+    - cron: '0 0 */7 * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
