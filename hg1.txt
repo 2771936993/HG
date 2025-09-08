@@ -1,9 +1,5 @@
-<<<<<<< Updated upstream
-! Version:    # 最后同步时间: 2025-09-04 07:36:56 (北京时间)
-=======
-! Version:    # 最后同步时间: 2025-09-04 07:37:10 (北京时间)
->>>>>>> Stashed changes
-! Total count: 9800 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-09-08 09:26:16 (北京时间)
+! Total count: 9854 (仅统计AdGuard规则)
 ! 此规则不定时更新
 ! This rule does not regularly updated
 ! This rules ad blocking, ad blocking only
@@ -14,7 +10,65 @@
 ! 作者：海哥
 ! 全由海哥自己制作
 
-
+||sfhwbuxh.qpd.kunkundun.com^
+||translate-cdn.xiangtatech.com.w.kunlunaq.com^
+||d2uhpu5fjdlxcj.cloudfront.net^
+||a2647f8f65f40461d.awsglobalaccelerator.com^
+||95c1eea2.74067120.com^
+||cluster70d31fdc.74067120.com^
+||clustercb3e14c1.00601015.com^
+||064ba71b.00601015.com^
+||m3m.qfbyjin6y1e3.com^
+||j680503.cc^
+||translate-cdn.xiangtatech.com^
+||jocr7u68ud.7uxokjaz.com^
+||hl327.frugz58cxkbs1.com^
+||woegxq.com^
+||zymdcscw7dcdsc9whsdcdh.aamcno.com^
+||yx.huimengcg.com^
+||imeclient.openspeech.cn^
+||h2c9ntfbrh9gw.v1d.pkoplink.com^
+||mcdn.yangkeduo.com^
+||y6lrm5fmqam21.v1d.pkoplink.com^
+||223.109.34.19^
+||live11-adapt.pddpic.com^
+||live12-adapt.pddpic.com^
+||live-adapt.pddpic.com^
+||liveplay04.pddpic.com^
+||liveplay.pddpic.com^
+||a9naypotnrs9z.v1d.pkoplink.com^
+||*.v1d.pkoplink.com^
+||*.jomoxc.com^
+||live04-adapt.pddpic.com^
+||funimg.pddpic.com^
+||funimg.pddpic.com.a.bdydns.com^
+||opencdnpddpic.jomodns.com^
+||*.pddpic.com^
+||maplocatesdksnapshot.dreport.meituan.net^
+||p5.d.meituan.net^
+||hk.pool.ntp.org^
+||access-credit.meituan.com^
+||httpdns.meituan.com^
+||public1.114dns.com^
+||maplocatesdksnapshot.d.meituan.net^
+||asia.pool.ntp.org^
+||open.kwaizt.com^
+||tw.pool.ntp.org^
+||catdot.dianping.com^
+||p0.meituan.net^
+||ecs-113-45-175-45.compute.hwclouds-dns.com^
+||sg.pool.ntp.org^
+||jp.pool.ntp.org^
+||dpmtpush.dianping.com^
+||config2.cmpassport.com^
+||ma-adx.ctrip.com^
+||cdn-zhulongfile.jdcloud.com^
+||anti-sdk-report.m.jd.com^
+||sdkfp.jd.com^
+||jvod.300hu.com^
+||aks.jdpay.com^
+||dns.jd.com^
+||vod.300hu.com^
 ||abc.ciaab.xyz^
 ||g1.vip0.cn^
 ||crcok.cn^
@@ -376,7 +430,6 @@
 ||galaxy.cdn.aiwork.360.cn^
 ||optimus-ads.ama^
 ||adashx.ut.amap.com^
-||amdc.m.taobao.com^
 ||android.bugly.qq.com^
 ||ilce.alicdn.com^
 ||ads.tencent.com^
@@ -4111,7 +4164,6 @@
 |tj.tyanw.cn^
 |www.66a0525.icu^
 |planconfig.openspeech.cn^
-|dimg04.c-ctrip.com^
 |852qw.com^
 |d2-yoda.a.kwimgs.com^
 |config-proxy.kwd.inkuai.com^
@@ -5591,7 +5643,6 @@
 |apijs1.gifshow.com^
 |apijs1.ksapisrv.com^
 |apijsv6.ksapisrv.com^
-|apimobile.meituan.com^
 |apisgame.iqiyi.com^
 |apiv2.douyucdn.cn^
 |apiv4-iyes.youku.com^
@@ -5699,7 +5750,6 @@
 |aw-mic.teeen.cn^
 |aw.kejet.net^
 |aweme-hl.snssdk.com^
-|awp-assets.meituan.net^
 |aww5.net^
 |ayxb.t4m.cn^
 |az1-api-idc.ksapisrv.com^
@@ -8142,7 +8192,6 @@
 |popup.browser.360.cn^
 |popup.safe.360.cn^
 |porkbun.com^
-|postreport.meituan.com^
 |pow.wandx5.cn^
 |pp.myapp.com^
 |ppdai.com^
