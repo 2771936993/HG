@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-09-29 09:24:25 (北京时间)
-! Total count: 9865 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-10-01 09:39:16 (北京时间)
+! Total count: 9847 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -25,7 +25,6 @@
 ||app.hnqiezi.com^
 ||api.996yx.com^
 ||ertwhdem.vscn.loveota.com^
-||box-collect.996hezi.com^
 ||box-collect.996hezi.com^
 ||forum-api.996hezi.com^
 ||user-api.996hezi.com^
@@ -98,7 +97,6 @@
 ||d1mvoy1pagoygb.cloudfront.net^
 ||test0007.jdbcdn.net^
 ||d2whvzls2fpx52.cloudfront.net^
-||bweb09.xsqzj.com.wswebcdn.com^
 ||d3nlgyoxcnj05i.cloudfront.net^
 ||ailiaotwo.lkie16161lneonhdhdcc.com^
 ||link002.lkie16161lneonhdhdcc.com^
@@ -398,7 +396,6 @@
 ||v.ac010.cn^
 ||4pn.cn^
 ||sfhwbuxh.qpd.kunkundun.com^
-||translate-cdn.xiangtatech.com.w.kunlunaq.com^
 ||d2uhpu5fjdlxcj.cloudfront.net^
 ||a2647f8f65f40461d.awsglobalaccelerator.com^
 ||95c1eea2.74067120.com^
@@ -731,9 +728,8 @@
 ||9c5bdf1c.58825279.com^
 ||g5d5b75.cdn.58825279.com^
 ||xjkf1.fsxuub.com.w.cdngslb.com^
-||h5api1.pzwh880.com.d82bf228.cdnhwcajk17.com^
+||d82bf228.cdnhwcajk17.com^
 ||hcdnwsa122.vip.foreign.global.cdnhwcajk17.com^
-||h5api.pzwh880.com.d82bf228.cdnhwcajk17.com^
 ||e5439cc5.58825279.com^
 ||44ffa403.58825279.com^
 ||jmy-pic.wejianzhan.com^
@@ -923,7 +919,6 @@
 ||62246003.com^
 ||www.dd7898.com^
 ||jttpiokjehagbnmnahag15.gxlndx.com^
-||h5static6.gt404h.com^
 ||download.nirmljn.com^
 ||static.zdgpza.com^
 ||38.22.92.59^
@@ -945,7 +940,7 @@
 ||58.243.181.238^
 ||jttpiokjehagbnmnahag15.gxlndx.com.9c6895ab.cdnhwcvix16.com^
 ||hcdnw101.sme.foreign.cdnhwcaoc115.cn^
-||h5static6.gt404h.com.d82bf228.cdnhwcvix16.com^
+||h5static6.gt404h.com^
 ||dataapi.top2fun.com^
 ||c.tobidad.cn^
 ||ucc.umeng.com^
@@ -1078,7 +1073,6 @@
 ||784d2962.hb4738.com.cname.scname.com^
 ||38.47.158.211^
 ||65.181.133.244^
-||h5api9.scyarui.com.d82bf228.cdnhwcajk17.com^
 ||hcdnwsa120.sme.foreign.global.cdnhwcaoc115.cn^
 ||157.0.3.28^
 ||119.167.174.48^
@@ -1602,7 +1596,6 @@
 ||183.204.10.131^
 ||vcl-lq-brain.ndcpp.com^
 ||kzurl11.cn^
-||kzurl11.cn.cdn.dnsv1.com^
 ||jssozdgq.sched.sma.tdnsstic1.cn^
 ||inews.gtimg.com^
 ||e6abbb5c.74067120.com^
@@ -2473,8 +2466,6 @@
 ||wd.602.com.volcgslb.com^
 ||conn001.al86989chatddfgfgbos.com^
 ||gcali.cdn.al86989chatddfgfgbos.com^
-||h5static7.prmwye.com.d82bf228.cdnhwcvix16.com^
-||ostatic2.url2cn.com.9c6895ab.cdnhwcvix16.com^
 ||20.2.249.50^
 ||23.97.74.74^
 ||20.189.76.42^
@@ -2485,7 +2476,6 @@
 ||8.219.74.72^
 ||25cz0t09jksa5qc1.aliyunddos0012.com^
 ||170.33.0.29^
-||h5static6.prmwye.com.d82bf228.cdnhwcvix16.com^
 ||43.245.198.239^
 ||172.67.170.199^
 ||zbb.bbb.mg8f.pics^
@@ -2625,7 +2615,6 @@
 ||galaxy991.com^
 ||999abc999abc.com^
 ||all.openinstall.com^
-||kunlunea.com^
 ||awsins.wetv92fc.com^
 ||xcdntp.vip^
 ||qbnbcdn.vip^
@@ -4656,7 +4645,6 @@
 ||*878wan-com-idvjkib.qiniudns.com^
 ||bieming8gg9.com^
 ||/7gq78s4ltrea/^
-||0.8.0.9.a.b.7.e.0.8.4.9.7.0.3.8.d.b.0.0.1.0.d.5.2.6.1.8.9.0.4.2.ip6.arpa^
 ||00028hg.com^
 ||000fg3al8qq3ur9dkepjsr798qbmlq11cera25f9vgjkql8qd7dfu6um.tt.x.bsgslb.cn^
 ||001.tscopy.cn^
@@ -4668,7 +4656,6 @@
 ||01112629.com^
 ||0118.xn--oqqx70cygbl82g.net^
 ||01391.sx^
-||017162.com^
 ||017162.com^
 ||img.yuwhehan.xyz^
 ||022022.cc^
@@ -5028,7 +5015,6 @@
 ||4m9.co^
 ||4rod.yjzb.tv^
 ||4wue.143.cc^
-||5.3.c.5.1.3.5.a.3.7.6.7.0.4.c.2.1.b.3.4.d.3.d.5.2.6.a.8.9.0.4.2.ip6.arpa^
 ||50.23.209.199^
 ||50d2557cbde5f1fe7041db723da8ebd63331ba59e82648fa.dlied1.cdntips.net^
 ||51.com^
@@ -5116,7 +5102,6 @@
 ||5m2.co^
 ||5m9.c0^
 ||5wm4.1156.com^
-||6.3.1.7.4.b.3.c.0.3.e.0.7.3.5.d.8.d.5.0.8.4.d.5.2.6.1.8.9.0.4.2.ip6.arpa^
 ||603.vip^
 ||60buyimg.com^
 ||61466wsmg.zltskq.com^
@@ -5368,18 +5353,18 @@
 ||H69.CC^
 ||HG321.CC^
 ||JK98.CC^
-||_12022._https.2022code.100uc.com^
-||_32303._https.www.hbty116.com^
-||_33337._https.1zzakf1yrrgczhphkluk8lfhsog65f6x.xyz^
-||_4210._https.www.946pk.com^
-||_5656._https.nq.xefb7ocy0hvqd.top^
-||_7878._https.tg.8vyv2z9mcpoyy.top^
-||_9000._https.5566.4466ccc4.com^
-||_9002._https.vip5.4466bb10.com^
-||_9003._https.vip.4466bb13.com^
-||_9006._https.vip6.4466kk4.com^
-||_9007._https.5566.4466ccc6.com^
-||_9020._https.vip2.4466bb9.com^
+||100uc.com^
+||hbty116.com^
+||1zzakf1yrrgczhphkluk8lfhsog65f6x.xyz^
+||946pk.com^
+||xefb7ocy0hvqd.top^
+||8vyv2z9mcpoyy.top^
+||4466ccc4.com^
+||4466bb10.com^
+||4466bb13.com^
+||4466kk4.com^
+||4466ccc6.com^
+||4466bb9.com^
 ||a.adtng.com^
 ||a.baoke-cn.com^
 ||a.etoote.com^
@@ -6261,8 +6246,7 @@
 ||d.uzfk0.vip^
 ||d.ydzy8.cc^
 ||d03f8t.xyz^
-||d1019.^
-||d1e3358f-c25898562ffa-0a0f820f-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.afdback.ppsimg.com^
+||afdback.ppsimg.com^
 ||d1zgr31h5fn13g.cloudfront.net^
 ||d20sqt9n4au3x.cloudfront.net^
 ||d21bx6i5pbupng.cloudfront.net^
@@ -6398,7 +6382,6 @@
 ||drpf-h55.proxima.nie.netease.com^
 ||drpf-l36.proxima.nie.netease.com^
 ||drs.wtzw.com^
-||ds-2075.^
 ||ds.sourl.cf^
 ||dsfhk1.xn--uit034inxb03y.com^
 ||dsfj5.cn^
@@ -7114,7 +7097,6 @@
 ||img.xn--nyw355ejle.com^
 ||img.yilanvaas.com^
 ||img.yugew.com^
-||img.yuwhehan.xyz^
 ||img.zgjfsim.com^
 ||img01.cheyuan.com^
 ||img1.18183.com^
