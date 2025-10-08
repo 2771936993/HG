@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-10-01 09:39:16 (北京时间)
-! Total count: 9847 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-10-08 09:21:53 (北京时间)
+! Total count: 9914 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,7 +10,80 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
+||163cn.tv^
+||dd7597.com^
+||didi8975.com^
+||rvdr6u.cc^
+||e2osb6.cc^
+||sdk.bbcfrbw.com^
+||qpappkf.gpmenco.com^
+||66399882.com^
+||hv277.kgaqwg739.com^
+||club.mupiysiv.cc^
+||anti448.cdn.anti8.net^
+||www.rbef596.com^
+||mdp-usertrace-cn.heytapdownload.com^
+||cdn-cq-2.gzhemera.com^
+||api-cq-cn.gzhemera.com^
+||obus-cn.dc.heytapmobi.com^
+||sy-static.hzwxbz3.cn^
+||hs.hzwxbz3.cn^
+||apithird.hzwxbz3.cn^
+||ir-sdk.dun.163.com^
+||h5.wanxinsy.cn^
+||m.ishangtong.com^
+||5k6x.cc^
+||vv68t.pweup.cn^
+||10y1d19m6z.m62hvi.top^
+||lucky.portal.rzmqd.cn^
+||3300bei2.cdn.51ddos.com^
+||3300bei2.cdn.*.com^
+||ate.cklou.com^
+||monkey.ygvyp.com^
+||77img.fhgjds.com^
+||static.wixstatic.com^
+||jd.nong08.com^
+||hdxyn954.com^
+||symbols.werie8eat4grae.com^
+||d3suhwpfbxbdmu.cloudfront.net^
+||jgf5fs.rongyihuizhu.com^
+||www.nxevzsd954.vip^
+||kcdwu1008.com^
+||vhsgerq-1fbnvza.ytcqwqxzivsj.com^
+||cover-al.bspprnz.com^
+||cover-al.bspprnz.com.w.kunlunaq.com^
+||88w.bgbfds.com^
+||xfg.gszczbzx.com.gccdn.net^
+||cck.ppkkll6655.com^
+||shg69y.com^
+||99mbh583.99636808.com^
+||ds99.img8341816451.com^
+||e2v38fds.cn888big.jsydns14.com^
+||62pqsjwa.jsydns14.com^
+||bbd.ppttd665533.com^
+||vg2qty.net^
+||rrxgghh986.com^
+||bsws112488.abftbd9xh.vip^
+||djqv8ngllpa78.cloudfront.net^
+||yyxsjshdkhd-6-2137516705.ap-east-1.elb.amazonaws.com^
+||xpj079cc08868comxpjggtz.589779.top^
+||d1cq301dpr7fww.cloudfront.net^
+||votea.1-278-xz-zeaycrfx.cc^
+||www.kgopn-72646.cc^
+||wwww.849ii899.vip^
+||hyl0625-2011853601.ap-southeast-1.elb.amazonaws.com^
+||a0702.ky308tc0702.vip^
+||bbllwr2676.9bgq8rvf64pe.com^
+||server-tx.cklou.com^
+||5hgjd.com^
+||www.tps2025.cc^
+||cdn-1024.edgecloud.buzz^
+||qzfyumkktd.sun-ecdn.com^
+||qzfyumkktd.edgescloud.org^
+||gcc.rbwljs.com^
+||tzsmtjq.cname55.com^
+||tzsmtjq.cname5.com^
+||mengxix.cn^
 ||p1-ad.gskwai.com^
 ||imp.vpquc9rn.com^
 ||portal.xunyou.mobi^
@@ -50,7 +123,6 @@
 ||ptom.caohua.com^
 ||api.feelgood.cn^
 ||v6-adashx.ut.taobao.com^
-||open.e.189.cn^
 ||qpd.qp548693.cc^
 ||3adxtalp.cloud.sqpd.opendun.com^
 ||156.234.1.130^
@@ -706,11 +778,9 @@
 ||it399.com^
 ||wxsnsdythumb.wxs.qq.com^
 ||wifi.senkeyou.cn^
-||vectorsdk.map.qq.com^
 ||opensdk.wlanbanlv.com^
 ||s3.map.gtimg.com^
 ||s2.map.gtimg.com^
-||overseactrl.map.qq.com^
 ||s0.map.gtimg.com^
 ||static.wesure.cn^
 ||inf-prdapi.wesure.cn^
@@ -5539,7 +5609,6 @@
 ||ai81y.com^
 ||aibaaiba.xyz^
 ||aidxd.top^
-||aisite.wejianzhan.com^
 ||ajcode.co^
 ||ajcode2.co^
 ||ajimg.com^
@@ -7887,7 +7956,6 @@
 ||news-img.lsttnews.com^
 ||news.10jqka.com.cn^
 ||news.m.liebao.cn^
-||news.qq.com^
 ||newsentry.qidian.com^
 ||nezha-bus-prod.qiliangjia.com^
 ||nfieldcn-interviewing-kap-webapp.nfieldcn.com^
@@ -8104,7 +8172,6 @@
 ||papi.look.360.cn^
 ||param.zuimeitianqi.com^
 ||partner.10046.mi.com^
-||passport.360.cn^
 ||passport.douyu.com^
 ||passport.voicecloud.cn^
 ||passport.yuanbaobaoxian.cn^
@@ -8746,7 +8813,6 @@
 ||storage.googleapis.com^
 ||storage.qiuyugame.com^
 ||store.is.autonavi.com^
-||store.steampowered.com^
 ||study-image.nos.netease.com^
 ||stuff.cdn.biddingx.com^
 ||stun.ekiga.net^
