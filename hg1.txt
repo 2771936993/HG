@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-10-08 09:21:53 (北京时间)
-! Total count: 9914 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-10-15 09:24:40 (北京时间)
+! Total count: 9954 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,48 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+
+
+||gyyd.n7d5a.com^
+||vedle.733994.xyz^
+||sm-static.gycss.cn^
+||fjhaegf35.trafficmanager.net^
+||js-cdn.trafficmanager.net^
+||hm-tjj.gycss.cn^
+||sm-api.gycss.cn^
+||zigv.3qj49.cyou^
+||config.edge.skype.com^
+||fguft.sjalipe.com^
+||zvsnkpqu.atvtkf.com^
+||urxnn.lnffwci.com^
+||7dfvswz9.atvtkf.com^
+||mrh0.cc^
+||yepbf1368.com^
+||www.zjnbesq1368.vip^
+||uiyerdsdf.lb54hon504ke.com^
+||xcdf2vbgty.zx.arcchiexpo.com^
+||fhuddvhddudd.hcfk510.com^
+||rg7f.cqhzgs.cn^
+||rg7f.cqhzgs.cn.eo.dnse5.com^
+||eyynz.geyueay.com^
+||fkcxxtns.esqxpjh.com^
+||695kwz7n.atvtkf.com^
+||efygmw8n.atvtkf.com^
+||sikelocci.com^
+||hutaojie.com^
+||pddugc.com^
+||file.ppfez.cn^
+||star.portal.ppfez.cn^
+||7skin.eysae.cn^
+||wsall.eysae.cn.gccdn.net^
+||qiytsgd.fyryaoh.com^
+||pantomimemailman.com^
+||api.bzxd.tv^
+||yldr-click.youxinhuyu.cn^
+||mops.kulekeji.com^
+||zz1.yirujs.com^
+||tysk.a.yximgs.com^
+||qs1470.cc^
 ||163cn.tv^
 ||dd7597.com^
 ||didi8975.com^
