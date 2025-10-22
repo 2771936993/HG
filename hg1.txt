@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-10-15 09:24:40 (北京时间)
-! Total count: 9954 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-10-22 09:27:52 (北京时间)
+! Total count: 9964 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,7 +11,21 @@
 # 全由海哥自己制作
 
 
-
+||apk.ccfffe.com^
+||app.adjust.com^
+||nvxea.mipewft.com^
+||nvxea.mokuylv.com^
+||ncgih.aikltww.com^
+||zbyfa.fcfkqqi.com^
+||gewge.sn.aqhmd.com^
+||2028345.com^
+||78d6.com^
+||mxo6.com^
+||qyu7.com^
+||2660.com^
+||43h9.com^
+||83h3.com^
+||75v3.com^
 ||gyyd.n7d5a.com^
 ||vedle.733994.xyz^
 ||sm-static.gycss.cn^
@@ -802,7 +816,6 @@
 ||ib-lq.snssdk.com^
 ||n98-v-readingvideo.qznovelvod.com^
 ||ads3-normal-lq.zijieapi.com^
-||mssdk3-normal-lq.zijieapi.com^
 ||n98-lf-cdn-tos-ncdn.bytegecko.com^
 ||lf-normal-gr-sourcecdn.bytegecko.com^
 ||lf6-cdn-tos.bytegeckoext.com^
@@ -1186,8 +1199,6 @@
 ||38.47.158.211^
 ||65.181.133.244^
 ||hcdnwsa120.sme.foreign.global.cdnhwcaoc115.cn^
-||157.0.3.28^
-||119.167.174.48^
 ||206.119.122.31^
 ||206.119.122.32^
 ||206.119.122.30^
@@ -2931,7 +2942,6 @@
 ||hcdnw122.vip.foreign^
 ||31004af7.cdnhwcggk22.com^
 ||seyouapp777.dqntwl.com^
-||cdnhwcaip122.cn^
 ||hcdnd101.sme^
 ||58.221.70.108^
 ||qkt38hg5.a906-mycdn.com.^
@@ -5788,7 +5798,6 @@
 ||api.zhuti.xiaomi.com^
 ||api2.srbs35.com^
 ||api3-normal-lf.fqnovel.com^
-||api3-normal-lq.toutiaoapi.com^
 ||api5-normal-lq.toutiaoapi.com^
 ||apiapm.gz4399.com^
 ||apidns.kwd.inkuai.com^
