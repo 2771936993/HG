@@ -1,9 +1,14 @@
 #放行单
 #只适合海哥规则
 
-
+@@||api5-normal-hl.toutiaoapi.com^
+@@||overseactrl.map.qq.com^
+@@||vectorsdk.map.qq.com^
+#↑qq地图#
+@@||allcdn.china.qiniu.qnydns.com^
+@@||h2.static.yximgs.com^
 @@||profile2.se.360.cn^
-@@llpbaccess.video.qq.com^
+@@||pbaccess.video.qq.com^
 @@||a.video.qq.com^
 @@||galleryapi.micloud.xiaomi.net^
 #↑小米相册高级功能下载↑#
