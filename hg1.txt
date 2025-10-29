@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-10-22 09:27:52 (北京时间)
-! Total count: 9964 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-10-29 23:38:56 (北京时间)
+! Total count: 10037 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,7 +10,87 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
+||fnbb.ns6jv.cyou^
+||ksflskjdhfjds.com^
+||app889.xyz^
+||voctn.oipjuwe.com^
+||tiscz.qkefnz.com^
+||uzaig.ccumq.com^
+||www.hppqhgh1368.vip^
+||0pikjmntgb.zx.erzvi.com^
+||jhnbcserty.rfgzr.com^
+||nqqpu1368.com^
+||iuwzd.eeyjo.com^
+||nvxea.cbriifw.com^
+||228k75uy.udspf.com^
+||rpckv378.udspf.com^
+||www.181.com^
+||www.11s.vip^
+||das.bairong.cn^
+||wz.link^
+||gateway-xadmin.dezhuyun.com^
+||w0.dezhuyun.com^
+||stat.dezhuyun.com^
+||www.usdt11.vip^
+||dtm19ijd3bnnh.cloudfront.net^
+||ffyd.ck6xg.com^
+||gyyd.6zane.com^
+||www.6zane.com^
+||game-img.gycdn0.com^
+||image.zhgsjy.com^
+||api.soiehwmbl.com^
+||kft.v3hv6.com^
+||dd7236.com^
+||msta.qiuxueyi.net^
+||www.apay888.com^
+||didi8875.com^
+||api.unisvg.com^
+||api.iconify.design^
+||17dbvz.lmca0l49.com^
+||d3qv4xkxmjgleu.cloudfront.net^
+||api.simplesvg.com^
+||91v111.com^
+||yh67599.com^
+||j2009.v4.ddos567.net^
+||9pg.3281925.cc^
+||nj5ferd9nb.38088068.cc^
+||wildcard.3281925.cc.scndsodns.net^
+||dbe3203f.july7cloud.net^
+||gdfsg611s.july7cloud.net^
+||zh5static1.yjhykt13.xyz^
+||zh5static1.lweddz12.xyz^
+||zh5static1.vlryzu11.xyz^
+||zh5capt9.dmxexg20.xyz^
+||ff3fe3d6.july7cloud.net^
+||18e5f9c4.july7cloud.net.^
+||bobobbbooa.july7cloud.net^
+||9pgh5.cprkj.top^
+||9pgh5.cprkj.top.klchemicals.net^
+||9pgh5.cprkj.top.gccdn.net^
+||9PG.app^
+||9pjsoncty.miliwenhua.xyz^
+||9pjsoncty.miliwenhua.xyz.klchemicals.net^
+||9pjsoncty.miliwenhua.xyz.gccdn.net^
+||www.xsnu227.com^
+||dev-oss-saas.wemew.com^
+||1025ly119.lypuzif1.top^
+||734ifv32.top^
+||wcnmes.wns.kokol.site^
+||t8v.eus^
+||t.siemens.com.cn^
+||yady.pumcy.cn^
+||gjtu.ccbxwlh.com^
+||mdp-appconf-cn.heytapdownload.com^
+||ug.pangolin-dsp-toutiao.com^
+||ssp.maplehaze.cn^
+||uapi.ads.heytapmobi.com^
+||grs.dbankcloud.com^
+||clientlognew.hzage.cn^
+||63zd2.bnbdk.cn^
+||1021cm027.gohoib.top^
+||odswwsk.fyryaoh.com^
+||t.duolesj.com^
+||game.duolegame.com.cn^
 ||apk.ccfffe.com^
 ||app.adjust.com^
 ||nvxea.mipewft.com^
@@ -784,7 +864,6 @@
 ||43.161.227.23^
 ||51889.com.cn^
 ||xtol.pptnt.cn^
-||gw.alipayobjects.com^
 ||api-p3.mobsurl.com^
 ||api-p1.mobsurl.com^
 ||mum.alibabachengdun.com^
@@ -2667,7 +2746,6 @@
 ||122.225.209.230^
 ||122.225.209.231^
 ||122.225.209.232^
-||122.225.217.228^
 ||13.224.222.31^
 ||13.224.222.40^
 ||13.224.222.56^
@@ -5888,7 +5966,6 @@
 ||array803.prod.do.dsp.mp.microsoft.com^
 ||array812.prod.do.dsp.mp.microsoft.com^
 ||article.biliimg.com^
-||article.zlink.toutiao.com^
 ||as-aw-mt.teeen.cn^
 ||as.mgtv.com^
 ||as.mobo168.com^
@@ -6169,7 +6246,6 @@
 ||cdn.poizon.com^
 ||cdn.qingsongchou.com^
 ||cdn.sohucs.com^
-||cdn.staticfile.org^
 ||cdn.upupnc.cn^
 ||cdn.xjietiao.com^
 ||cdn.yansong.biz^
@@ -7362,7 +7438,6 @@
 ||jsiosapp.com^
 ||jsmov3.a.yximgs.com^
 ||jsqcmmov.a.etoote.com^
-||jstatic.3.cn^
 ||jstm2m.cn^
 ||jsvmkcpnpnbepp.cccsccn.com^
 ||jsw.jshionline.cn^
@@ -7842,10 +7917,9 @@
 ||media.9game.cn^
 ||media.novel.hnyxa.cn^
 ||meitegou.com^
-||mem62svkmdgmg6folm5ocn5md0itlhfhjkpu9ev0ukkeovk6pl6vv5d1.tt.x.bsgslb.cn^
+||*.x.bsgslb.cn^
 ||member.shouji.360.cn^
 ||mercury-sdk.snssdk.com^
-||mermaid.ximalaya.com^
 ||meteorology.caiyuncdn.com^
 ||metrics-collector.xaidc.com^
 ||mewower.nltug.com^
@@ -8763,7 +8837,6 @@
 ||sky.czghjt.com^
 ||sl89pj.com^
 ||slavedns.123ths.com^
-||slb-p2p.vcloud.ks-live.com^
 ||slink.gifshow.com^
 ||sljxsl.com^
 ||smokearttattoo.com^
@@ -9623,7 +9696,6 @@
 ||www.vgb1.com^
 ||www.videoxns.com^
 ||www.vketrip.com^
-||www.vod.lxdns.com^
 ||www.w32ss.com^
 ||www.wechat.com^
 ||www.weiguanjiaoyu.com^
