@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-10-29 23:38:56 (北京时间)
-! Total count: 1566 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-11-01 16:14:51 (北京时间)
+! Total count: 1578 (仅统计AdGuard规则)
 ! 此规则游戏拦截
 !This rule game intercepts, only intercepts games
 ! 规则链接地址
@@ -8,6 +8,20 @@
 ! 作者：海哥
 ! 全由海哥自己制作
 
+
+
+||www.yjwujian.cn^
+||www.dota2.com.cn^
+||yz.q1.com^
+||lostark.qq.com^
+||mhyy.mihoyo.com^
+||xyq.163.com^
+||tl.changyou.com^
+||jx3.xoyo.com^
+||quan.ez2q5.cn^
+||lol.qq.com^
+||pubg.qq.com^
+||bns.qq.com^
 ||store.steampowered.com^
 ||223.109.221.241^
 ||223.113.144.210^

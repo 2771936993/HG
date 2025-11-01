@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-10-29 23:38:56 (北京时间)
-! Total count: 10037 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-11-01 16:14:51 (北京时间)
+! Total count: 10135 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,124 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+
+
+
+
+||c8s0.icu^
+||3f29b6e0.scx1k68t.top^
+||0614689.h4sud3rr4pmu.com^
+||sdk.fpkhzns.cn^
+||idysov9tzve4.nbjd7we8hghg.boxin2060.com^
+||dawt856.com^
+||rbef596.com^
+||urthsdgdr45-1292969767.ap-northeast-2.elb.amazonaws.com^
+||lopowi.bfu7383627.xin^
+||app.859206.cn^
+||repository.certum.pl^
+||ascgkwiw.orgshoqbhdayvvx.top^
+||dfstwfgw31-2031730983.ap-northeast-2.elb.amazonaws.com^
+||prod-agic-je-3.japaneast.cloudapp.azure.com^
+||s4stf.bppcrtptxynuxusd.in^
+||3bn4tq1yuec-1542061580.ap-northeast-2.elb.amazonaws.com^
+||vuieuo.aaw8989124.click^
+||dsbeglyl.buqyqxguxjxpkeq.top^
+||1188at-55-9678337.ap-northeast-2.elb.amazonaws.com^
+||ojfbzvkw.uicgsnocwjsmlfv.top^
+||jsah1figs3d-1710039116.ap-northeast-2.elb.amazonaws.com^
+||zzzx1-862777969.ap-east-1.elb.amazonaws.com^
+||qhlevgvm.ghopcmvpcuzpaes.top^
+||nzv0v.vqwjucmfdsqznfn.in^
+||kqwmg608.com^
+||www.bjdtvuw608.vip^
+||uytreasdfghj.zx.erzvi.com^
+||ertmgvvrty.rfgzr.com^
+||xxzzxx.s3.ap-southeast-1.amazonaws.com^
+||ncfqakct.kglzebwetwabjkq.top^
+||wgkff.vqwjucmfdsqznfn.in^
+||ailiaoone.lkie16161lneonhdhdcc.com^
+||link001.lkie16161lneonhdhdcc.com^
+||www.7906.com^
+||xn--boqu4f28rbg3a.79066.vip^
+||www.k88043.com^
+||3s.hqvai.com^
+||d255f030.theedgeplus.com^
+||gd024df.cdn.theedgeplus.com^
+||imff.lajjfnjclshf.com^
+||ab.efjkva.com^
+||91a2c0front-wc.jandemetal.com^
+||ab.efjkva.com.eo.dnse4.com^
+||api.tw06.xlmc.sec.miui.com^
+||91a2c0front-wc.ywv2m.com^
+||91a2c0front.airuig.com^
+||pff.org.ph^
+||widget.acceptance.elegro.eu^
+||ips2.io^
+||z0rx7ywp-1084468291.ap-northeast-2.elb.amazonaws.com^
+||wgrvxnl.yytivlczxixhub.top^
+||38umh.xxtdjfxeumgvgr.in^
+||d2a57fx6t6lc5e.cloudfront.net^
+||xin365.com^
+||wkdo-571178910.ap-northeast-1.elb.amazonaws.com^
+||5x7fjwz1-201548151.ap-northeast-1.elb.amazonaws.com^
+||european-eel.yingt.fun^
+||doh.365fm.cc^
+||cstaticdun.126.net^
+||j-raw.imglok412nt.com^
+||ipwho.is^
+||gwmeeyn.yytivlczxixhub.top^
+||xin365ww.com^
+||qtybnm.aaw8989124.click^
+||vin.365hl.vip^
+||vioa.365bcg.com^
+||instv2558.com^
+||insaws.qa5x7jnwcp.com^
+||www.tk.cn^
+||www.uxmum.top^
+||kjbuebs.hhcdnfly58.com^
+||svmpd640.com^
+||www.tejcdxy640.vip^
+||dtyuioiuy.zx.erzvi.com^
+||kytrsdfg5rty.rfgzr.com^
+||chunyao1.hjv7w.cc^
+||csawcxx.mipewft.com^
+||a5asa.cqhzgs.cn^
+||a5asa.cqhzgs.cn.eo.dnse5.com^
+||182871.com^
+||content-autofill.googleapis.com^
+||picture.vjc998889.top^
+||rpncdkz5.com^
+||mmyppsz7.com^
+||twxmvuz8.com^
+||ucihyrz3.com^
+||dytfwtz6.com^
+||emzlbkz9.com^
+||erygqwz1.com^
+||gyyd.du96n.com^
+||u6jz2xog.ckmhw.com^
+||cc880514.xcdngyb.vip^
+||az4-upload-js.gifshow.com^
+||d2.qjsalib.com^
+||d2.qjsalia.com^
+||hdns.k-dyn.com^
+||apisnd.heytapmobi.com^
+||ug-earning-yoda-pkg-solor.kwd.inkuai.com^
+||ib.snssdk.com^
+||www.vod.lxdns.com^
+||live-fe-activity-solar.kwd.inkuai.com^
+||rjx.yltnlbh.xyz^
+||rwvk.jianghuledao.com^
+||didi9367.com^
+||v2-zj-zjct.kwaicdn.com^
+||htms.heytapmobi.com^
+||openapi-slp.heytapmobi.com^
+||315.wefaceapp.com^
+||sb.caonima.cn^
+||p2-plat.wsukwai.com^
+||p66-live.ndcjl.com^
+||p4-ec.ecukwai.com^
+||api.cdo.oppomobile.com^
+||pushjs.ksapisrv.com^
 ||fnbb.ns6jv.cyou^
 ||ksflskjdhfjds.com^
 ||app889.xyz^
@@ -532,7 +650,6 @@
 ||zx6s3.cqhzgs.cn.eo.dnse5.com^
 ||ghdviw.com^
 ||rumt-zh.com^
-||qzone.qq.com^
 ||daylk.fckfyu.com^
 ||alldomain.fckfyu.com.a.bdydns.com^
 ||fiynk.aoshl.com^
@@ -1248,8 +1365,6 @@
 ||101.66.162.109^
 ||156.251.151.177^
 ||156.251.151.178^
-||194.53.53.246^
-||194.53.53.10^
 ||d1e8uyed5jj9tz.cloudfront.net^
 ||3.164.143.95^
 ||3.164.143.125^
@@ -1559,10 +1674,6 @@
 ||213.176.43.238^
 ||213.176.44.166^
 ||213.176.84.190^
-||221.130.128.76^
-||221.130.128.77^
-||221.130.18.174^
-||221.130.18.205^
 ||2219104fd797b2d2axg.4gedub.com^
 ||2221mc.4vs3tm.com^
 ||222db6f06881caaa7xc.51dxxv.com^
@@ -6193,8 +6304,6 @@
 ||ccxiangsw.mmead.xyz^
 ||cd-user-upload.hongsong.club^
 ||cddp-track.aligames.com^
-||cdn-02.g52j7.com^
-||cdn-04.g52j7.com
 ||cdn-ad.wtzw.com^
 ||cdn-adn-https-new.rayjump.com^
 ||cdn-api-verify.hiaiabc.com^
@@ -8227,7 +8336,6 @@
 ||p.jzdgn.cn^
 ||p.l.qq.com^
 ||p1-ad.adbkwai.com^
-||p1-ad.adkwai.com^
 ||p1-ff.adkwai.com^
 ||p1-jx.adukwai.com^
 ||p1-kp.adkwai.com^
@@ -8238,11 +8346,9 @@
 ||p1-web.adkwai.com^
 ||p1-yx.adkwai.com^
 ||p1-yxjz.adbkwai.com^
-||p1.bdxiguaimg.com^
 ||p1.eckwai.com^
 ||p1.ssl.qhimgs3.com^
 ||p2-ad.adbkwai.com^
-||p2-ad.adkwai.com^
 ||p2-jx.adkwai.com^
 ||p2-jx.adukwai.com^
 ||p2-lm.adukwai.com^
@@ -8528,7 +8634,6 @@
 ||r.99wanyou.com^
 ||r.kukuinfo.com^
 ||r0b.cn^
-||r11.realme.net^
 ||r3.i.lencr.org^
 ||r3vt1uz.top^
 ||r4.gs^
@@ -8651,7 +8756,6 @@
 ||s3-fe-scm.pglstatp-toutiao.com^
 ||s3.bmp.ovh^
 ||s3.doneme.xyz^
-||s3.pstatp.com^
 ||s3a.bytecdn.cn^
 ||s3a.pstatp.com^
 ||s3m.mediav.com^
@@ -9999,8 +10103,6 @@
 ||zh.sugar.xxx^
 ||zh3.anyuqinggan.com^
 ||zhangchi.work^
-||zhanzhang.baidu.com^
-||zhanzhang.toutiao.com^
 ||zhenai.com^
 ||zhipu-static.oss-cn-shanghai.aliyuncs.com^
 ||zhipuaishengchan.datasink.sensorsdata.cn^
