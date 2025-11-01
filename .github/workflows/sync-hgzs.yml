@@ -144,7 +144,7 @@ jobs:
           git stash pop || echo "没有需要恢复的暂存内容"
           
           # 添加所有同步的文件
-          git add hg.txt hg1.txt yx.txt
+          git add hg.txt hg1.txt hg2.txt yx.txt
           
           # 提交更改，无更改则不提交
           git commit -m "自动同步AdGuard规则文件 $(date +'%Y-%m-%d')" || echo "无更改需提交"
@@ -152,4 +152,3 @@ jobs:
           # 推送更改到远程仓库
           git push
         # 如果你的默认分支是master，请将上面的"origin main"改为"origin master"
-    
