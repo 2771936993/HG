@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ! Version:    # 最后同步时间: 2025-11-01 16:14:51 (北京时间)
+=======
+! Version:    # 最后同步时间: 2025-11-01 16:17:54 (北京时间)
+>>>>>>> Stashed changes
 ! Total count: 10135 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
