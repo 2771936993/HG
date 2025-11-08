@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-11-01 16:24:32 (北京时间)
-! Total count: 10135 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-11-08 09:23:25 (北京时间)
+! Total count: 10142 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,10 +10,20 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
-
-
-
+||jits5.heytapdownload.com^
+||report-sy.adview.cn^
+||static.xcultur.com^
+||sdk.adx.adwangmai.com^
+||yzk.ink^
+||log.voicecloud.cn^
+||8jjj.vvvivi.com^
+||1pditvc4.asiikc.yunjiasu888.com^
+||download.ew.changyan.com^
+||wens.wnsclk.wokui.icu^
+||rydd.vzliz.cn^
+||web-o88h4i.openinstall.com^
+||2028352.com^
+||2028243.com^
 ||c8s0.icu^
 ||3f29b6e0.scx1k68t.top^
 ||0614689.h4sud3rr4pmu.com^
@@ -1299,7 +1309,6 @@
 ||490567.xyz^
 ||imp.voiceads.cn^
 ||lf-sourcecdn-tos.bytegecko.com^
-||ahdohpiechei.com^
 ||tsis.jpush.cn^
 ||ehyv.zknka.cyou^
 ||w8k102.uxjortw.com^
@@ -1905,7 +1914,6 @@
 ||www.kaboss.cn^
 ||wp.kaboss.cn^
 ||cdbx.wxwsdl.cn^
-||3083602563.ahdohpiechei.com^
 ||183.204.10.131^
 ||vcl-lq-brain.ndcpp.com^
 ||kzurl11.cn^
@@ -5897,7 +5905,6 @@
 ||animal-graylog.happyelements.cn^
 ||ant.pingan.com.cn^
 ||anwang.ntd4j0b1.top^
-||aod.cos.tx.xmcdn.com^
 ||apd-vlive.apdcdn.tc.qq.com^
 ||aphone_pv_log.kltb.com.cn^
 ||api-access.pangolin-sdk-toutiao-b.com^
@@ -6171,7 +6178,6 @@
 ||bifrost.oddin.gg^
 ||bigdatacloud.net^
 ||bignqzm.cn^
-||biligame.net^
 ||bimariobot.com^
 ||binfenli.cn^
 ||biz-live-ssl.xunlei.com^
@@ -6684,7 +6690,6 @@
 ||dq.10jqka.com.cn^
 ||dq2jd.cc^
 ||drfm.yl.vip^
-||drpf-h55.proxima.nie.netease.com^
 ||drpf-l36.proxima.nie.netease.com^
 ||drs.wtzw.com^
 ||ds.sourl.cf^
@@ -7113,8 +7118,6 @@
 ||h5.xiaoshuo.xmtyq.com^
 ||h5.zhumengxinxi.top^
 ||h5.zkydib.com^
-||h55.gph.netease.com^
-||h55.update.netease.com^
 ||h5dl.pcdn.xmcdn.com^
 ||h5hosting.dbankcdn.com^
 ||h5shuo.com^
