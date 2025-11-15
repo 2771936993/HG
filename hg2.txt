@@ -1,8 +1,12 @@
-! Version:    # 最后同步时间: 2025-11-08 09:23:25 (北京时间)
-! Total count: 273 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-11-15 09:26:18 (北京时间)
+! Total count: 274 (仅统计AdGuard规则)
 #放行单
 #只适合海哥规则
 
+
+
+@@||cleaner.magicalstory.top^
+#↑安卓清理君#
 @@||r11.realme.net^
 #↑真我社区图片#
 @@||p1.bdxiguaimg.com^

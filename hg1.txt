@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-11-08 09:23:25 (北京时间)
-! Total count: 10142 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-11-15 09:26:18 (北京时间)
+! Total count: 10182 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,50 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+||line3-h5-mobile-api.biligame.com^
+||da.mmarket.com^
+||api.vc.bilibili.com^
+||api.nike.com.cn^
+||bp.cdszi.cn^
+||sycme.sys.nagbn.cn^
+||yes-file.uc.cn^
+||gsuxh640.com^
+||ajhfjfsf3s3.gidowlqwo.cupddns01.com^
+||www.afevbpy640.vip^
+||casmf.mipewft.com^
+||sfpyh1368.com^
+||vfxwwgn.hnkill.com^
+||only-347057-36-21-204-27.nstool.zhuanzfx.com^
+||c.nstool.ntes53.netease.com^
+||a.nstool.ntes53.netease.com^
+||nstool.netease.com^
+||ip.lx.netease.com^
+||b.nstool.ntes53.netease.com^
+||mam.netease.com^
+||fl.reg.163.com^
+||gorgon.youdao.com^
+||ynote-dynamic-dispatch.lx.netease.com^
+||k8isr.bdjkk.cn^
+||wsall.bdjkk.cn.gccdn.net^
+||jwceto.bfhlk.cn^
+||146.xrnoy.top^
+||cnlogs.umengcloud.com^
+||silk.lx.netease.com^
+||static.mddlsa.com^
+||cn-tk.anythinktech.com^
+||dmp-exposure.xdmssp.com^
+||api.ssp.xcultur.com^
+||cap-rta-toc.wldmarket.com^
+||mon.snssdk.com^
+||ice-stunserver.xdrtc.com^
+||ice-stunserver-v6.xdrtc.com^
+||665818032.ahdohpiechei.com^
+||lf6-vccdn.ndcpp.com^
+||lf3-vccdn.ndcpp.com^
+||n98-lf9-dy-ncdn-tos-sub.bytegecko.com^
+||tsconfigserver-cdn.xiangtatech.com^
+||bbmjs.jiyuantown.com^
+||dd7896.com^
 ||jits5.heytapdownload.com^
 ||report-sy.adview.cn^
 ||static.xcultur.com^
@@ -1718,7 +1762,6 @@
 ||3.173.209.90^
 ||3.173.209.93^
 ||36.150.211.114^
-||36.150.235.82^
 ||36.156.184.97^
 ||36.158.247.176^
 ||36.158.247.185^
@@ -2405,7 +2448,6 @@
 ||108.156.144.19^
 ||108.156.144.31^
 ||108.156.144.72^
-||108.157.254.64^
 ||108.157.254.65^
 ||108.157.254.6^
 ||108.157.254.93^
@@ -3507,7 +3549,6 @@
 ||24238956.com^
 ||www.yh2999.com^
 ||www.kyha46.com^
-||194.53.53.254
 ||www.kag2506.cc^
 ||154.19.201.138
 ||206.119.105.12
@@ -7343,7 +7384,6 @@
 ||image.cscmgg.com^
 ||image.huanyuantech.com^
 ||image.samsungeshop.com.cn^
-||image.uc.cn^
 ||image.yahoo10007.icu^
 ||image.yhw4.cn^
 ||image1.huabianyl.com
