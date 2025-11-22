@@ -1,4 +1,4 @@
-! Version:    # 最后同步时间: 2025-11-15 09:26:18 (北京时间)
+! Version:    # 最后同步时间: 2025-11-22 09:24:36 (北京时间)
 ! Total count: 1582 (仅统计AdGuard规则)
 ! 此规则游戏拦截
 !This rule game intercepts, only intercepts games

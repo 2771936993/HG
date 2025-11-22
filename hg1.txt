@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-11-15 09:26:18 (北京时间)
-! Total count: 10182 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-11-22 09:24:36 (北京时间)
+! Total count: 10192 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,18 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+
+
+||ste1oi.cvrgs.cn^
+||wens.wnsclk.lfghn.cn^
+||nkxzv640.com^
+||www.wsxxrjt640.vip^
+||in.appcenter.ms^
+||jh3erfvbgrtyu.zx.hanjutt.com^
+||juytrsdfgh.xjcgy.com^
+||emsic.rguhpms.com^
+||qwegd.wzntpy.com^
+||a129.7114.vip^
 ||line3-h5-mobile-api.biligame.com^
 ||da.mmarket.com^
 ||api.vc.bilibili.com^
