@@ -1,10 +1,14 @@
+<<<<<<< Updated upstream
 ! Version:    # 最后同步时间: 2025-11-22 09:24:36 (北京时间)
 ! Total count: 274 (仅统计AdGuard规则)
+=======
+! Version:    # 最后同步时间: 2025-11-28 08:41:57 (北京时间)
+! Total count: 275 (仅统计AdGuard规则)
+>>>>>>> Stashed changes
 #放行单
 #只适合海哥规则
 
-
-
+@@||new.joluac.cn^
 @@||cleaner.magicalstory.top^
 #↑安卓清理君#
 @@||r11.realme.net^

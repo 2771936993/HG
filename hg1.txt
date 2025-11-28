@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 ! Version:    # 最后同步时间: 2025-11-22 09:24:36 (北京时间)
 ! Total count: 10192 (仅统计AdGuard规则)
+=======
+! Version:    # 最后同步时间: 2025-11-28 08:41:57 (北京时间)
+! Total count: 10212 (仅统计AdGuard规则)
+>>>>>>> Stashed changes
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -12,6 +17,38 @@
 
 
 
+<<<<<<< Updated upstream
+=======
+
+
+||www.hancelawyers.com^
+||b8a1a36974ed9fcd7a53cf2f89b925ee.dlied1.cdntips.net^
+||cdn.aqdstatic.com^
+||mx99.mxsjh520.xin^
+||dd5269.com^
+||didi8739.com^
+||t1vy1h.cc^
+||wzzqlm.erbaiwulaoge.com.wsdvs.com^
+||h5static14.trfwz.com^
+||e7.i.lencr.org^
+||h5static14.trfwz.com.8e9fcc44.cdnhwcvix16.com^
+||e7.i.lencr.org.edgekey.net^
+||e192961.dscx.akamaiedge.net^
+||ky319287.cc^
+||qpappkf2.798artedu.com^
+||qpappkf2.798artedu.com.w.cdngslb.com^
+||j016520.cc^
+||ogwamltq.cloud.back.xinseogame.com^
+||www.kubm866.com^
+||jzd.2endu9.live^
+||jzt.1jmt21.live^
+||isjwmyvv.cloud.sqpd.opendun.com^
+||9l7ay6yx.qpd.kunkundun.com^
+||tt250944.cc^
+||tt2509001.cc^
+||h462719.cc^
+||chrome-devtools-frontend.appspot.com^
+>>>>>>> Stashed changes
 ||ste1oi.cvrgs.cn^
 ||wens.wnsclk.lfghn.cn^
 ||nkxzv640.com^
@@ -64,7 +101,6 @@
 ||lf3-vccdn.ndcpp.com^
 ||n98-lf9-dy-ncdn-tos-sub.bytegecko.com^
 ||tsconfigserver-cdn.xiangtatech.com^
-||bbmjs.jiyuantown.com^
 ||dd7896.com^
 ||jits5.heytapdownload.com^
 ||report-sy.adview.cn^
@@ -719,7 +755,6 @@
 ||daylk.fckfyu.com^
 ||alldomain.fckfyu.com.a.bdydns.com^
 ||fiynk.aoshl.com^
-||opencdnkav6.jomodns.com^
 ||alldomain.aoshl.com.a.bdydns.com^
 ||vypfw.gyxbw.cn^
 ||cctve.wjzafhc.com^
@@ -1926,7 +1961,6 @@
 ||as1.dcloud.net.cn^
 ||apis.xayabx.com^
 ||bkimg.cdn.bcebos.com^
-||pic9.iqiyipic.com^
 ||qcwx.medproad.com^
 ||image.uczzd.cn^
 ||adtracker.adfunlink.com^
@@ -8169,7 +8203,6 @@
 ||mres.sanguosha.cn^
 ||mross022.com^
 ||msfwifi.3g.qq.com^
-||msg.qy.net^
 ||msgv6.qy.net^
 ||msmov.a.yximgs.com^
 ||mss0.bdstatic.com^
@@ -8506,7 +8539,6 @@
 ||pic01.10086.cn^
 ||pic100.weishi.qq.com^
 ||pic640.weishi.qq.com^
-||pic8.iqiyipic.com^
 ||picshack.net^
 ||piggy.xyz^
 ||pinduoduo.*^
@@ -9065,7 +9097,6 @@
 ||static.9377a.com^
 ||static.duokan.com^
 ||static.huizecdn.com^
-||static.iqiyi.com^
 ||static.ixuenong.com^
 ||static.iyf.tv^
 ||static.mediav.com^
@@ -10215,6 +10246,5 @@
 ||zxbyy.ugurl.cn^
 ||zycmss.cn^
 ||zysdk.locojoy.com^
-||zz.bdstatic.com^
 ||zz.jjawa.com^
 ||zzg64.com^
