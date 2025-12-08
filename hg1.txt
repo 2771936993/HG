@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-12-01 09:54:29 (北京时间)
-! Total count: 10229 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-12-08 17:46:53 (北京时间)
+! Total count: 10318 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,7 +11,95 @@
 # 全由海哥自己制作
 
 
-
+||www.ysryvra640.vip^
+||ssqwe640.com^
+||2v30vbib6i.xztxm.com^
+||a93372bab9cd.smnxs.com^
+||grgucpxexegr.ojfxn.cn^
+||grgucpxexegr.ojfxn.cn.ucnaming.net^
+||grgucpxexegr.ojfxn.cn.ugslb.net^
+||lucloud01.gslb.ugslb.net^
+||6z6rgv3.yiqichuanbo.com^
+||nmwss1368.com^
+||1ppgapi1.landouzhaoming.top^
+||1ppgapi2.sgxx666.top^
+||1pgh5.gxmengling.top^
+||1pgjson2.m8t6t1.top^
+||1pgjson1.lhy158.top^
+||www.xbvvp.cc^
+||jpnebmw6mr.ibbxtx.cn^
+||fno2c7lj.cqwzgl.com^
+||zjimg.cnxw.xyz^
+||zh5capt9.aqqcby16.xyz^
+||zh5static1.qawyvt14.xyz^
+||0lxh6d.j9n1c8r6.work^
+||k7r.j5n3w1c7.work^
+||n7lb.j3b4m3g8.work^
+||jc83v8.j8y2r7y1.work^
+||data.flurry.com^
+||504h13bbm1ehbx31qvxf.entsbio.com^
+||jjjjzzzz.stdzgps.com^
+||jjzzbb1205mvzbhdg.jaqywb.com^
+||www.mvzqcmz540.vip^
+||jeybt540.com^
+||buocoanhyferyv.jsjmgygs.com^
+||kvcxsdeyu76rfgiy8u.m9sdf5sdf.fcjj168.com^
+||g3yr.j8y2r7y1.work^
+||xtokc.j9n1c8r6.work^
+||ly.j3b4m3g8.work^
+||cgwky.j5n3w1c7.work^
+||d1o9h7wkaw00rl.cloudfront.net^
+||ef6f3e5.n9x4m9sq.top^
+||r7t7p5.top^
+||vnq2i.j9n1c8r6.work^
+||i7rx.j3b4m3g8.work^
+||mwwlov0.j8y2r7y1.work^
+||6.j3b4m3g8.work^
+||gx4.j9n1c8r6.work^
+||7439108.n7h3s2ce.top^
+||bmbib8g.j8y2r7y1.work^
+||qyh.j3b4m3g8.work^
+||p5-ec.ecukwai.com^
+||02f69f8.q4m3y6gq.top^
+||upymjbv.j8y2r7y1.work^
+||m.j3b4m3g8.work^
+||3cagtu6.j9n1c8r6.work^
+||ai0.j9n1c8r6.work^
+||dqzie.j8y2r7y1.work^
+||91.j3b4m3g8.work^
+||unh.j9n1c8r6.work^
+||mchrwxh.j3b4m3g8.work^
+||cx.j8y2r7y1.work^
+||ztf.j9n1c8r6.work^
+||f0d4n5.top^
+||2mjl.j3b4m3g8.work^
+||iekobtz.j9n1c8r6.work^
+||qpx.j8y2r7y1.work^
+||d33hj1nadbtrh.cloudfront.net^
+||djyq5k0qx6rw8.cloudfront.net^
+||d27pmiqz3rwofz.cloudfront.net^
+||j.j8y2r7y1.work^
+||i7bvrg.q4w9l6g3w.work^
+||g7k6m9.top^
+||5618355.c3r6p7ma.top^
+||f-cashloan.snssdk.com^
+||w1o8ie.j5n3w1c7.work^
+||u7n2u2.top^
+||177fc1f.q4m3y6gq.top^
+||t8u9r3.top^
+||f1ccff0.n7h3s2ce.top^
+||k1p1e8.top^
+||aefe450.w5u9u8yb.top^
+||yyu533.com^
+||be5htf7u.jdr089.xin^
+||ccvv4641205166.aygtjl.com^
+||img.werjwe3248932esdf3df89s.cc^
+||nx067ls.yed88dpb.com^
+||www.gtopuzzex.com^
+||aa.online-metrix.net^
+||contentmx.okcoin.com^
+||wwads.cn^
+||googleads.g.doubleclick.ne^
 ||gtngfd.ntuzr6688.com^
 ||drehq640.com^
 ||jh3erfvbgr.zx.c5r5oe.cn^
