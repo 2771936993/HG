@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-! Version:    # 最后同步时间: 2025-12-08 17:46:53 (北京时间)
-=======
-! Version:    # 最后同步时间: 2025-12-08 17:47:10 (北京时间)
->>>>>>> Stashed changes
+! Version:    # 最后同步时间: 2025-12-15 09:46:16 (北京时间)
 ! Total count: 1582 (仅统计AdGuard规则)
 ! 此规则游戏拦截
 !This rule game intercepts, only intercepts games

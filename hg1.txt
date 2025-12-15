@@ -1,9 +1,5 @@
-<<<<<<< Updated upstream
-! Version:    # 最后同步时间: 2025-12-08 17:46:53 (北京时间)
-=======
-! Version:    # 最后同步时间: 2025-12-08 17:47:10 (北京时间)
->>>>>>> Stashed changes
-! Total count: 10318 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-12-15 09:46:16 (北京时间)
+! Total count: 10335 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -14,7 +10,23 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
+||6gtg4.com^
+||687888.vip^
+||8cc352.cc^
+||protrafficinspector.comhgzs.uunat.com
+||www.xbvmffa640.viphgzs.uunat.com
+||drtyuiu23ytr.hjwku.comhgzs.uunat.com
+||xsertyuioiuyyt.zx.eywisg.comhgzs.uunat.com
+||dnda9dg2qc7yvx01.ojfxn.cnhgzs.uunat.com
+||nvrme1368.comhgzs.uunat.com
+||5zdw5d.yiqichuanbo.comhgzs.uunat.com
+||qgwen640.comhgzs.uunat.com
+||imeclient.openspeech.cnhgzs.uunat.com
+||beacon-ad.ztgame.comhgzs.uunat.com
+||zy123a4b5abc-un.comfylink.comhgzs.uunat.com
+||onlyv4.kuaishoupay.comhgzs.uunat.com
+||fp-it.fengkongcloud.comhgzs.uunat.com
+||fund.xueqiu.comhgzs.uunat.com
 ||www.ysryvra640.vip^
 ||ssqwe640.com^
 ||2v30vbib6i.xztxm.com^
