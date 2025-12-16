@@ -2,8 +2,8 @@ name: 同步AdGuard规则文件（带统计信息）
 
 on:
   schedule:
-    # 每7天 UTC 时间 0 点执行（北京时间 8 点）
-    - cron: '0 0 */7 * *'
+    # 每3天 UTC 时间 0 点执行（北京时间 8 点）
+    - cron: '0 0 */3 * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -34,10 +34,10 @@ jobs:
 
           # 定义要同步的文件列表
           file_urls = [
-              ("http://hgzspj.51vip.biz/hg.txt", "hg.txt"),
-              ("http://hgzspj.51vip.biz/hg1.txt", "hg1.txt"),
-              ("http://hgzspj.51vip.biz/hg2.txt", "hg2.txt"),
-              ("http://hgzspj.51vip.biz/yx.txt", "yx.txt")
+              ("http://hgzs.uunat.com/hg.txt", "hg.txt"),
+              ("http://hgzs.uunat.com/hg1.txt", "hg1.txt"),
+              ("http://hgzs.uunat.com/hg2.txt", "hg2.txt"),
+              ("http://hgzs.uunat.com/yx.txt", "yx.txt")
           ]
 
           success_count = 0
