@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-12-16 08:30:32 (北京时间)
-! Total count: 10335 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-12-19 08:48:50 (北京时间)
+! Total count: 10446 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,117 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+||t13b1x.top^
+||e36d1a0.t88uep7r.top^
+||e15d1c.top^
+||1c4de78.m02csd5e.top^
+||da13ac4.e12wgt8y.top^
+||d82w5y.top^
+||wndt.j3b4m3g8.work^
+||0aea17a.h52pwb1n.top^
+||154.86.31.100^
+||blacklist.tampermonkey.net^
+||nghd089.xin^
+||mdpp69.com^
+||kon.yyyycdn.com^
+||dftyu5iuyt.tobxa.cn^
+||drtyui3oiuy.tobxa.cn^
+||sdc1cvfgh.as.cyqyyx.com^
+||rpfdc540.com^
+||98utyghyfre5erds.vsfseifesktk3.dtpdjz.com^
+||fcioamjuaonyftgc.ln518c.com^
+||9pg.6177297.cc^
+||k9wbvmuugfm.48131770.cc^
+||3pgapi1.changyankeji.top^
+||3pgapi2.yunqingkeji.top^
+||3pgapi.dzwk03.xyz^
+||3pgjson2.ynjinag.top^
+||3pgjson1.dtlych.top^
+||3pgh5.liangjingxi.top^
+||emage.hnylqx.xyz^
+||api.ksport.io^
+||download.fzzbmr.top^
+||amt-api.jimygo.com^
+||3pg.app^
+||3pgh5static1.kmyblq.com^
+||3pgcapt08.ssslps.com^
+||3pgcapt08.utphsi.com^
+||3pgh5static1.otajgf.com^
+||2pg.3926800.cc^
+||web12974862486658621456325.8448cc.cn.com^
+||an12972465749874.jingyan.zone^
+||api1297351657641321645.federal.cn.com^
+||web1297231354564687464.lesbian.cn.com^
+||api1297653216498746312.wangdk.site^
+||x699bkyg.wfqxruvt.com^
+||9m4obc.nv8370xm.com^
+||231.3894432.cc^
+||1pg.1775151.cc^
+||hhrr3731217159.lbxzyyy.com^
+||d2rlr4zwr88i4b.cloudfront.net^
+||eothr7o.bvn0omks.com^
+||d16s5r1ibs22sb.cloudfront.net^
+||0ozcq.bvn0omks.com^
+||qm8def.xhn61lkj.com^
+||373.com^
+||hegjjgthk.threeseven3.com^
+||zhuoyu2xin.cdn.dun555.com.^
+||373.am^
+||373373.com^
+||yd4etux8.3732025.com^
+||zhuoyuee.cdn.layundns.com^
+||d987ekcr7su2g.cloudfront.net^
+||api06.mchat18.win^
+||f3r2jt.t8j5kl6w9x.com^
+||9pg.3212243.cc^
+||bbcc8871217159.ktrmhij.com^
+||yabmu-ps6339bx.j2wcj5-xvjikfl.top^
+||acs4y5eue7in6aeg.k5nhy9r3-wrlfx1.top^
+||zfibu-foce06z.50k6mhba-m56qv6u.top^
+||1vbww-accukow.50k6mhba-m56qv6u.top^
+||ae1gw-i3g8b6v.ofjlj9t-tqb9zu1i.top^
+||gvqzn-ilfpwdf.eow5k28x-fm5cj5.top^
+||a3aqvk7-k6hylz30.03zlyh6k-7kvqa3.top^
+||1inva-i15l1p6.g60skyr-9bumrpzk.top^
+||3j9f83.rj3ivxky.com^
+||gmvz41cb.l7499pqk.com^
+||www.887.com^
+||88788799.com^
+||ijxoekaezf.mjm5vzyi.com^
+||t5wq8b.j3m8q7xk5b.com^
+||www.88722.com^
+||r59j78.bqot04rv.com^
+||ztevents.zaloapp.com^
+||mp3.zing.vn^
+||xahx618305-1293237030.ap-southeast-1.elb.amazonaws.com^
+||zj13h-w3pi6lve.lt65azg-py00geig.top^
+||z9tnkoltkc4x.lunamon.net^
+||centralized.zaloapp.com^
+||88788744.com^
+||tyghfvg89tycxb.6k50ct77-9p5bcxpj.top^
+||88788711.com^
+||8vc2u5xqi0e.lunamon.net^
+||l63gif-2377-ppp.oss-accelerate.aliyuncs.com^
+||unr7bq.q4w9l6g3w.work^
+||hm77oke.j9n1c8r6.work^
+||8a5bd46.n7r42tv7.top^
+||f8qe1f.top^
+||33cc3192.x5tt7m.cc^
+||3364618.xn--c41aq0a.cn^
+||1110dd33-251216.fpsdm.cc^
+||29iiio.zhsc.ink^
+||dezy808-1116.sl008.com^
+||os167-1209.61wz6my5.com^
+||29iiio.zhsc.ink.01ce1266.cdnhwcaoc115.cn^
+||hcdnd101.sme.foreignv6.cdnhwcaoc115.cn^
+||kkzz3731213145.taizet.com^
+||aqnx3lle3ejwurl4b.b4lruwje3ell3xnq.top^
+||sze8t.qzqgsewldxu.com^
+||vv85w4t.ezmkpkwldso.com^
+||286.1004534.cc^
+||wildcard.14678381.cc.scndsodns.net^
+||9nvw2vsvum.pdawbdq.com^
+||protrafficinspector.com^
 ||6gtg4.com^
 ||687888.vip^
 ||8cc352.cc^
