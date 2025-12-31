@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2025-12-28 08:55:39 (北京时间)
-! Total count: 10712 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2025-12-31 08:50:44 (北京时间)
+! Total count: 10745 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,6 +11,39 @@
 # 全由海哥自己制作
 
 
+||dd7985.com^
+||didi6397.com^
+||ef48e5d19a1690e8340e65d27254e530.blblb.com^
+||diandian222.com^
+||3nrb5msd5d0.apay8.cc^
+||markettag.apay168.com^
+||wzzqlm.erbaiwulaoge.com^
+||www.qp88.bet^
+||cxo52l.cc^
+||reqsq4.cc^
+||qpappkf7.0997jg.com^
+||qpappkf7.0997jg.com.w.cdngslb.com^
+||ny2rdhnp.lxzvtv9a.com^
+||d7cibghdcxyvv.cloudfront.net^
+||cpdd.refidmt.cc^
+||ffyd.tqggk.com^
+||n9ujxzht.n.cdn6ao.vip^
+||osjg.jkjes85112.com^
+||t3.oy38x4.com^
+||zymdcscw7dcdsc9whsdcdh.zq45xc.com^
+||g4dcfbe.cdn.33522244.com^
+||a17a76bb.33522244.com^
+||ky7p.cc^
+||hhdd4641229146.hw68u.com^
+||74595433.com^
+||5751.com^
+||t1.dwxwp.cn^
+||02in.zausq.cn^
+||505scdn.pandacdn.top^
+||mores.motowoo.com^
+||adx.halomobi.com^
+||preposterouscapablehammer.com^
+||7a73.cc^
 ||fzbbt.gat.zj.gov.cn^
 ||9f349a40ad7dccb9.qaxcloudwaf.com^
 ||iuwe898.zzxzsm.cn^
