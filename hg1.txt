@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-01-01 08:56:07 (北京时间)
-! Total count: 10745 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-01-04 08:56:05 (北京时间)
+! Total count: 10787 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,7 +10,48 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
+||tdsdk.cpatrk.net^
+||applus.fancydsp.com^
+||ad-open2.fancydsp.com^
+||g.fancyapi.com^
+||sdk-ab-config.qquanquan.com^
+||api.fu.xcultur.com^
+||cdn.qquanquan.com^
+||mugcdn.x5.qq.com^
+||image-62.ymzx.qq.com^
+||xfn2kk.cc^
+||lzaytasdgu.tmwdgk.com^
+||aejfsfe7sefjse.rrxsesset6sd.dtpdjz.com^
+||4kp.l9fftw1.shop^
+||jjgr.8f2vovp.shop^
+||sdk.tianzongyouxi.com^
+||msg.qy.net^
+||qpappkf1.czswan.com^
+||qpappkf1.czswan.com.w.cdngslb.com^
+||translate-useraction-api.xiangtatech.com^
+||u545zdl.epmap1yh.com^
+||qpd.qp75393.cc^
+||qp9053.cc^
+||qpd.qp33608.cc^
+||qpd.qp34200.cc^
+||qpd.qp643713.cc^
+||qpd.qp79358.cc^
+||qpd.qp59888.cc^
+||qpd.qp600138.cc^
+||qpd.qp189486.cc^
+||qpd.qp587135.cc^
+||qpd.qp322373.cc^
+||3wmluogf.cloud.model.opendun.com^
+||qpd.qp76978.cc^
+||qpd.qp24931.cc^
+||aurvishq.cloud.sqpd.opendun.com^
+||qp88.bet^
+||jttpiokjehagbnmnahag10.kzxxky.com^
+||xjkf1.jmxlry.com^
+||xjkf1.jmxlry.com.w.cdngslb.com^
+||jzd.mts3ku.live^
+||jmin0dug.cloud.model.opendun.com^
+||kwmdmmsp.hongtaitanghua.com^
 ||dd7985.com^
 ||didi6397.com^
 ||ef48e5d19a1690e8340e65d27254e530.blblb.com^
