@@ -1,11 +1,11 @@
-! Version:    # 最后同步时间: 2026-01-04 08:56:05 (北京时间)
-! Total count: 276 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-01-07 08:50:16 (北京时间)
+! Total count: 277 (仅统计AdGuard规则)
 #放行单
 #只适合海哥规则
 
 
-
-
+@@||api.geetest.com^
+#↑魅族论坛登录验证↑#
 @@||xqimg.imedao.com^
 #↑雪球图片#
 @@||new.joluac.cn^

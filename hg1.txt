@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-01-04 08:56:05 (北京时间)
-! Total count: 10787 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-01-07 08:50:16 (北京时间)
+! Total count: 10796 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -9,7 +9,18 @@
 # QQ：630814741
 # 作者：海哥
 # 全由海哥自己制作
-
+||www.2vu5d.shop^
+||www.xgart.shop^
+||yzbtfi.gbkmm.cn^
+||tls-goofish.dingtalk.com^
+||iwisdom.apps.coloros.com^
+||z1xjp.piexxu.cn^
+||smqk.clgyt.cn^
+||fdb.iwqim.cn^
+||tianchen.rsxcsw.cn^
+||api.ikcbel.cn^
+||chaos.91ishare.cn^
+||y7veh3w.q4w9l6g3w.work^
 ||tdsdk.cpatrk.net^
 ||applus.fancydsp.com^
 ||ad-open2.fancydsp.com^
@@ -785,7 +796,6 @@
 ||didi9367.com^
 ||v2-zj-zjct.kwaicdn.com^
 ||htms.heytapmobi.com^
-||openapi-slp.heytapmobi.com^
 ||315.wefaceapp.com^
 ||sb.caonima.cn^
 ||p2-plat.wsukwai.com^
@@ -3540,7 +3550,6 @@
 ||18.244.164.126^
 ||18.244.164.68^
 ||18.244.164.97^
-||180.188.25.23^
 ||198.16.35.45^
 ||198.16.35.46^
 ||202.79.161.14^
@@ -5105,7 +5114,6 @@
 ||se4.360simg.com^
 ||static-ssl.mediav.com^
 ||zbb.bbb.57w2.pics^
-||fast.com^
 ||06865625.com^
 ||www.langhaose.com^
 ||y-03.cn^
