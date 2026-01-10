@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-01-07 08:50:16 (北京时间)
-! Total count: 10796 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-01-10 08:48:46 (北京时间)
+! Total count: 10810 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -9,10 +9,31 @@
 # QQ：630814741
 # 作者：海哥
 # 全由海哥自己制作
+
+||p4-ad.adbkwai.com^
+||p4-live.wsukwai.com^
+||zy123a4b5abc-ct.comfylink.com^
+||996pk.yjdpj.com^
+||5gn.znsker.com^
+||ix44tpk--o12ld8.pk5j.com^
+||333.84pay.com^
+||www.207384.xyz^
+||kangle.cdn.mbakj.vip^
+||lwxy1.170o.com^
+||lwxy1.170o.com.w.kunlunaq.com^
+||www.dcc108.xyz^
+||www.64pay.com^
+||apps.bdimg.com^
+||www1.175hy.cn^
+||tan3.67ak.com^
+||okpay.263pk.com^
+||2026.003xy.com^
+||oenrds.cn^
+||www.66c0108.icu^
+||soft.zhifeng-3.cn^
 ||www.2vu5d.shop^
 ||www.xgart.shop^
 ||yzbtfi.gbkmm.cn^
-||tls-goofish.dingtalk.com^
 ||iwisdom.apps.coloros.com^
 ||z1xjp.piexxu.cn^
 ||smqk.clgyt.cn^
@@ -794,7 +815,6 @@
 ||rjx.yltnlbh.xyz^
 ||rwvk.jianghuledao.com^
 ||didi9367.com^
-||v2-zj-zjct.kwaicdn.com^
 ||htms.heytapmobi.com^
 ||315.wefaceapp.com^
 ||sb.caonima.cn^
@@ -954,7 +974,6 @@
 ||mdp-usertrace-cn.heytapdownload.com^
 ||cdn-cq-2.gzhemera.com^
 ||api-cq-cn.gzhemera.com^
-||obus-cn.dc.heytapmobi.com^
 ||sy-static.hzwxbz3.cn^
 ||hs.hzwxbz3.cn^
 ||apithird.hzwxbz3.cn^
@@ -1537,7 +1556,6 @@
 ||tm-s.xxpkg.com^
 ||api-cn.open.heytapmobi.com^
 ||isp-map.xunyou.mobi^
-||d-pxy-fb.d.xxpkg.com^
 ||d3-kkd.a.kspkg.com^
 ||p123.my^
 ||b1-data.ads.heytapmobi.com^
@@ -2354,7 +2372,6 @@
 ||223.109.221.239^
 ||223.109.221.240^
 ||223.109.222.193^
-||223.111.198.90^
 ||223.111.23.225^
 ||223.111.23.235^
 ||2244iowlt.bxshscc.xyz^
@@ -5111,7 +5128,6 @@
 ||app.huabao.360.cn^
 ||dot.look.360.cn^
 ||cdn.weather.hao.360.cn^
-||se4.360simg.com^
 ||static-ssl.mediav.com^
 ||zbb.bbb.57w2.pics^
 ||06865625.com^
@@ -8488,7 +8504,6 @@
 ||lnk0.com^
 ||lo.swt.gold^
 ||lobby1-live.cn.codm.qq.com^
-||local.info.g9hc4.cn^
 ||log-api.aplus.emas-poc.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||log-api.pangolin-sdk-toutiao.com^
