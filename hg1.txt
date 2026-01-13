@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-01-10 08:48:46 (北京时间)
-! Total count: 10810 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-01-13 08:45:02 (北京时间)
+! Total count: 10817 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,13 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+||c2xx.cc^
+||1kkk71.top^
+||bhmnq.4fixnj.top^
+||firebaselogging.googleapis.com^
+||tx2-course.video.yximgs.com^
+||www.rvmys.cn^
+||www.jtroi.cn^
 ||p4-ad.adbkwai.com^
 ||p4-live.wsukwai.com^
 ||zy123a4b5abc-ct.comfylink.com^
