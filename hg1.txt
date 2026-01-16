@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-01-13 08:45:02 (北京时间)
-! Total count: 10817 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-01-16 08:51:33 (北京时间)
+! Total count: 10815 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,24 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+||www.cdngwc.club^
+||l.ntxqy.com^
+||coosync.com^
+||cdn.bncloudfl.com^
+||roe.ero-labs.style^
+||rt.hn.zenqio.com^
+||sms.ads.heytapmobi.com^
+||cherrytale5.ero-labs.style^
+||dfbger.ywbxwjt.com^
+||hk3jn4.top^
+||ugz9xbpw.gm0vy.com^
+||5tejafsz.gm0vy.com^
+||statics.123957.com^
+||aecivx3k2stgv7jd.nexusedgeio.com^
+||aecianmuxxcji4zj.nexusedgeio.com^
+||aeckt73aya47eciz.nexusedgeio.com^
+||adimage.bwton.com^
+||ad.bwton.com^
 ||c2xx.cc^
 ||1kkk71.top^
 ||bhmnq.4fixnj.top^
@@ -655,7 +673,6 @@
 ||wens.wnsclk.lfghn.cn^
 ||nkxzv640.com^
 ||www.wsxxrjt640.vip^
-||in.appcenter.ms^
 ||jh3erfvbgrtyu.zx.hanjutt.com^
 ||juytrsdfgh.xjcgy.com^
 ||emsic.rguhpms.com^
@@ -798,7 +815,6 @@
 ||a5asa.cqhzgs.cn^
 ||a5asa.cqhzgs.cn.eo.dnse5.com^
 ||182871.com^
-||content-autofill.googleapis.com^
 ||picture.vjc998889.top^
 ||rpncdkz5.com^
 ||mmyppsz7.com^
@@ -814,7 +830,6 @@
 ||d2.qjsalib.com^
 ||d2.qjsalia.com^
 ||hdns.k-dyn.com^
-||apisnd.heytapmobi.com^
 ||ug-earning-yoda-pkg-solor.kwd.inkuai.com^
 ||ib.snssdk.com^
 ||www.vod.lxdns.com^
@@ -900,7 +915,6 @@
 ||t.siemens.com.cn^
 ||yady.pumcy.cn^
 ||gjtu.ccbxwlh.com^
-||mdp-appconf-cn.heytapdownload.com^
 ||ug.pangolin-dsp-toutiao.com^
 ||ssp.maplehaze.cn^
 ||uapi.ads.heytapmobi.com^
@@ -1105,7 +1119,6 @@
 ||s-part-0022.t-0009.t-msedge.net^
 ||apiazhd-azure20hd6-cc-f7evdrfzdxgwaybm.a02.azurefd.net^
 ||shed.dual-low.s-part-0046.t-0009.t-msedge.net^
-||azurefd-t-fb-prod.trafficmanager.net^
 ||dual.s-part-0021.t-0009.fb-t-msedge.net^
 ||s-part-0021.t-0009.fb-t-msedge.net^
 ||42cd38b6.nengcdn.com^
@@ -2324,7 +2337,6 @@
 ||123.6.18.92^
 ||123.6.18.98^
 ||125.1254790.cc^
-||13.107.246.74^
 ||13.33.62.122^
 ||13.33.62.160^
 ||13.33.62.197^
@@ -3624,7 +3636,6 @@
 ||qbnbcdn.vip^
 ||bb.jyehzhe66.com^
 ||alibabacdnsloud.com^
-||c.cnzz.com^
 ||ap-east-1.amazonaws.com^
 ||*.fastliii.com^
 ||fnvip100.com^
@@ -3665,8 +3676,6 @@
 ||qianlima.app^
 ||riskct.geetest.com^
 ||s-part-0045.t-0009.t-msedge.net^
-||s4.cnzz.com^
-||s9.cnzz.com^
 ||shed.dual-low.s-part-0045.t-0009.t-msedge.net^
 ||static.geevisit.com.w.cdngslb.com^
 ||static.geevisit.com^
@@ -3680,7 +3689,6 @@
 ||vp5cwmvp.jpx7wynxk6.com.^
 ||vskq792.com^
 ||vzyk92c4.yhcdn-yd.com.^
-||w.cnzz.com^
 ||web-vheo80.openinstall.com^
 ||www.016455x.com^
 ||www.9665xx.com^
@@ -3696,10 +3704,6 @@
 ||xm88.dk.jhydns08.com^
 ||xm88zw.dk2.jhydns09.com^
 ||yh.gdian.care^
-||z.cnzz.com^
-||z.gds.cnzz.com.^
-||z12.cnzz.com^
-||z3.cnzz.com^
 ||zbb.bbb.j56s.pics^
 ||znmgk8wb.chaowei-mycdn.com.^
 ||zosotc5pfq.smvbr.com.wcdnga.com.^
@@ -4047,7 +4051,6 @@
 ||onekey2.cmpassport.com^
 ||onekey1.cmpassport.com^
 ||onekey.cmpassport.com^
-||www.cmpassport.com^
 ||sy.cl2m.cn^
 ||please_set_project.please_set_endpoint.www.tendawifi.com^
 ||c.lattebank.com^
@@ -7145,13 +7148,11 @@
 ||cn-abstract-sdk.wan.com^
 ||cn-serverlist.locojoy.com^
 ||cn.baozumw.com^
-||cnzz.com^
 ||cnzz.mmstat.com^
 ||code.jquery.com^
 ||col02chbtflsj.xyz^
 ||collect-v6.51.la^
 ||collect-v6.51la.ink^
-||collect.gmcc.net^
 ||com.mob.push.test^
 ||com2023710713725.com^
 ||comking.oss-cn-beijing.aliyuncs.com^
@@ -7564,7 +7565,6 @@
 ||financeft.cfp.qq.com^
 ||fio3s8d.kfzcyxc.com^
 ||firebase-settings.crashlytics.com^
-||firebaseinstallations.googleapis.com^
 ||fishapp-hw.tuyougame.com^
 ||fjkt.hongsong.info^
 ||fknuk.appfx8.com^
@@ -8516,7 +8516,6 @@
 ||log-api.pangolin-sdk-toutiao.com^
 ||log-center-cn.leniugame.com^
 ||log-dmp.weilitoutiao.net^
-||log-h5.cmpassport.com^
 ||log-klink.zijieapi.com^
 ||log-report.com^
 ||log-tjqy.shzbkj.com^
@@ -9448,7 +9447,6 @@
 ||s522.top^
 ||s5g.cn^
 ||s8.yx-s.com^
-||s95.cnzz.com^
 ||sa.kkmh.com^
 ||saas-static.yiye.ai^
 ||sadfasdfa962.com^
