@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-01-16 08:51:33 (北京时间)
-! Total count: 10815 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-01-19 08:54:39 (北京时间)
+! Total count: 10814 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,13 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+
+||www.hbxzp.shop^
+||dlcsfj.yswpf.cn^
+||qfgpag.yswpf.cn^
+||193.xkaxzc.top^
+||zky7xv2n.dns-guard.shop^
+||scdn.niubibsn.com^
 ||www.cdngwc.club^
 ||l.ntxqy.com^
 ||coosync.com^
@@ -22,7 +29,6 @@
 ||hk3jn4.top^
 ||ugz9xbpw.gm0vy.com^
 ||5tejafsz.gm0vy.com^
-||statics.123957.com^
 ||aecivx3k2stgv7jd.nexusedgeio.com^
 ||aecianmuxxcji4zj.nexusedgeio.com^
 ||aeckt73aya47eciz.nexusedgeio.com^
@@ -1695,7 +1701,6 @@
 ||xtol.pptnt.cn^
 ||api-p3.mobsurl.com^
 ||api-p1.mobsurl.com^
-||mum.alibabachengdun.com^
 ||livev.m.chenzhongtech.com^
 ||www.yvtlq.top^
 ||adimgxbox719.xyz^
@@ -6484,7 +6489,6 @@
 ||adblock-tester.com^
 ||adcbk.qingshigame.com^
 ||adcdn6.tencentmusic.com^
-||adiu.amap.com^
 ||adkwai.com^
 ||adlaunch.moji.com^
 ||adm.10jqka.com.cn^
@@ -7006,7 +7010,6 @@
 ||cdn-hw-h5-http2-prod1.youyantech.com^
 ||cdn-img-hw.ludashi.com^
 ||cdn-jumper.dewu.com^
-||cdn-mum.alibabachengdun.com^
 ||cdn-new-ad.wtzw.com^
 ||cdn-pic.com^
 ||cdn-sdk-opt.getui.com^
@@ -7388,9 +7391,6 @@
 ||du-feige.iqiyi.com^
 ||du.vread.mobi^
 ||du5dtyve6j6jn.cloudfront.net^
-||dualstack-arestapi.amap.com^
-||dualstack-mpsapi.amap.com^
-||dualstack.apilocate.amap.com^
 ||duba.net^
 ||duihl.cn^
 ||duul.143.cc^
