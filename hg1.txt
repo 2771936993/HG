@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-01-19 08:54:39 (北京时间)
-! Total count: 10814 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-01-22 08:51:17 (北京时间)
+! Total count: 10838 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,7 +10,30 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
+||az3-live-idc.ksapisrv.com^
+||openapi-slp.heytapmobi.com^
+||az3-upload-js.gifshow.com^
+||rup4a04-c02.tos-cn-hongkong.bytepluses.com^
+||b9f49d03.58825279.com^
+||138.113.217.241^
+||26c0b72f.by33325.vip.cname.scname.com^
+||by23372.com.adakamai.com^
+||xn--45web0118-8q7n008bs50b2hrw9mul7c^
+||xn--4csx27axmae1802aj22a.hbdqxqd.cn.w.cdngslb.com^
+||ytsource-api.bulletspcf.com^
+||txdy.vsamhos.com^
+||txdy.vsamhos.com.gccdn.net^
+||by33325.vip^
+||www.by23372.com^
+||xn--45web0118-8q7n008bs50b2hrw9mul7c^
+||xn--4csx27axmae1802aj22a.hbdqxqd.cn^
+||1118hd.45660512.com^
+||d1ym6fzj5yk7gy.cloudfront.net^
+||d1m8vkxmcoyaai.cloudfront.net^
+||nwkc367938-1025720037.ap-southeast-1.elb.amazonaws.com^
+||d1oee2rzfk0eqt.cloudfront.net^
+||auh26f-2187-ppp.oss-accelerate.aliyuncs.com^
+||q21xdc.cc^
 ||www.hbxzp.shop^
 ||dlcsfj.yswpf.cn^
 ||qfgpag.yswpf.cn^
