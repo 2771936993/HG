@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-01-22 08:51:17 (北京时间)
-! Total count: 10838 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-01-25 08:56:33 (北京时间)
+! Total count: 10834 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,9 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+
+||jh-api.tj.db996.cn^
+||p9t.cn^
 ||az3-live-idc.ksapisrv.com^
 ||openapi-slp.heytapmobi.com^
 ||az3-upload-js.gifshow.com^
@@ -66,7 +69,6 @@
 ||www.jtroi.cn^
 ||p4-ad.adbkwai.com^
 ||p4-live.wsukwai.com^
-||zy123a4b5abc-ct.comfylink.com^
 ||996pk.yjdpj.com^
 ||5gn.znsker.com^
 ||ix44tpk--o12ld8.pk5j.com^
@@ -869,7 +871,6 @@
 ||htms.heytapmobi.com^
 ||315.wefaceapp.com^
 ||sb.caonima.cn^
-||p2-plat.wsukwai.com^
 ||p66-live.ndcjl.com^
 ||p4-ec.ecukwai.com^
 ||api.cdo.oppomobile.com^
@@ -1774,8 +1775,7 @@
 ||s2.map.gtimg.com^
 ||s0.map.gtimg.com^
 ||static.wesure.cn^
-||inf-prdapi.wesure.cn^
-||servicewechat.com^
+||inf-prdapi.wesure.cn
 ||resource.wesure100.com^
 ||web.talegeram.cc^
 ||bj-td-01-callback.advlion.com^
@@ -3543,7 +3543,6 @@
 ||36.156.169.70^
 ||223.111.124.13^
 ||8.142.145.157^
-||47.92.71.224^
 ||xyp-n.kuiniuca.com^
 ||scc.bytedance.com^
 ||mcs.zijieapi.com^
@@ -10056,8 +10055,6 @@
 ||uland.tb-api.com^
 ||ulog-sdk.gifshow.com^
 ||ulog.gifshow.com^
-||ulog.ksapisrv.com^
-||ulogjs.ksapisrv.com^
 ||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
 ||ulogs1.gifshow.com^
