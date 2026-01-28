@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-01-25 08:56:33 (北京时间)
-! Total count: 10834 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-01-28 08:51:37 (北京时间)
+! Total count: 10832 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -3294,8 +3294,6 @@
 ||9pyyeq-1707-ppp.oss-accelerate.aliyuncs.com^
 ||aa9237f3.4jaw736jzv5d.com^
 ||abd4b.tf3dmr.cyou^
-||all.lv2.qnydns.com^
-||allcdn.lv2.qnydns.com^
 ||apiup-cf.cbfes.com^
 ||assp15cn2w.bensiea.com^
 ||assp1cn2w.bensiea.com^
