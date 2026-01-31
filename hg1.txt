@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-01-28 08:51:37 (北京时间)
-! Total count: 10832 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-01-31 08:56:14 (北京时间)
+! Total count: 10864 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,6 +11,42 @@
 # 全由海哥自己制作
 
 
+||dd9875.com^
+||nhg723.zhonglianhuashu.com^
+||sdkgen.data.hongboluo.com^
+||www.a5.vip^
+||a5a5a5.a5cdnzk.com^
+||s9.cnzz.com^
+||z12.cnzz.com^
+||c.cnzz.com^
+||a5c.vip^
+||down.pgjin.com^
+||down-api.pgjin.com^
+||1igsfa.com^
+||2329qs.cc^
+||bngy8sudfi.0304r.com^
+||cms-9f12240916e9ca39.abcty1.com^
+||ha-p-301.abcty1.com^
+||hfug9ruun.0304n.com^
+||a817.dscb.akamai.net^
+||22evhtldgqk4p154lm58.edgesuite.net^
+||adferi23jv.0304p.com^
+||efgyef2.qiusu36.cc^
+||lqgonstx.orionedg.com^
+||rcf-img-hk.fdhs31slkoihkkcn.com^
+||www.axd02ot.cfd^
+||cdn24.007cdna^
+||zzke.btpol.cn^
+||yz.xzbdnk.com^
+||fpjscdn.net^
+||612627.eoqwp.cn^
+||9hw5.hpe.gjnanfan.com^
+||3d55skasln2.gwbtb.cn^
+||tencent.xzbdnk.com^
+||3.sb.xtzszy.cn^
+||cc.ddos.pub^
+||sb.vap1.cn^
+||1.fw.zhongshanpark.com.cn^
 ||jh-api.tj.db996.cn^
 ||p9t.cn^
 ||az3-live-idc.ksapisrv.com^
@@ -378,7 +414,6 @@
 ||duwjith8mrpkw.cloudfront.net^
 ||c5r5oe.cn^
 ||beacon-ad.ztgame.com^
-||tm-access.xxpkg.com^
 ||wlog.kuaishou.com^
 ||onlyv4.kuaishoupay.com^
 ||zy123a4b5abc-un.comfylink.com^
@@ -874,7 +909,6 @@
 ||p66-live.ndcjl.com^
 ||p4-ec.ecukwai.com^
 ||api.cdo.oppomobile.com^
-||pushjs.ksapisrv.com^
 ||fnbb.ns6jv.cyou^
 ||ksflskjdhfjds.com^
 ||app889.xyz^
@@ -6821,7 +6855,6 @@
 ||aww5.net^
 ||ayxb.t4m.cn^
 ||az1-api-idc.ksapisrv.com^
-||az2-api-idc.ksapisrv.com^
 ||az2-api-js.gifshow.com^
 ||az2-upload.ksapisrv.com^
 ||az3-api-js.gifshow.com^
@@ -8232,7 +8265,6 @@
 ||jr1.cc^
 ||jrf99djct.123ddscv.com^
 ||js-ad.a.yximgs.com^
-||js-gamezone.static.yximgs.com^
 ||js-whjx.com^
 ||js.3conline.com^
 ||js.aq.qq.com^
