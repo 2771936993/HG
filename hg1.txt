@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-01-31 08:56:14 (北京时间)
-! Total count: 10864 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-02-01 09:09:14 (北京时间)
+! Total count: 10894 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,7 +10,36 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
+||wy.668wan.com^
+||sx-common-v4.volcgtm.com^
+||www.gruh.top^
+||www.mhzs9.top^
+||tongji.53zf.com^
+||tongji.53zf.com.w.kunlunpi.com^
+||www.76qh.top^
+||www.fhwj918.com^
+||p1.jyzf1.com^
+||7fk.aeers.top^
+||all.jyzf1.com.w.kunlunpi.com^
+||games.180zsxk.com^
+||nq.xaexyqvde7.top^
+||tg.fckeioyovo.top^
+||www.3jq.com^
+||www.996m2.com^
+||www.996m2.com.w.cdngslb.com^
+||svip.gm527.com^
+||www.v1ozp0w0.top^
+||fc888.z9uav9.vip^
+||www.8f866.top^
+||www.6f866.top^
+||kf7tg.keln7c.vip^
+||www.61ey.top^
+||www.gk08b.top^
+||www.hme91.top^
+||hy.37w.com^
+||www.zj107u.top^
+||www.rrmcwa.top^
+||www.6fk.com^
 ||dd9875.com^
 ||nhg723.zhonglianhuashu.com^
 ||sdkgen.data.hongboluo.com^
