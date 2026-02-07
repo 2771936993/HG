@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-02-04 08:58:15 (北京时间)
-! Total count: 10894 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-02-07 08:58:02 (北京时间)
+! Total count: 10902 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,8 +10,18 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+||b8038.cc^
+||1d1ebb6e.b8038.cc.cname.scname.com^
+||hyoonyenbackfi.yxb2017.com^
+||hyoonyenbackfi.yxb2017.com.gccdn.net^
+||qwer12.7qtmgo.com^
+||kingsoftspark.7qtmgo.com.download.ks-cdn.com^
+||www.imty2171.com^
+||www.imty2104.com^
+||imty2171.com.bshslb.com^
+||imty2104.com.adakamai.com^
+||imty688.com^
 ||wy.668wan.com^
-||sx-common-v4.volcgtm.com^
 ||www.gruh.top^
 ||www.mhzs9.top^
 ||tongji.53zf.com^
@@ -496,7 +506,6 @@
 ||jby27.com^
 ||20251217.pvdxy.com^
 ||bbjrf.hlplfr.cn^
-||ipinfo.io^
 ||wjswm.cknts.top^
 ||d1yk9wgke74e61.cloudfront.net^
 ||ij6xsq.com^
@@ -1819,7 +1828,6 @@
 ||n98-lf-cdn-tos-ncdn.bytegecko.com^
 ||lf-normal-gr-sourcecdn.bytegecko.com^
 ||lf6-cdn-tos.bytegeckoext.com^
-||p3-novel-sign.byteimg.com^
 ||api.zyoperate.com^
 ||sortlink.xmnth.cn^
 ||static.zyoperate.com^
