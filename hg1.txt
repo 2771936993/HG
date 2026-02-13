@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-02-10 09:13:04 (北京时间)
-! Total count: 10911 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-02-13 09:07:03 (北京时间)
+! Total count: 10925 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,8 +10,21 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
-
+||zzuad.btpol.cn^
+||612933.eoqwp.cn^
+||qunrobots-30209.picsz.qpic.cn^
+||8.u.cdshenghe.com^
+||mdp-appconf-cn.heytapdownload.com^
+||svbtdkk1iu96d9gm.nxds66.com^
+||dityvtamz8pxd.cloudfront.net^
+||all.nxds66.com.a1.initac.com^
+||ybjm7nrza4cj.qihauw.com^
+||all.qihauw.com.a1.initqq.com^
+||3.eyhsy.cn^
+||all.eyhsy.cn.w.cdngslb.com^
+||2028126.com^
+||2028.0304222.com^
+||cms-fa4dhz1m0acvgr45.kfcitr1.com^
 ||pkxnh5.cc^
 ||dns.msftncsi.com^
 ||v1.cnzz.com^
@@ -6479,7 +6492,6 @@
 ||4466bb9.com^
 ||a.adtng.com^
 ||a.baoke-cn.com^
-||a.etoote.com^
 ||a.eturl.cn^
 ||a.fxltsbl.com^
 ||a.gdt.qq.com^
