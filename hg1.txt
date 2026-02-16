@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-02-13 09:07:03 (北京时间)
-! Total count: 10925 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-02-16 09:03:24 (北京时间)
+! Total count: 10942 (仅统计AdGuard规则)
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,24 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+||dl.cache.ebyr1w.cn^
+||zy123a4b5abc.comfylink.com^
+||rtx.smzdm.com^
+||jxylc.top^
+||jxylc.vip^
+||caiyun.feixin.10086.cn^
+||swxf-tz.bdheyisf.com^
+||d2brjvckbreb6e.cloudfront.net^
+||dym74.cc^
+||e106-43.vxkmq6r.com^
+||d2w1c0duz9q77o.cloudfront.net^
+||ms.krilosklomosnorlo.com^
+||d3hgpoc2h1msig.cloudfront.net^
+||asd9z.apz7x9mk.com^
+||dvj5x0qz54g5k.cloudfront.net^
+||any0512.sdloptez.com^
+||a2f6b8.pmr19q85.cc^
+||dnrikm36z5bs3.cloudfront.net^
 ||zzuad.btpol.cn^
 ||612933.eoqwp.cn^
 ||qunrobots-30209.picsz.qpic.cn^
@@ -7289,7 +7307,6 @@
 ||conn3.coloros.com^
 ||conn4.coloros.com^
 ||connect-api.cloud.huawei.com^
-||connect.rom.miui.com^
 ||connectivitycheck.cbg-app.huawei.com.cn^
 ||connectivitycheck.platform.dbankcloud.com^
 ||content-understand-strategy.sm.cn^
