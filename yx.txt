@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-02-22 09:02:19 (北京时间)
-! Total count: 1589 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-02-25 09:06:12 (北京时间)
+! Total count: 1609 (仅统计AdGuard规则)
 ! 此规则游戏拦截
 !This rule game intercepts, only intercepts games
 ! 规则链接地址
@@ -8,6 +8,30 @@
 ! 作者：海哥
 ! 全由海哥自己制作
 
+
+
+
+  
+||dftkfb-tx-and-lebian.yingxiong.com^
+||yingxiong.com.eo.dnse0.com^
+||rkpjfsm5.cscn.loveota.com^
+||any.cscn.loveota.com-bcb8da15.baiduads.com^
+||data-track.yingxiong.com^
+||rkpjfsm5.crcn.loveota.com^
+||baiduads.com^
+||dftkbsfb-and-lebian.yingxiong.com^
+||collect.loveota.com^
+||shop-bdc.yingxiong.com^
+||cn.aishengji.com^
+||isdk.heytapmobi.com^
+||usdk.yingxiong.com^
+||epdg.epc.mnc011.mcc460.pub.3gppnetwork.org^
+||usdk.zhuoyuechenxing.com^
+||conn-service-cn-05.allawntech.com^
+||launcher.tank.yxhyu.com^
+||s-static.yingxiong.com^
+||s-static.yingxiong.com.c.cdnhwc1.com^
+||hcdnw101.vip.cdnhwcbzj102.com^
 ||puffer.710473827-11-1.gcloudsvcs.com^
 ||nzm.gcloudcdn.qq.com^
 ||android.perfsight.qq.com^
