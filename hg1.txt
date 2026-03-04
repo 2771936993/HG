@@ -1,16 +1,42 @@
-! Version:    # 最后同步时间: 2026-03-01 09:08:09 (北京时间)
-! Total count: 11496 (仅统计AdGuard规则)
-# 此规则不定时更新
+! Version:    # 最后同步时间: 2026-03-04 08:59:28 (北京时间)
+! Total count: 11518 (仅统计AdGuard规则)
+# ŽË¹æÔò²»¶šÊ±žüÐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
-# 规则链接地址
+# ¹æÔòÁŽœÓµØÖ·
 # Rules link address
 # 
-# QQ：630814741
-# 作者：海哥
-# 全由海哥自己制作
+# QQ£º630814741
+# ×÷Õß£ºº£žç
+# È«ÓÉº£žç×ÔŒºÖÆ×÷
 
-
+||i.snssdk.com.queniuyk.com^
+||celfgh.cc^
+||xjkf1.jkzj888.com^
+||xjkf1.jkzj888.com.w.cdngslb.com^
+||qpd.qp725786.cc^
+||n0yyblcv.cloud.model.opendun.com^
+||jtvc.net^
+||uv7dz.q8ft6wf5.com^
+||n0ze9.3d048e6h.com^
+||dpf1rhxj9iavc.cloudfront.net^
+||qpd.qp107274.cc^
+||qpd.qp723677.cc^
+||abeg9cki.cloud.model.opendun.com^
+||qpd.qp888412.cc^
+||qpd.qp161369.cc^
+||k9abgr.cc^
+||qpd.qp448860.cc^
+||img.p5getrich6eight.com^
+||lisahost.com^
+||oss-cn-shanghai.aliyuncs.com^
+||yutr.hiloz.cn^
+||ipv6.shuzilm.cn^
+||guidao3.laiyu87.cn^
+||ads5-normal-hl.zijieapi.com^
+||wss-cq-tx-3.gzhemera.com^
+||v5-gz-a.douyinvod.com^
+||24aa7af2.qtaeixd.com^
 ||zz.bdstatic.com^
 ||qpd.qp984842.cc^
 ||rjepxnmv.cloud.model.opendun.com^
@@ -83,7 +109,6 @@
 ||aecudqvo.apzrugvfgbgvocd.top^
 ||x1.c.lencr.org^
 ||zzxx97043.ww7e9.com^
-||img.alicdn.com^
 ||vgeux1113.cdnjrirtigig.cc^
 ||js8810203.wihjeieike.com^
 ||xjvuf1113.jsfifiwnfee.cc^
@@ -764,7 +789,6 @@
 ||www.2vu5d.shop^
 ||www.xgart.shop^
 ||yzbtfi.gbkmm.cn^
-||iwisdom.apps.coloros.com^
 ||z1xjp.piexxu.cn^
 ||smqk.clgyt.cn^
 ||fdb.iwqim.cn^
@@ -4923,12 +4947,12 @@
 ||792ayvvcg0ve01yw705hmlhfayafwo.re4esbg8ijnhfdt5cd.qzhyqp.com^
 ||uwlcxw.mentionee.uodbsly.com^
 ||112.19.11.230
-#分期乐
+#·ÖÆÚÀÖ
 ||www.fenqile.com^
 ||opengw.xiaoying.com^
-#小赢
+#Ð¡Ó®
 ||cardloan.xiaoying.com^
-#快贷
+#¿ìŽû
 ||www.cdkuaidai.com^
 ||sd-gl.xinqiucc.com^
 ||1880923818.ietheivaicai.com^
@@ -5843,7 +5867,6 @@
 ||p3-ec.ecukwai.com^
 ||www.vvdjobpkzjzt.cn^
 ||zbb.bbb.9-ck.pics^
-||fourier.alibaba.com^
 ||didi7928.com^
 ||zlkn30282.cc^
 ||h5api.ssbajn.com^
@@ -7398,7 +7421,7 @@
 ||apollo.techgp.cn^
 ||app-*.lp1.npns.srv.nintendo.net^
 ||app-appstore.hismarttv.com^
-#电视软件下载
+#µçÊÓÈíŒþÏÂÔØ
 ||app-c01.lp1.npns.srv.n.nintendoswitch.cn^
 ||app-center.cdn.bcebos.com^
 ||app-kn0b2v.renrenjihua.com^
@@ -7915,7 +7938,6 @@
 ||czrwtre.cn^
 ||d.17tanwan.com^
 ||d.6oa6i.cc^
-||d.alicdn.com^
 ||d.c6g.cn^
 ||d.dasv10rewq.xyz^
 ||d.dkdsfrty.xyz^
@@ -8270,7 +8292,6 @@
 ||fonts.yinxiang.com^
 ||forge-test.speedtest.cn^
 ||forms.ebdan.net^
-||fourier.taobao.com^
 ||foxitreader.cn^
 ||fp-upload.dun.163.com^
 ||fp.fraudmetrix.cn^
