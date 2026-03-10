@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-03-04 08:59:28 (北京时间)
-! Total count: 11518 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-03-10 08:56:36 (北京时间)
+! Total count: 11548 (仅统计AdGuard规则)
 # ŽË¹æÔò²»¶šÊ±žüÐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,37 @@
 # ×÷Õß£ºº£žç
 # È«ÓÉº£žç×ÔŒºÖÆ×÷
 
+||resource.hnchjkj.cn^
+||wifi-api-cdn.csshuqu.cn^
+||store01.heytapimage.com^
+||twc161.cc^
+||phrix-lnc.com^
+||lp.aaa307.click^
+||aeventlog.beacon.qq.com^
+||hb727256.cc^
+||cfb3803c.hb727256.cc.cname.scname.com^
+||www.hb211310.cc^
+||hb211310.cc.bshslb.com^
+||76448756.com^
+||qpappkf2.jla2009.com^
+||qpappkf2.jla2009.com.w.cdngslb.com^
+||downloadoptha13.sjjzxs.com^
+||2194526c.sfszat.com^
+||g65d386.cdn.sfszat.com^
+||dld030421.ftxjlb.com^
+||all.ftxjlb.com.w.cdngslb.com^
+||lcbenfvdav.activityj.com^
+||0505.bigo.h5.costsj.com^
+||file.icve.com.cn^
+||bn2.cdn.beiancdn.com^
+||bn3.cdn.beiancdn.com^
+||file.icve.com.cn.3f992a7e.cdnhwc8.cn^
+||ddos-3f992a7e3c604d3d8eef1b4da9aa8c28.svipgulr.com^
+||gxx.88636126.com^
+||mevh3w.cc^
+||ky7paaa.cc^
+||56614773.99608321.com^
+||99608321.com^
 ||i.snssdk.com.queniuyk.com^
 ||celfgh.cc^
 ||xjkf1.jkzj888.com^
@@ -9338,7 +9369,6 @@
 ||m.qvkanwen.com^
 ||m.sanygroup.com^
 ||m.taofen8.com^
-||m.v.qq.com^
 ||m.vandream.com^
 ||m.vmall.com^
 ||m.weishi.qq.com^
