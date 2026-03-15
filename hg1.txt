@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ! Version:    # 最后同步时间: 2026-03-13 09:00:35 (北京时间)
 ! Total count: 11548 (仅统计AdGuard规则)
 =======
@@ -6,14 +7,19 @@
 ! Total count: 11576 (仅统计AdGuard规则)
 >>>>>>> Stashed changes
 # ŽË¹æÔò²»¶šÊ±žüÐÂ
+=======
+! Version:    # 最后同步时间: 2026-03-15 11:21:19 (北京时间)
+! Total count: 11576 (仅统计AdGuard规则)
+# 此规则不定时更新
+>>>>>>> Stashed changes
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
-# ¹æÔòÁŽœÓµØÖ·
+# 规则链接地址
 # Rules link address
 # 
-# QQ£º630814741
-# ×÷Õß£ºº£žç
-# È«ÓÉº£žç×ÔŒºÖÆ×÷
+# QQ：630814741
+# 作者：海哥
+# 全由海哥自己制作
 
 
 
@@ -5013,12 +5019,12 @@
 ||792ayvvcg0ve01yw705hmlhfayafwo.re4esbg8ijnhfdt5cd.qzhyqp.com^
 ||uwlcxw.mentionee.uodbsly.com^
 ||112.19.11.230
-#·ÖÆÚÀÖ
+#分期乐
 ||www.fenqile.com^
 ||opengw.xiaoying.com^
-#Ð¡Ó®
+#小赢
 ||cardloan.xiaoying.com^
-#¿ìŽû
+#快贷
 ||www.cdkuaidai.com^
 ||sd-gl.xinqiucc.com^
 ||1880923818.ietheivaicai.com^
@@ -7487,7 +7493,7 @@
 ||apollo.techgp.cn^
 ||app-*.lp1.npns.srv.nintendo.net^
 ||app-appstore.hismarttv.com^
-#µçÊÓÈíŒþÏÂÔØ
+#电视软件下载
 ||app-c01.lp1.npns.srv.n.nintendoswitch.cn^
 ||app-center.cdn.bcebos.com^
 ||app-kn0b2v.renrenjihua.com^

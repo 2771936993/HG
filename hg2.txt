@@ -1,43 +1,47 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ! Version:    # 最后同步时间: 2026-03-13 09:00:35 (北京时间)
 =======
 ! Version:    # 最后同步时间: 2026-03-15 10:53:11 (北京时间)
 >>>>>>> Stashed changes
+=======
+! Version:    # 最后同步时间: 2026-03-15 11:21:19 (北京时间)
+>>>>>>> Stashed changes
 ! Total count: 277 (仅统计AdGuard规则)
-#ñéÅÅçË
-#ø£òò¤ü¤È¡Ó¿Ìå·
+#放行单
+#只适合海哥规则
 
 
 @@||api.geetest.com^
-#À■¼àæÍôÜä°çúô¥îÕøÊÀ■#
+#↑魅族论坛登录验证↑#
 @@||xqimg.imedao.com^
-#À■îˋú·ë¥ó˜#
+#↑雪球图片#
 @@||new.joluac.cn^
 @@||cleaner.magicalstory.top^
-#À■¯ýæ¢úÍâÚƒ»#
+#↑安卓清理君#
 @@||r11.realme.net^
-#À■íÌöØèÓú½ë¥ó˜#
+#↑真我社区图片#
 @@||p1.bdxiguaimg.com^
 @@||vip.cqkeb.com^
 @@||s3.pstatp.com^
 @@||zhanzhang.toutiao.com^
 @@||cdn.aiqingyu1314.com^
 @@||cdn-04.g52j7.com^
-#À■AGEë½íƒ#
+#↑AGE网站#
 @@||h5.qzone.qq.com^
 @@||api5-normal-hl.toutiaoapi.com^
 @@||overseactrl.map.qq.com^
 @@||vectorsdk.map.qq.com^
-#À■qqçÄë¥#
+#↑qq地图#
 @@||allcdn.china.qiniu.qnydns.com^
 @@||h2.static.yximgs.com^
 @@||profile2.se.360.cn^
 @@||pbaccess.video.qq.com^
 @@||a.video.qq.com^
 @@||galleryapi.micloud.xiaomi.net^
-#À■ÅÀûæüÁýÃ¡Ô¥Ñ¿ÎáÉüôåÄÀ■#
+#↑小米相册高级功能下载↑#
 @@||lf3-short.ibytedapm.com^
-#À■ëñä¾ùîù¼À■#
+#↑头条搜索↑#
 @@||321mh.com^
 @@||aaid.umeng.com^
 @@||access.d.xxpkg.com^
@@ -108,7 +112,7 @@
 @@||fe3cr.delivery.mp.microsoft.com^
 @@||fengduxiaoshuo.com^
 @@||film.video.qq.com^
-ÈÀÀ■À■äÖîÑòÆóçèÒÝ¡¿ÉâÚó¼!
+！↑↑腾讯视频设备管理器!
 @@||game-infoc.biligame.com^
 @@||game.eve.mdt.qq.com^
 @@||geiligeili.3haoquan.com^
@@ -130,14 +134,14 @@
 @@||hub5emu.sandai.net^
 @@||hub5pn.wap.sandai.net^
 @@||i.gtimg.cn^
-!À■À■qqÝÚúÕ¯■!
+!↑↑qq表情包!
 @@||img2.xiangbinjun.com^
 @@||img20.360buyimg.com^
 @@||incoming.telemetry.mozilla.org^
 @@||ini.update.360safe.com^
 @@||is.snssdk.com^
 @@||jhk-cdn-mampic.hismarttv.com^
-#¤ÈÅéçÓòÆÆÅüÔÀ■
+#海信电视有线↑
 @@||jmcomic.one^
 @@||jscss.360buyimg.com^
 @@||kphm5nf3.m.chenzhongtech.com^
@@ -180,7 +184,7 @@
 @@||p1.ssl.qhimg.com^
 @@||p3.ssl.qhimg.com^
 @@||p66-pro.gskwai.com^
-!À■À■¢šòøùîù¼À■À■!
+!↑↑快手搜索↑↑!
 @@||p9-open-sign.byteimg.com^
 @@||pages.tmall.com^
 @@||pan.quark.cn^
@@ -196,7 +200,7 @@
 @@||query.aliyun.com^
 @@||qurl.f.360.cn^
 @@||qzonestyle.gtimg.cn^
-ÈÀÈÀqqà¤¿¨¡ÌÀ■
+！！qq群公告↑
 @@||reading.snssdk.com^
 @@||readstatic.zhulang.com^
 @@||report.qqweb.qq.com^
@@ -235,7 +239,7 @@
 @@||umcdn.uc.cn^
 @@||umwatson.events.data.microsoft.com^
 @@||unified-ter.hismarttv.com^
-#¤ÈÅéçÓòÆë¥ó˜À■
+#海信电视图片↑
 @@||uosdk.biligame.com^
 @@||upload-as0.qbox.me
 @@||v1-vod.kwaicdn.com^
@@ -267,15 +271,15 @@
 @@||ywb9.top^
 @@||zhan.vivo.com.cn^
 @@||www.n.cn^
-#360aiùîù¼
+#360ai搜索
 
 
 @@||sharechain.qq.com^
-#qqòíýÄÀ■À■#
+#qq收藏↑↑#
 @@||m3m.1vkx.cn^
 @@||s4.ssl.qhres2.com^
 @@||aisubtitle.hdslb.com^
-#À■Ôìê´Ôìê´æøá£À■
+#↑哔哩哔哩字幕↑
 @@||tp2.cdcnbo.cn^
 @@||new.uersqc.cn^
 @@||long.voqpox.cn^
@@ -287,26 +291,26 @@
 @@||apm-and.zhipin.com^
 @@||logapi-and.zhipin.com^
 @@||thirdwx.qlogo.cn^
-#ëñüþÀ■#
+#头像↑#
 @@||forjson.7boexyu9.com^
 @@||mjs.szaction.cc^
 @@||mjson.szaction.cc^
 @@||d66-plat-solar.wsukwai.com^
-#À■çúô¥îÕøÊ#
+#↑登录验证#
 @@||qiyukf.com^
-#À■¢ëñ±Ñå£¯#
+#↑客服对话#
 @@||static.geetest.com^
 @@||cdn-msp3.jmapiproxy2.cc^
 @@||hjdh7.srksm.cn^
 @@||m8l8.fnxfpb.com^
 @@||ads.privacy.qq.com^
-#À■¿Ð¡Ìñ±öþèÒøûÀ■#
+#↑广告服务设置↑#
 @@||mfunuevebimg1.sxjwwp.com^
 @@||newimgs02.whcmv.com^
 @@||2h4j.cfmjsm.com^
 @@||loc.map.baidu.com^
-#À■Ñ´ö£À■#
+#↑定位↑#
 @@||assets.woozooo.com^
 @@||mmbiz.qpic.cn^
-#À■¿¨øÖ¤éë¥ó˜À■#
+#↑公众号图片↑#
 @@||formulae.brew.sh^
