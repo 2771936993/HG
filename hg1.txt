@@ -1,17 +1,6 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-! Version:    # 最后同步时间: 2026-03-13 09:00:35 (北京时间)
-! Total count: 11548 (仅统计AdGuard规则)
-=======
-! Version:    # 最后同步时间: 2026-03-15 10:53:11 (北京时间)
-! Total count: 11576 (仅统计AdGuard规则)
->>>>>>> Stashed changes
-# ŽË¹æÔò²»¶šÊ±žüÐÂ
-=======
-! Version:    # 最后同步时间: 2026-03-15 11:21:19 (北京时间)
+! Version:    # 最后同步时间: 2026-03-16 09:10:20 (北京时间)
 ! Total count: 11576 (仅统计AdGuard规则)
 # 此规则不定时更新
->>>>>>> Stashed changes
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
 # 规则链接地址
