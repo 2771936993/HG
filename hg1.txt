@@ -1,20 +1,42 @@
-! Version:    # 最后同步时间: 2026-03-16 09:10:20 (北京时间)
-! Total count: 11576 (仅统计AdGuard规则)
-# 此规则不定时更新
+! Version:    # 最后同步时间: 2026-03-19 09:05:31 (北京时间)
+! Total count: 11597 (仅统计AdGuard规则)
+# ŽË¹æÔò²»¶šÊ±žüÐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
-# 规则链接地址
+# ¹æÔòÁŽœÓµØÖ·
 # Rules link address
 # 
-# QQ：630814741
-# 作者：海哥
-# 全由海哥自己制作
+# QQ£º630814741
+# ×÷Õß£ºº£žç
+# È«ÓÉº£žç×ÔŒºÖÆ×÷
 
 
-
+||f791j.xdkrdy.cn^
+||scdnxaxau.pandacdn.top^
+||lili.hiloz.cn^
+||www.bnymyd.cn^
+||hp417.oss-cn-chengdu.aliyuncs.com^
+||iwisdom.apps.coloros.com^
+||hp406.oss-cn-chengdu.aliyuncs.com^
+||tepoch.finzfin.com^
+||2b49h.hbdtzdz.cn^
+||hp473.oss-cn-chengdu.aliyuncs.com^
+||*.oss-cn-chengdu.aliyuncs.com^
+||hy533.oss-cn-wulanchabu.aliyuncs.com^
+||qpd.qp524309.cc^
+||senvf4ar.cloud.model.opendun.com^
+||c8ov7y.cc^
+||xjkf4.jkzj888.com^
+||xjkf4.jkzj888.com.w.cdngslb.com^
+||ffyd.b72nt.com^
+||kft.82tkk.com^
+||hn68fvwj.n.cdn6ao.vip^
+||n68fvwj.n.cdn6ao.vip^
+||146.103.92.156^
+||ddqe4opczpx3m.cloudfront.net^
+||www.mejj577.com^
+||5lsovz.cc^
 ||arm.zcj1.hiajfxo.cn^
-||smgnsjson.8u436y29.com^
-||wbeoshajs.4167xig8.com^
 ||video-search-1258344701.shiply-cdn.qq.com^
 ||rdelivery.qq.com^
 ||rmonitor.qq.com^
@@ -2226,7 +2248,6 @@
 ||cluster70d31fdc.74067120.com^
 ||clustercb3e14c1.00601015.com^
 ||064ba71b.00601015.com^
-||m3m.qfbyjin6y1e3.com^
 ||j680503.cc^
 ||translate-cdn.xiangtatech.com^
 ||jocr7u68ud.7uxokjaz.com^
@@ -2639,7 +2660,6 @@
 ||pf6sa5dc.xiaohongshu-mycdn.com
 ||max-k8s.adsys.qihucdn.cn
 ||dd.gdian.care^
-||mltjson.46z02bj3.com^
 ||zgea886.com^
 ||awsins.3wf32emgd3.com^
 ||www.acuh567.com^
@@ -5008,12 +5028,12 @@
 ||792ayvvcg0ve01yw705hmlhfayafwo.re4esbg8ijnhfdt5cd.qzhyqp.com^
 ||uwlcxw.mentionee.uodbsly.com^
 ||112.19.11.230
-#分期乐
+#·ÖÆÚÀÖ
 ||www.fenqile.com^
 ||opengw.xiaoying.com^
-#小赢
+#Ð¡Ó®
 ||cardloan.xiaoying.com^
-#快贷
+#¿ìŽû
 ||www.cdkuaidai.com^
 ||sd-gl.xinqiucc.com^
 ||1880923818.ietheivaicai.com^
@@ -7482,7 +7502,7 @@
 ||apollo.techgp.cn^
 ||app-*.lp1.npns.srv.nintendo.net^
 ||app-appstore.hismarttv.com^
-#电视软件下载
+#µçÊÓÈíŒþÏÂÔØ
 ||app-c01.lp1.npns.srv.n.nintendoswitch.cn^
 ||app-center.cdn.bcebos.com^
 ||app-kn0b2v.renrenjihua.com^
