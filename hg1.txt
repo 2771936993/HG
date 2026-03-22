@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-03-19 09:05:31 (北京时间)
-! Total count: 11597 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-03-22 09:05:06 (北京时间)
+! Total count: 11623 (仅统计AdGuard规则)
 # ŽË¹æÔò²»¶šÊ±žüÐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,7 +10,37 @@
 # ×÷Õß£ºº£žç
 # È«ÓÉº£žç×ÔŒºÖÆ×÷
 
-
+||q46.hbeases.cn^
+||as5f51.oss-cn-beijing.aliyuncs.com^
+||sc-2b1b.cn-beijing.oss-adns.aliyuncs.com.gds.alibabadns.com^
+||aecexeobegab5sgn.0kkkkkt.com^
+||aecnrlydn2nxksls.0kkkkkt.com^
+||*.0kkkkkt.com^
+||bvghbvuhvgjhbgi.ctydoh.cn^
+||sfceszem.z1cdn.com^
+||sdktt.data.comfylink.com^
+||douyinve.starrydyn.com^
+||xnkyanad.z1cdn.com^
+||78c6ded3.qtaeixd.com^
+||1863111833.ahdohpiechei.com^
+||ahdohpiechei.com^
+||b4ce3fe9-9.sjxydc.com^
+||apk.1sapp.com^
+||cfgc.flysleep.cn^
+||errc.zztfly.com^
+||ad-sdk.aiclk.com^
+||grs.dbankcloud.cn^
+||api-ga.aiclk.com^
+||tv-logserver.1sapp.com^
+||api.aiclk.com^
+||gw.innotechx.com^
+||ssp.iytcdn.com^
+||grs.dbankcloud.eu^
+||message-push.1sapp.com^
+||luna.58.com^
+||eventlog.1sapp.com^
+||2khb.pfhhrhv.cn^
+||xijb8.zkiempb.cn^
 ||f791j.xdkrdy.cn^
 ||scdnxaxau.pandacdn.top^
 ||lili.hiloz.cn^
@@ -66,7 +96,6 @@
 ||135232kc.zqemrjr.com^
 ||4t052s198a62ga16.aliyunddos1012.com^
 ||wy.602.com.volcgslb.com^
-||sx-common-v4.volcgtm.com^
 ||wy.602.com^
 ||resource.hnchjkj.cn^
 ||wifi-api-cdn.csshuqu.cn^
@@ -7428,7 +7457,6 @@
 ||api.comm.miui.com^
 ||api.df.mob.com^
 ||api.e.kuaishou.cn^
-||api.e.kuaishou.com^
 ||api.g.micloud.xiaomi.net^
 ||api.game.chot.cn^
 ||api.game.hnquyou.com^
@@ -7595,7 +7623,6 @@
 ||ayxb.t4m.cn^
 ||az1-api-idc.ksapisrv.com^
 ||az2-api-js.gifshow.com^
-||az2-upload.ksapisrv.com^
 ||az3-api-js.gifshow.com^
 ||az4-api-idc.ksapisrv.com^
 ||b.clcbk.com^
@@ -9743,11 +9770,9 @@
 ||open.cyqh.com.cn^
 ||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
-||open.kuaishou.com^
 ||open.kuaishouzt.com^
 ||open.scmccboss.com^
 ||open.srv.jj.cn^
-||open.toutiao.com^
 ||openapi.vmall.com^
 ||opencloud.wostore.cn^
 ||opendata.baidu.com^

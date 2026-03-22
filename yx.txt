@@ -1,4 +1,4 @@
-! Version:    # 最后同步时间: 2026-03-19 09:05:31 (北京时间)
+! Version:    # 最后同步时间: 2026-03-22 09:05:06 (北京时间)
 ! Total count: 1610 (仅统计AdGuard规则)
 ! ŽË¹æÔòÓÎÏ·À¹œØ
 !This rule game intercepts, only intercepts games
