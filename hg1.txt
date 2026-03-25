@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-03-22 09:05:06 (北京时间)
-! Total count: 11623 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-03-25 09:04:28 (北京时间)
+! Total count: 11632 (仅统计AdGuard规则)
 # ŽË¹æÔò²»¶šÊ±žüÐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,23 @@
 # ×÷Õß£ºº£žç
 # È«ÓÉº£žç×ÔŒºÖÆ×÷
 
+
+
+||file.iixlz.cn^
+||jpeg.iixlz.cn^
+||manager.msyqo.com^
+||323cc179.xgh7hg.top^
+||xgh7hg.top^
+||vis.hmstui.6a2gl.cn^
+||www.uiozhi.cn^
+||xingyunxing520.oss-cn-beijing.aliyuncs.com^
+||ipapi.co^
+||2d0ddbf2-dnsotls-ds.metric.gstatic.com^
+||hh224a1.h7gu2u.top^
+||h7gu2u.top^
+||api.jizhouguang.com^
+||96cz.cc^
+||qq249.cc^
 ||q46.hbeases.cn^
 ||as5f51.oss-cn-beijing.aliyuncs.com^
 ||sc-2b1b.cn-beijing.oss-adns.aliyuncs.com.gds.alibabadns.com^
@@ -826,9 +843,7 @@
 ||1.fw.zhongshanpark.com.cn^
 ||jh-api.tj.db996.cn^
 ||p9t.cn^
-||az3-live-idc.ksapisrv.com^
 ||openapi-slp.heytapmobi.com^
-||az3-upload-js.gifshow.com^
 ||rup4a04-c02.tos-cn-hongkong.bytepluses.com^
 ||b9f49d03.58825279.com^
 ||138.113.217.241^
@@ -7472,7 +7487,6 @@
 ||api.jshwu.cn^
 ||api.kingdata.ksyun.com^
 ||api.kpgxb.com^
-||api.kwaizt.com^
 ||api.liuliangguo.com^
 ||api.mapps.uve.weibo.com^
 ||api.mockuai.com^
@@ -7507,7 +7521,6 @@
 ||apiapm.gz4399.com^
 ||apidns.kwd.inkuai.com^
 ||apidt.my91app.com^
-||apihb6.gifshow.com^
 ||apijs.gifshow.com^
 ||apijs.ksapisrv.com^
 ||apijs1.gifshow.com^
@@ -7535,7 +7548,6 @@
 ||app-center.cdn.bcebos.com^
 ||app-kn0b2v.renrenjihua.com^
 ||app-lsiwbt.20under20ivy.com^
-||app-measurement.com^
 ||app-preload.iqiyi.com^
 ||app-r2azdj.dapengyh.com^
 ||app-res.kanpp.xyz^
@@ -7623,7 +7635,6 @@
 ||ayxb.t4m.cn^
 ||az1-api-idc.ksapisrv.com^
 ||az2-api-js.gifshow.com^
-||az3-api-js.gifshow.com^
 ||az4-api-idc.ksapisrv.com^
 ||b.clcbk.com^
 ||b.weatherol.com.cn^

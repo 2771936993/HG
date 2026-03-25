@@ -1,12 +1,12 @@
-! Version:    # 最后同步时间: 2026-03-22 09:05:06 (北京时间)
+! Version:    # 最后同步时间: 2026-03-25 09:04:28 (北京时间)
 ! Total count: 1610 (仅统计AdGuard规则)
-! ŽË¹æÔòÓÎÏ·À¹œØ
+! ´Ë¹æÔòÓÎÏ·À¹½Ø
 !This rule game intercepts, only intercepts games
-! ¹æÔòÁŽœÓµØÖ·
+! ¹æÔòÁ´½ÓµØÖ·
 ! Rules link address
 ! QQ£º630814741
-! ×÷Õß£ºº£žç
-! È«ÓÉº£žç×ÔŒºÖÆ×÷
+! ×÷Õß£ºº£¸ç
+! È«ÓÉº£¸ç×Ô¼ºÖÆ×÷
 
 
 ||prod-udp-probe-nj.cg.qq.com^
@@ -704,7 +704,7 @@
 ||line3-log.biligame.net^
 ||mall.51haoka.shop^
 ||game.weixin.qq.com^
-#¡ü¡üÎ¢ÐÅÓÐÐ©Žò²»¿ªŸÍ¹Ø±ÕËû#
+#¡ü¡üÎ¢ÐÅÓÐÐ©´ò²»¿ª¾Í¹Ø±ÕËû#
 ||s11gatefumo.yyxxgame.com^
 ||fumocdn1.yyxxgame.com^
 ||fumoapi.yyxxgame.com^
@@ -1207,7 +1207,7 @@
 ||ver.spaceparty.cn^
 ||channel.sdk.mobileztgame.com^
 ||openapi.music.163.com^
-##¶šÎ»##
+##¶¨Î»##
 @@||apilocate.amap.com^
 @@||dualstack-restapi.amap.com^
 @@||dualstack-logs.amap.com^
@@ -1537,7 +1537,7 @@
 ||union.gdtimg.com^
 ||info.3g.qq.com^
 @@||i.gtimg.cn^
-!!µÇÂŒ
+!!µÇÂ¼
 ||report.gamecenter.qq.com^
 ||update1.dlied.qq.com^
 ||update5.dlied.qq.com^
