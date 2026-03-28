@@ -1,12 +1,12 @@
-! Version:    # 最后同步时间: 2026-03-25 09:04:28 (北京时间)
+! Version:    # 最后同步时间: 2026-03-28 09:03:31 (北京时间)
 ! Total count: 1610 (仅统计AdGuard规则)
-! ´Ë¹æÔòÓÎÏ·À¹½Ø
+! ŽËčæÔòÓÎÏ·ÀčœŰ
 !This rule game intercepts, only intercepts games
-! ¹æÔòÁ´½ÓµØÖ·
+! čæÔòÁŽœÓ”ŰÖ·
 ! Rules link address
-! QQ£º630814741
-! ×÷Õß£ºº£¸ç
-! È«ÓÉº£¸ç×Ô¼ºÖÆ×÷
+! QQŁș630814741
+! ŚśŐßŁșșŁžç
+! È«ÓÉșŁžçŚÔŒșÖÆŚś
 
 
 ||prod-udp-probe-nj.cg.qq.com^
@@ -646,7 +646,7 @@
 ||uic.gamesafe.qq.com^
 ||m3ios.jgm.qq.com^
 @@||thirdqq.qlogo.cn^
-#¡üÍ·Ïñ#
+#ĄüÍ·Ïń#
 ||download.2.221234005.tc.gcloudgbs.com^
 ||download.949687666-1-1.gcloudsvcs.com^
 ||down.tyscyrj.qq.com^
@@ -704,7 +704,7 @@
 ||line3-log.biligame.net^
 ||mall.51haoka.shop^
 ||game.weixin.qq.com^
-#¡ü¡üÎ¢ÐÅÓÐÐ©´ò²»¿ª¾Í¹Ø±ÕËû#
+#ĄüĄüÎąĐĆÓĐĐ©ŽòČ»żȘŸÍčŰ±ŐËû#
 ||s11gatefumo.yyxxgame.com^
 ||fumocdn1.yyxxgame.com^
 ||fumoapi.yyxxgame.com^
@@ -1207,7 +1207,7 @@
 ||ver.spaceparty.cn^
 ||channel.sdk.mobileztgame.com^
 ||openapi.music.163.com^
-##¶¨Î»##
+##¶šÎ»##
 @@||apilocate.amap.com^
 @@||dualstack-restapi.amap.com^
 @@||dualstack-logs.amap.com^
@@ -1537,7 +1537,7 @@
 ||union.gdtimg.com^
 ||info.3g.qq.com^
 @@||i.gtimg.cn^
-!!µÇÂ¼
+!!”ÇÂŒ
 ||report.gamecenter.qq.com^
 ||update1.dlied.qq.com^
 ||update5.dlied.qq.com^
