@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-03-28 09:03:31 (北京时间)
-! Total count: 11510 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-03-31 09:10:37 (北京时间)
+! Total count: 11521 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,6 +11,19 @@
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
 
 
+
+||oyb3.xyz^
+||dd993.cc^
+||onlyv4.kspays.com^
+||p4-plat.wskwai.com^
+||v16-img.djvod.ndcimgs.com^
+||jxydfs.wpfcnsb.com^
+||v4vb7m.top^
+||h5.oldkids.cn^
+||eap-log-cn.allawntech.com^
+||vcl-hj-brain-v6.ndcppx.com^
+||query.iixlz.cn^
+||home.iixlz.cn^
 ||qod.ixhzj.cn^
 ||tpjjaj.zfrmk.cn^
 ||honjpe.zfrmk.cn^
@@ -2765,7 +2778,6 @@
 ||yuetu1998.00926534.com^
 ||58.243.181.238^
 ||jttpiokjehagbnmnahag15.gxlndx.com.9c6895ab.cdnhwcvix16.com^
-||hcdnw101.sme.foreign.cdnhwcaoc115.cn^
 ||h5static6.gt404h.com^
 ||dataapi.top2fun.com^
 ||c.tobidad.cn^
