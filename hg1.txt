@@ -1,4 +1,4 @@
-! Version:    # 最后同步时间: 2026-04-01 09:17:35 (北京时间)
+! Version:    # 最后同步时间: 2026-04-04 09:04:50 (北京时间)
 ! Total count: 11521 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
