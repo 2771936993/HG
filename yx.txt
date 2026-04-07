@@ -1,14 +1,20 @@
-! Version:    # 最后同步时间: 2026-04-04 09:04:50 (北京时间)
-! Total count: 1610 (仅统计AdGuard规则)
-! ŽËčæÔòÓÎÏ·ÀčœŰ
+! Version:    # 最后同步时间: 2026-04-07 09:11:14 (北京时间)
+! Total count: 1617 (仅统计AdGuard规则)
+! ┤╦╣µÈ‗Ë╬¤À└╣¢Ï
 !This rule game intercepts, only intercepts games
-! čæÔòÁŽœÓ”ŰÖ·
+! ╣µÈ‗┴┤¢ËÁÏÍÀ
 ! Rules link address
-! QQŁș630814741
-! ŚśŐßŁșșŁžç
-! È«ÓÉșŁžçŚÔŒșÖÆŚś
+! QQú║630814741
+! Î¸ı▀ú║║ú©þ
+! ╚½Ë╔║ú©þÎÈ╝║ÍãÎ¸
 
-
+||gameletauth.native.qq.com^
+||nrc.gcloudcdn.qq.com^
+||gcloud-nrc.bytes.tcdnos.com^
+||gcloud-nrc.ws.tcdnos.com^
+||gcloud-nrc.aly.tcdnos.com^
+||config.nrc.qq.com^
+||download.924524759-1-1.gcloudsvcs.com^
 ||prod-udp-probe-nj.cg.qq.com^
 ||dftkfb-tx-and-lebian.yingxiong.com^
 ||yingxiong.com.eo.dnse0.com^
@@ -646,7 +652,7 @@
 ||uic.gamesafe.qq.com^
 ||m3ios.jgm.qq.com^
 @@||thirdqq.qlogo.cn^
-#ĄüÍ·Ïń#
+#í³═À¤±#
 ||download.2.221234005.tc.gcloudgbs.com^
 ||download.949687666-1-1.gcloudsvcs.com^
 ||down.tyscyrj.qq.com^
@@ -704,7 +710,7 @@
 ||line3-log.biligame.net^
 ||mall.51haoka.shop^
 ||game.weixin.qq.com^
-#ĄüĄüÎąĐĆÓĐĐ©ŽòČ»żȘŸÍčŰ±ŐËû#
+#í³í³╬óð┼Ëðð®┤‗▓╗┐¬¥═╣Ï▒ı╦¹#
 ||s11gatefumo.yyxxgame.com^
 ||fumocdn1.yyxxgame.com^
 ||fumoapi.yyxxgame.com^
@@ -1207,7 +1213,7 @@
 ||ver.spaceparty.cn^
 ||channel.sdk.mobileztgame.com^
 ||openapi.music.163.com^
-##¶šÎ»##
+##Â¿╬╗##
 @@||apilocate.amap.com^
 @@||dualstack-restapi.amap.com^
 @@||dualstack-logs.amap.com^
@@ -1537,7 +1543,7 @@
 ||union.gdtimg.com^
 ||info.3g.qq.com^
 @@||i.gtimg.cn^
-!!”ÇÂŒ
+!!ÁÃ┬╝
 ||report.gamecenter.qq.com^
 ||update1.dlied.qq.com^
 ||update5.dlied.qq.com^

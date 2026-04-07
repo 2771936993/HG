@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-04-04 09:04:50 (北京时间)
-! Total count: 11521 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-04-07 09:11:14 (北京时间)
+! Total count: 11523 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,8 +10,11 @@
 # ŚśŐßŁșșŁžç
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
 
-
-
+||www.5vgh4u.vip^
+||pos3img.neiztcl.com^
+||picture.xx6658244.one^
+||siiuerz4.com^
+||www.fupozbz11a.com^
 ||oyb3.xyz^
 ||dd993.cc^
 ||onlyv4.kspays.com^
@@ -95,7 +98,6 @@
 ||video-search-1258344701.shiply-cdn.qq.com^
 ||rdelivery.qq.com^
 ||rmonitor.qq.com^
-||snowflake.qq.com^
 ||nst.b5gvpk5.com^
 ||node65.aizhantj.com^
 ||st13146668.aflnkey.com^
@@ -2652,7 +2654,6 @@
 ||report.qq.com^
 ||tajs.qq.com^
 ||szmmsns.qpic.cn^
-||appcfg.v.qq.com^
 ||m.skin360.com.cn^
 ||interface.bilibili.com^
 ||mon.zijieapi.com^
@@ -10381,7 +10382,6 @@
 ||ssp.2345.com^
 ||ssp.vivo.com.cn^
 ||sspeeddns.com^
-||ssr.gamecenter.qq.com^
 ||ssw119.xyz^
 ||st.360buyimg.com^
 ||st.jingxi.com^
