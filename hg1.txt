@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-04-07 09:11:14 (北京时间)
-! Total count: 11523 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-04-10 09:13:08 (北京时间)
+! Total count: 11541 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,24 @@
 # ŚśŐßŁșșŁžç
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
 
+||kgxvne.shop^
+||bj-td-menta-01-callback.advlion.com^
+||trrs-adp.2345.com^
+||alicoccdnct-hd.inter.71edge.com^
+||tuia-adx-web.tuia.cn^
+||wnsop.twns.qq.com^
+||servicewechat.com^
+||ripd.webankcdn.net^
+||w.webank.com^
+||ripd.wldservice.com^
+||tracev6.tctpwebank.com^
+||app.adjust.io^
+||sn99.top^
+||www.u6f7c.shop^
+||obizsl.cnhqrxt.cn^
+||klgwmo.cnhqrxt.cn^
+||vl39h.com^
+||www.p9d9x.shop^
 ||www.5vgh4u.vip^
 ||pos3img.neiztcl.com^
 ||picture.xx6658244.one^
