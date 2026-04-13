@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-04-10 09:13:08 (北京时间)
-! Total count: 11541 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-04-13 09:18:58 (北京时间)
+! Total count: 11558 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,8 +10,25 @@
 # ŚśŐßŁșșŁžç
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
 
+||adx.anythinktech.com^
+||12353.cyou^
+||2026cname.com^
+||2026cname.com^
+||npgdwl.com^
+||ghostery.net^
+||hjkgjgj-kjbnkj.l2tzn7nx.com^
+||8cccnkcc.com^
+||l2tzn7nx.com^
+||ttol.skinzx.cn^
+||xqblwk.top^
+||jiangxindata.com^
+||vcctg.shop^
+||mpbs.djkcfln.cn^
+||shtzq.shop^
+||filq.psihhsz.cn^
+||j6wn1i.top^
 ||kgxvne.shop^
-||bj-td-menta-01-callback.advlion.com^
+||advlion.com^
 ||trrs-adp.2345.com^
 ||alicoccdnct-hd.inter.71edge.com^
 ||tuia-adx-web.tuia.cn^
