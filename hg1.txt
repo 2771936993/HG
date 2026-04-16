@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-04-13 09:18:58 (北京时间)
-! Total count: 11558 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-04-16 09:20:00 (北京时间)
+! Total count: 11569 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,9 +10,21 @@
 # ŚśŐßŁșșŁžç
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
 
+
+||9900.mcecii.cn^
+||hcy8zs.okfvzs.cn^
+||constid.dingxiang-inc.com^
+||image.mcecii.cn^
+||all.okfvzs.cn.a1.initkk.com^
+||xubwwt.mcecii.cn^
+||*.a1.initjj.com^
+|jbzyek.vip^
+||ncop1fguxyy6.cdnhhh.net^
+||qvdr8cuero.coalmo.com^
+||qvdr8cuero.coalmo.com.cdngtm.com^
+||p3static.qwevo7g2g.com^
 ||adx.anythinktech.com^
 ||12353.cyou^
-||2026cname.com^
 ||2026cname.com^
 ||npgdwl.com^
 ||ghostery.net^
