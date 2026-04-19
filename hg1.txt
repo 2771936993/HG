@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-04-16 09:20:00 (北京时间)
-! Total count: 11569 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-04-19 09:20:12 (北京时间)
+! Total count: 11637 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,6 +11,76 @@
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
 
 
+
+
+||autofill-server-cn.allawntech.com^
+||tracev6.tctpxwebank.com^
+||b75rn6.shop^
+||qorykr.ogbphfs.cn^
+||*.ogbphfs.cn^
+||*.azvjflj.cn1^
+||*.azvjflj.cn^
+||clladss.com^
+||dshaf.com^
+||4jbykif.jz7xb4.com^
+||cdn.ghostery.com^
+||e0b8c.club^
+||hyiyl5jje.ittbze.com^
+||fcapp.run^
+||huantan.net^
+||npihsa.jizhouco.com^
+||1gtua1koc.jiubili.com^
+||*.jiubili.com^
+||7uii69.18yfjgf.com^
+||volcgslb-mlt.com^
+||mmrgnyst.18yfjgf.com^
+||b5afgq42u.xrzrq.com^
+||lin22.2x2yep.top^
+||lin22.*.top^
+||*.opstatistics.cn^
+||opstatistics.com^
+||lhef7.cn^
+||axgafp.cn^
+||b4a65s6d.lhef7.cn^
+||w.kunlunaq.com^
+||bdsi94wokdsgtes.axgafp.cn^
+||ffyt.qczc.xyz^
+||hz300.xmbhnsr.cn^
+||pvfo33.qag1xj.top^
+||000xiazai3.i643g.com^
+||00.y7124965.vip^
+||000xiazai3.i643g.com^
+||*.i643g.com^
+||00hd5.j0h2sh.com^
+||*.j0h2sh.com^
+||bcxfsdfds.00cllllzz.com^
+||yllxiazai01.i643g.com^
+||282lj0413.wt-pvp.com^
+||xn--282xpj0414-2j2pt66hzvh1m9k1psd.xn--*.y-06.com^
+||1209hd.45660701.com^
+||ja01623jat.i96gpdf.top^
+||hk-tencentclb.com^
+||02893296.com^
+||ao6men56yong26.jianai02.com^
+||www13tfds2zasqw1.xzp727a33.bar^
+||wwwbgsdsvsf1.z2zaq6z5i.com^
+||wwwndbeiywlnj889.6ylhg.com^
+||wwwngretfed2.ipcxsy5xr.com^
+||*.6s92zs2tg.bar^
+||bcrrtwq1cxv6.ly413n5hh.cc^
+||*.ly413n5hh.cc^
+||amylhg0412dt1.iuemr7gu5.bar^
+||zsngyl0412b1.9q7sjngda.cc^
+||qewq37czx2.t3t1c4c6k.cc^
+||wedfrtgy6huj.9q7sjngda.cc^
+||wwwtdfbfsvgfefss98.wm7d61n70.cc^
+||*.wm7d61n70.cc^
+||cdn2.ghostery.com^
+||19.19pg0284.cc^
+||*.zhonghuamingxue.com^
+||jkhvjs.shssgs9.com^
+||*.19pgldy0324.cc^
+||skr005.cc^
 ||9900.mcecii.cn^
 ||hcy8zs.okfvzs.cn^
 ||constid.dingxiang-inc.com^
