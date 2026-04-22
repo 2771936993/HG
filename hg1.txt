@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-04-19 09:20:12 (北京时间)
-! Total count: 11637 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-04-22 09:15:52 (北京时间)
+! Total count: 11634 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -9,7 +9,6 @@
 # QQŁș630814741
 # ŚśŐßŁșșŁžç
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
-
 
 
 
@@ -3539,7 +3538,6 @@
 ||vcl-lq-brain.ndcpp.com^
 ||kzurl11.cn^
 ||jssozdgq.sched.sma.tdnsstic1.cn^
-||inews.gtimg.com^
 ||e6abbb5c.74067120.com^
 ||g4e6dc1.cdn.74067120.com^
 ||149.104.154.23^
@@ -8882,7 +8880,6 @@
 ||image.beike188.com^
 ||image.bitauto.com^
 ||image.bitautoimg.com^
-||image.cls.cn^
 ||image.cscmgg.com^
 ||image.huanyuantech.com^
 ||image.samsungeshop.com.cn^
@@ -10609,7 +10606,6 @@
 ||t.xyykjd.com^
 ||t0ql.hikedj.com^
 ||t1.xyjgjp.com^
-||t12.baidu.com^
 ||t1642.com^
 ||t16p.tech^
 ||t1z1et.tpe76.com^

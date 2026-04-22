@@ -1,9 +1,11 @@
-! Version:    # 最后同步时间: 2026-04-19 09:20:12 (北京时间)
-! Total count: 277 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-04-22 09:15:52 (北京时间)
+! Total count: 278 (仅统计AdGuard规则)
 #放行单
 #只适合海哥规则
 
 
+@@||inews.gtimg.com^
+#↑腾讯新闻图片↑#
 @@||api.geetest.com^
 #↑魅族论坛登录验证↑#
 @@||xqimg.imedao.com^
