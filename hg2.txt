@@ -1,9 +1,11 @@
-! Version:    # 最后同步时间: 2026-04-22 09:15:52 (北京时间)
-! Total count: 278 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-04-25 09:13:53 (北京时间)
+! Total count: 279 (仅统计AdGuard规则)
 #放行单
 #只适合海哥规则
 
 
+@@||docker-cache2.fnnas.com^
+#↑牛 NAS 系统（FnOS）的 Docker 镜像加速服务节点↑#
 @@||inews.gtimg.com^
 #↑腾讯新闻图片↑#
 @@||api.geetest.com^

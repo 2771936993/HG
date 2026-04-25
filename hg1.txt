@@ -1,4 +1,4 @@
-! Version:    # 最后同步时间: 2026-04-22 09:15:52 (北京时间)
+! Version:    # 最后同步时间: 2026-04-25 09:13:53 (北京时间)
 ! Total count: 11634 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
@@ -11,7 +11,7 @@
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
 
 
-
+||cjxx7p.shop^
 ||autofill-server-cn.allawntech.com^
 ||tracev6.tctpxwebank.com^
 ||b75rn6.shop^
@@ -7529,7 +7529,6 @@
 ||api.hduofen.cn^
 ||api.htp.hubcloud.com.cn^
 ||api.iegadp.qq.com^
-||api.ipify.org^
 ||api.jietuhb.com^
 ||api.jshwu.cn^
 ||api.kingdata.ksyun.com^
