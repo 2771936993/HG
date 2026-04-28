@@ -1,4 +1,4 @@
-! Version:    # 最后同步时间: 2026-04-25 09:13:53 (北京时间)
+! Version:    # 最后同步时间: 2026-04-28 09:29:54 (北京时间)
 ! Total count: 11634 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
@@ -10,7 +10,13 @@
 # ŚśŐßŁșșŁžç
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
 
-
+||159uhvip.cn^
+||bypb.7klyd.com^
+||xkcds.3t0j.com^
+||fssuvf.cn^
+||xpek2.com^
+||*.bnubmx.top^
+||*.dhanvgx.com^
 ||cjxx7p.shop^
 ||autofill-server-cn.allawntech.com^
 ||tracev6.tctpxwebank.com^
@@ -6599,7 +6605,6 @@
 ||0ue.cn^
 ||1-1ads.com^
 ||10.jsjietui.com^
-||10010.gac.kim^
 ||10086.cscsearch.com^
 ||1024.fm^
 ||103.102.200.30^
@@ -7440,7 +7445,6 @@
 ||ajimg.com^
 ||ajimg.xyz^
 ||ak.hetapus.com^
-||akcard2.10010.com^
 ||akn.safe.360.cn^
 ||ald-lamp.alicdn.com^
 ||ali-ad.a.yximgs.com^
@@ -7890,7 +7894,6 @@
 ||cdn-tx-h5-prod.huanyuantech.com^
 ||cdn-wx-v6-lds.ludashi.com^
 ||cdn-xyx.raink.com.cn^
-||cdn.10010sy.cn^
 ||cdn.1024wang.xyz^
 ||cdn.1kpeak.com^
 ||cdn.51img1.com^
@@ -9496,7 +9499,6 @@
 ||m.yuliao360.com^
 ||m.zhuanzhuan.com^
 ||m0fanxing.kugou.com^
-||m1.img.10010.com^
 ||m568.hikedj.com^
 ||m5wb.bt66.tv^
 ||m6f6.yjzb.app^
@@ -9827,7 +9829,6 @@
 ||osr.pingan.com^
 ||oss-image2.quanmamaimg.com^
 ||oss-image3.quanmamaimg.com^
-||oss.10010.team^
 ||oss.bei-min.cn^
 ||oss.cdn.aiclk.com^
 ||oss.diyring.cc^
@@ -10803,7 +10804,6 @@
 ||txmov2.a.yximgs.com^
 ||txqcmmov.a.etoote.com^
 ||txsm.s6bv53uz.top^
-||txwk.10010.com^
 ||ty.a.yximgs.com^
 ||ty.svipapp.cn^
 ||tyaqy.m.cn.miaozhen.com^
@@ -11129,7 +11129,6 @@
 ||wjtopic.youyouxixi.com^
 ||wjw9.nvpuwo.com^
 ||wk0o.3359.com^
-||wk10010.com^
 ||wk4e.yxzb.tv^
 ||wkene.com^
 ||wl.kcjtmr.com^
