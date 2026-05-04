@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-05-01 09:47:42 (北京时间)
-! Total count: 11634 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-05-04 09:27:46 (北京时间)
+! Total count: 11678 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,50 @@
 # ŚśŐßŁșșŁžç
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
 
+||www.nduwfat640.top^
+||ucdac640.com^
+||*.hotb0faycilt.com^
+||oanduguw.dsukdfyts.rlhm0.com^
+||flwln1368.com^
+||drtyuioiuytr.zx.wzvai.cn^
+||a7f9vtfbdu.cszbvgs.cn^
+||*.cj3bb.top^
+||fcbauu84.tb87452361.com^
+||www.htty157.com^
+||htty157.com^
+||turbofastcdn.com^
+||firebaseinstallations.googleapis.com^
+||lmrnh.6vkus.com^
+||llkgs.9lrnv.com^
+||src888.buyusdt.me^
+||k002.buyusdt.me^
+||k00203.brwwww.com^
+||bzgpe.1qvky.com^
+||zwdqtedlvzsn.xn--vzyw96bk9n.xn--fiqs8s^
+||cwqc.ajjxy.com^
+||uezbq.qftwevr.top^
+||0z2s0.dsq.3145cn.com^
+||etipl.2wdhy.com^
+||fkmfsza.cn^
+||vipsx.6y9u3.com^
+||*.6y9u3.com^
+||hmcfgds.mshzdov.com^
+||hmcdns.dkbizj.com^
+||dahhxxttxs.com^
+||8nf766.cc^
+||51245360.com^
+||foreign.cdnhwcaoc115.cn^
+||*.cdnhwcvix*.com^
+||hcdnw101.sme^
+||jiskj1.com^
+||rsesra.hfjcl.com^
+||gccdn.net^
+||wsa11s3rk.bskwzt.com^
+||wsa11xl1.pvnuj.com^
+||wsa11xl1.szadsp.com^
+||wsa11xl2.pvnuj.com^
+||wsa11xl2.szadsp.com^
+||wsa11xl*.*.com^
 ||159uhvip.cn^
 ||bypb.7klyd.com^
 ||xkcds.3t0j.com^
