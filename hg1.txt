@@ -1,15 +1,24 @@
-! Version:    # 最后同步时间: 2026-05-04 09:27:46 (北京时间)
-! Total count: 11678 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-05-07 09:44:34 (北京时间)
+! Total count: 11685 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
 # čæÔòÁŽœÓ”ŰÖ·
 # Rules link address
 # 
-# QQŁș630814741
+# QQ   630814741
 # ŚśŐßŁșșŁžç
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
 
+
+||hm.tslyun.com^
+||oc.superx.chat^
+||wssudm.cwsclud.cn^
+||jhtewv.cwsclud.cn^
+||mq.szices.cn^
+||ssl.njkvjotel.yes-tvm.study^
+||*.98cdn.cn^
+||*.snwd6t.top^
 ||www.nduwfat640.top^
 ||ucdac640.com^
 ||*.hotb0faycilt.com^
@@ -597,7 +606,6 @@
 ||ok.8357778.cc^
 ||maysham-com-idvr3ok.www.qiniudns.com^
 ||allcdn.china.qiniu.qnydns.com^
-||allcdn.lv2.qnydns.com^
 ||download.ahgdlz.top.klchemicals.net^
 ||download.ahgdlz.top.gccdn.net^
 ||7cdn333.dk.jsydns03.com^
@@ -747,7 +755,7 @@
 ||bd-l7-online-tob-default-ipv6.s.bdsa.cdnbuild.net^
 ||aaa-pkpmapp-com-idvqddd.qiniudns.com^
 ||allcdn.china.qiniu.qnydns.com^
-||allcdn.lv2.qnydns.com^i10.bzmhpt.com^
+||i10.bzmhpt.com^
 ||xn--qhs955f.xn--ruq140e43cj1d.com^
 ||all.xn--ruq140e43cj1d.com.accelerate.bli.cdngslb.cc^
 ||xngtuvzhtmmbwfkcixvbjewbdeujpynx.actlube.net^
