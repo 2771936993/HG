@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-05-13 09:51:48 (北京时间)
-! Total count: 11689 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-05-16 09:45:11 (北京时间)
+! Total count: 11713 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,32 @@
 # ŚśŐßŁșșŁžç
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
 
+||httpdns5.eastmoney.com^
+||gbfek.dfcfw.com^
+||gbfek.dfcfw.com.eo.dnse1.com^
+||appserverlisttx.dflcs.cn^
+||myfavor.eastmoney.com^
+||swdlcdn.eastmoney.com^
+||v66-ad.ndcjl.com^
+||ssp.1rtb.com^
+||ssp-svr.1rtb.com^
+||adxlog-adnet.vivo.com.cn^
+||adtrack.qianwen.com^
+||tequan.seeyouyima.com^
+||*.tz3.iflvopx.net^
+||m1.ad.10010.com^
+||v2.reachmax.cn^
+||pic-ad-ld.tupian1234.com^
+||baichuan-sdk.alicdn.com^
+||ad.seeyouyima.com^
+||www.pangolin-dsp-toutiao-b.com^
+||x.seeyouyima.com^
+||vch.video.qq.com^
+||ad-logs.seeyouyima.com^
+||pic-ybb.seeyouyima.com^
+||ads.ishansong.com^
+||miniprogram.ishansong.com^
+||oneseeker.top^
 ||gecko-lq.snssdk.com^
 ||*.my3w.com^
 ||hywkj.top^
@@ -9056,7 +9082,6 @@
 ||irhg.uiuin.cn^
 ||irtp.143.cc^
 ||is.zybhgfo.com^
-||ishansong.com^
 ||isp-report.gifshow.com^
 ||ituibei.cn^
 ||iu76d.cc^
@@ -9526,7 +9551,6 @@
 ||m.cdbfb.net^
 ||m.cnhubei.com^
 ||m.darryring.com^
-||m.dcdapp.com^
 ||m.exj6a9vu.com^
 ||m.fmkm.cn^
 ||m.focus.cn^
