@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-05-16 09:45:11 (北京时间)
-! Total count: 11713 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-05-19 09:58:19 (北京时间)
+! Total count: 11737 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,31 @@
 # ŚśŐßŁșșŁžç
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
 
+||bid-adx2.vlion.cn^
+||alsc-ug-monitor-callback.alibaba.com^
+||ocpx.ainiankj.com^
+||de.ad.gameley.com^
+||s.tuia.cn^
+||mpcfg.fancydsp.com^
+||api.shanghailingye.cn^
+||*.anythinktech.com^
+||amdcopen.m.umeng.com^
+||audid.umeng.com^
+||deeplink.umeng.com^
+||*-jor0b302fdhgwnccw8g.com^
+||*-jor657bolf.com^
+||kssj6668.hytrfjn.com^
+||hkg-pre.edge-cluster-hk-pre.com^
+||logs1.xnyojd.cn^
+||logs.yvgnky.cn^
+||022.yp6696.top^
+||zbfg79jn.super.svip-cdn.com.^
+||*.svip-cdn.com^
+||htxcds.2jh1l.com^
+||lwnlkj.com^
+||www.hzlockb.cn^
+||*.ph2dw0.com^
+||yinduyao.xyz^
 ||httpdns5.eastmoney.com^
 ||gbfek.dfcfw.com^
 ||gbfek.dfcfw.com.eo.dnse1.com^
@@ -81,7 +106,6 @@
 ||8nf766.cc^
 ||51245360.com^
 ||foreign.cdnhwcaoc115.cn^
-||*.cdnhwcvix*.com^
 ||hcdnw101.sme^
 ||jiskj1.com^
 ||rsesra.hfjcl.com^

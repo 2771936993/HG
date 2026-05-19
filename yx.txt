@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-05-16 09:45:11 (北京时间)
-! Total count: 1617 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-05-19 09:58:19 (北京时间)
+! Total count: 1618 (仅统计AdGuard规则)
 ! ┤╦╣µÈ‗Ë╬¤À└╣¢Ï
 !This rule game intercepts, only intercepts games
 ! ╣µÈ‗┴┤¢ËÁÏÍÀ
@@ -8,6 +8,8 @@
 ! Î¸ı▀ú║║ú©þ
 ! ╚½Ë╔║ú©þÎÈ╝║ÍãÎ¸
 
+
+||m.gamecenter.qq.com^
 ||gameletauth.native.qq.com^
 ||nrc.gcloudcdn.qq.com^
 ||gcloud-nrc.bytes.tcdnos.com^
