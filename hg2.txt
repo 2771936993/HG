@@ -1,9 +1,10 @@
-! Version:    # 最后同步时间: 2026-05-19 09:58:19 (北京时间)
-! Total count: 281 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-05-22 09:59:09 (北京时间)
+! Total count: 282 (仅统计AdGuard规则)
 #放行单
 #只适合海哥规则
 
-
+@@||szmmsns.qpic.cn^
+#↑微信朋友圈图片↑#
 @@||cdn.bootcdn.net^
 @@||wcdn.ucarlinkin.cn^
 @@||docker-cache2.fnnas.com^

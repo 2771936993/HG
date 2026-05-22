@@ -1,5 +1,5 @@
-! Version:    # 最后同步时间: 2026-05-19 09:58:19 (北京时间)
-! Total count: 11737 (仅统计AdGuard规则)
+! Version:    # 最后同步时间: 2026-05-22 09:59:09 (北京时间)
+! Total count: 11749 (仅统计AdGuard规则)
 # ŽËčæÔòČ»¶šÊ±žüĐÂ
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -9,6 +9,20 @@
 # QQ   630814741
 # ŚśŐßŁșșŁžç
 # È«ÓÉșŁžçŚÔŒșÖÆŚś
+||3oik18.514mep.cnt-rambogame-app.com^
+||tencent-ssp.66mobi.com^
+||cpc-service-square.iggrowth.cn^
+||jxedtpartner.ksedt.com^
+||richmanrank.ksedt.com^
+||www.0tx4yr.vip^
+||hw.flv.wxqcloud.qq.com^
+||voipfinderliveplaythirdtest.wxqcloud.qq.com^
+||voipfinderrdsliveplay1.wxqcloud.qq.com^
+||hscdn.flv.wxqcloud.qq.com^
+||voipfinderrdsliveplay3.wxqcloud.qq.com^
+||pull-m1.wxlivecdn.com^
+||voipfinderrdsliveplay.wxqcloud.qq.com^
+
 
 ||bid-adx2.vlion.cn^
 ||alsc-ug-monitor-callback.alibaba.com^
@@ -2880,7 +2894,6 @@
 ||monitor.qq.com^
 ||report.qq.com^
 ||tajs.qq.com^
-||szmmsns.qpic.cn^
 ||m.skin360.com.cn^
 ||interface.bilibili.com^
 ||mon.zijieapi.com^
