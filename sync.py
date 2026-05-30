@@ -1,7 +1,12 @@
 import requests
 import chardet
+import subprocess
+import os
 from datetime import datetime
 from pathlib import Path
+
+# 获取脚本所在目录
+SCRIPT_DIR = Path(__file__).parent
 
 file_urls = {
     "http://hgzs.uunat.com/hg.txt": "hg.txt",
@@ -21,6 +26,32 @@ def is_rule(line: str) -> bool:
     if not line or line.startswith(("!", "#", "[Adblock")):
         return False
     return True
+
+def git_push():
+    """自动提交并推送到 GitHub"""
+    os.chdir(SCRIPT_DIR)
+    
+    # 添加所有更改
+    subprocess.run(["git", "add", "."], capture_output=True, text=True)
+    
+    # 提交（如果没有更改，commit 会失败，忽略错误）
+    commit_msg = f"auto sync rules {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+    result = subprocess.run(["git", "commit", "-m", commit_msg], capture_output=True, text=True)
+    
+    if result.returncode == 0:
+        print(f"  ✓ 已提交: {commit_msg}")
+        # 推送
+        push_result = subprocess.run(["git", "push"], capture_output=True, text=True)
+        if push_result.returncode == 0:
+            print("  ✓ Git 推送成功")
+        else:
+            print(f"  ✗ Git 推送失败: {push_result.stderr}")
+    else:
+        # 没有需要提交的更改
+        if "nothing to commit" in result.stderr:
+            print("   没有需要提交的更改")
+        else:
+            print(f"  ✗ Git 提交失败: {result.stderr}")
 
 def sync():
     session = requests.Session()
@@ -43,8 +74,16 @@ def sync():
             f"! Total count: {cnt}\n"
             + "\n".join(filtered)
         )
-        Path(fname).write_text(out, encoding="utf-8")
+        
+        # 保存到脚本所在目录
+        file_path = SCRIPT_DIR / fname
+        file_path.write_text(out, encoding="utf-8")
         print(f"  ✓ {fname}  {cnt} 条")
+
+    print("\n" + "="*40)
+    print("开始 Git 推送...")
+    git_push()
+    print("="*40)
 
 if __name__ == "__main__":
     sync()
