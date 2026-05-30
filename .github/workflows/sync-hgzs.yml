@@ -1,110 +1,97 @@
-name: 同步AdGuard规则文件（带统计信息）
+- name: 同步文件并统计AdGuard规则
+  run: |
+    python -c '
+    import requests
+    import chardet
+    import re
+    from requests.adapters import HTTPAdapter
+    from urllib3.util.retry import Retry
+    from datetime import datetime, timezone, timedelta
 
-on:
-  schedule:
-    - cron: '0 0 */3 * *'
-  workflow_dispatch:
+    file_urls = [
+        ("http://hgzs.uunat.com/hg.txt", "hg.txt"),
+        ("http://hgzs.uunat.com/hg1.txt", "hg1.txt"),
+        ("http://hgzs.uunat.com/hg2.txt", "hg2.txt"),
+        ("http://hgzs.uunat.com/yx.txt", "yx.txt")
+    ]
 
-jobs:
-  sync-file:
-    runs-on: ubuntu-latest
-    steps:
-      - name: 检出代码库
-        uses: actions/checkout@v4
+    success_count = 0
+    error_messages = []
 
-      - name: 设置 Python 环境
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+    def is_adguard_rule(line):
+        line = line.strip()
+        if not line or line.startswith(("!", "#", "[")):
+            return False
+        return any(x in line for x in ["||", "|", "@@", "$", "/"]) or \
+               re.match(r"^[a-zA-Z0-9_.-]+\$[\w,=~|]+", line)
 
-      - name: 安装依赖
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests chardet
+    beijing_tz = timezone(timedelta(hours=8))
+    update_time = datetime.now(beijing_tz).strftime("%Y-%m-%d %H:%M:%S")
 
-      - name: 同步文件并统计AdGuard规则
-        run: |
-          python -c '
-          import requests
-          import chardet
-          import re
-          from requests.adapters import HTTPAdapter
-          from urllib3.util.retry import Retry
-          from datetime import datetime, timezone, timedelta
+    session = requests.Session()
+    
+    # 设置完整的浏览器请求头
+    session.headers.update({
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/plain,text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+        "Accept-Encoding": "gzip, deflate",
+        "Connection": "keep-alive",
+        "Cache-Control": "no-cache"
+    })
+    
+    retry_strategy = Retry(total=3, backoff_factor=0.5)
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
 
-          file_urls = [
-              ("http://hgzs.uunat.com/hg.txt", "hg.txt"),
-              ("http://hgzs.uunat.com/hg1.txt", "hg1.txt"),
-              ("http://hgzs.uunat.com/hg2.txt", "hg2.txt"),
-              ("http://hgzs.uunat.com/yx.txt", "yx.txt")
-          ]
+    for url, save_path in file_urls:
+        try:
+            print(f"正在下载: {url}")
+            response = session.get(url, timeout=30, allow_redirects=True)
+            response.raise_for_status()
+            
+            encoding = chardet.detect(response.content)["encoding"] or "utf-8"
+            content = response.content.decode(encoding)
+            
+            lines = content.splitlines()
+            filtered_lines = [
+                line for line in lines 
+                if not (line.strip().startswith("! Version:") or 
+                        line.strip().startswith("! Total count:"))
+            ]
+            
+            adguard_count = sum(1 for line in filtered_lines if is_adguard_rule(line))
+            
+            header = [
+                f"! Version:    # 最后同步时间: {update_time} (北京时间)",
+                f"! Total count: {adguard_count} (仅统计AdGuard规则)"
+            ]
+            
+            new_content = "\n".join(header + filtered_lines)
+            
+            with open(save_path, "w", encoding="utf-8") as f:
+                f.write(new_content)
+            
+            print(f"✓ 成功同步 {save_path} (规则数: {adguard_count})")
+            success_count += 1
+            
+        except requests.exceptions.HTTPError as e:
+            if e.response.status_code == 409:
+                print(f"✗ 同步 {url} 失败: 409 Conflict - 服务器拒绝访问，可能需要特殊权限")
+            else:
+                print(f"✗ 同步 {url} 失败: {str(e)}")
+            error_messages.append(str(e))
+        except Exception as e:
+            error_msg = f"✗ 同步 {url} 失败: {str(e)}"
+            print(error_msg)
+            error_messages.append(error_msg)
 
-          success_count = 0
-          error_messages = []
-
-          # 简化的AdGuard规则检测
-          def is_adguard_rule(line):
-              line = line.strip()
-              if not line or line.startswith(("!", "#", "[")):
-                  return False
-              # 常见的AdGuard规则特征
-              return any(x in line for x in ["||", "|", "@@", "$", "/"]) or \
-                     re.match(r"^[a-zA-Z0-9_.-]+\$[\w,=~|]+", line)
-
-          beijing_tz = timezone(timedelta(hours=8))
-          update_time = datetime.now(beijing_tz).strftime("%Y-%m-%d %H:%M:%S")
-
-          session = requests.Session()
-          retry_strategy = Retry(total=3, backoff_factor=0.5)
-          adapter = HTTPAdapter(max_retries=retry_strategy)
-          session.mount("http://", adapter)
-          session.mount("https://", adapter)
-
-          for url, save_path in file_urls:
-              try:
-                  response = session.get(url, timeout=30)
-                  response.raise_for_status()
-                  
-                  encoding = chardet.detect(response.content)["encoding"] or "utf-8"
-                  content = response.content.decode(encoding)
-                  
-                  lines = content.splitlines()
-                  filtered_lines = [
-                      line for line in lines 
-                      if not (line.strip().startswith("! Version:") or 
-                              line.strip().startswith("! Total count:"))
-                  ]
-                  
-                  adguard_count = sum(1 for line in filtered_lines if is_adguard_rule(line))
-                  
-                  header = [
-                      f"! Version:    # 最后同步时间: {update_time} (北京时间)",
-                      f"! Total count: {adguard_count} (仅统计AdGuard规则)"
-                  ]
-                  
-                  new_content = "\n".join(header + filtered_lines)
-                  
-                  with open(save_path, "w", encoding="utf-8") as f:
-                      f.write(new_content)
-                  
-                  print(f"✓ 成功同步 {save_path} (规则数: {adguard_count})")
-                  success_count += 1
-                  
-              except Exception as e:
-                  error_msg = f"✗ 同步 {url} 失败: {str(e)}"
-                  print(error_msg)
-                  error_messages.append(error_msg)
-
-          if success_count == 0:
-              exit(1)
-          print(f"\n同步完成: 成功 {success_count}/{len(file_urls)} 个文件")
-          '
-
-      - name: 提交更改
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git pull --rebase origin main || true
-          git add hg.txt hg1.txt hg2.txt yx.txt
-          git diff --staged --quiet || git commit -m "自动同步AdGuard规则文件 $(date +'%Y-%m-%d')"
-          git push
+    if success_count == 0:
+        print("\n所有文件同步失败！请检查：")
+        print("1. 源服务器是否正常运行")
+        print("2. 是否需要特殊的访问权限")
+        print("3. 网络连接是否正常")
+        exit(1)
+    print(f"\n同步完成: 成功 {success_count}/{len(file_urls)} 个文件")
+    '
