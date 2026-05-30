@@ -4,9 +4,8 @@
     import requests
     import chardet
     import re
-    from requests.adapters import HTTPAdapter
-    from urllib3.util.retry import Retry
     from datetime import datetime, timezone, timedelta
+    import time
 
     file_urls = [
         ("http://hgzs.uunat.com/hg.txt", "hg.txt"),
@@ -16,39 +15,44 @@
     ]
 
     success_count = 0
-    error_messages = []
-
+    
     def is_adguard_rule(line):
         line = line.strip()
         if not line or line.startswith(("!", "#", "[")):
             return False
-        return any(x in line for x in ["||", "|", "@@", "$", "/"]) or \
-               re.match(r"^[a-zA-Z0-9_.-]+\$[\w,=~|]+", line)
+        return any(x in line for x in ["||", "|", "@@", "$", "/"])
 
     beijing_tz = timezone(timedelta(hours=8))
     update_time = datetime.now(beijing_tz).strftime("%Y-%m-%d %H:%M:%S")
 
     session = requests.Session()
     
-    # 设置完整的浏览器请求头
+    # 模拟真实浏览器的请求头
     session.headers.update({
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept": "text/plain,text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept": "text/plain,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
         "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
         "Accept-Encoding": "gzip, deflate",
         "Connection": "keep-alive",
-        "Cache-Control": "no-cache"
+        "Cache-Control": "max-age=0",
+        "Upgrade-Insecure-Requests": "1"
     })
-    
-    retry_strategy = Retry(total=3, backoff_factor=0.5)
-    adapter = HTTPAdapter(max_retries=retry_strategy)
-    session.mount("http://", adapter)
-    session.mount("https://", adapter)
 
     for url, save_path in file_urls:
         try:
             print(f"正在下载: {url}")
+            # 添加延迟避免请求过快
+            time.sleep(1)
+            
             response = session.get(url, timeout=30, allow_redirects=True)
+            
+            if response.status_code == 409:
+                print(f"⚠ 服务器返回409，尝试使用备用方法...")
+                # 尝试不使用session，直接用requests
+                response = requests.get(url, timeout=30, headers={
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+                })
+            
             response.raise_for_status()
             
             encoding = chardet.detect(response.content)["encoding"] or "utf-8"
@@ -76,22 +80,16 @@
             print(f"✓ 成功同步 {save_path} (规则数: {adguard_count})")
             success_count += 1
             
-        except requests.exceptions.HTTPError as e:
-            if e.response.status_code == 409:
-                print(f"✗ 同步 {url} 失败: 409 Conflict - 服务器拒绝访问，可能需要特殊权限")
-            else:
-                print(f"✗ 同步 {url} 失败: {str(e)}")
-            error_messages.append(str(e))
         except Exception as e:
-            error_msg = f"✗ 同步 {url} 失败: {str(e)}"
-            print(error_msg)
-            error_messages.append(error_msg)
+            print(f"✗ 同步 {url} 失败: {str(e)}")
 
     if success_count == 0:
-        print("\n所有文件同步失败！请检查：")
-        print("1. 源服务器是否正常运行")
-        print("2. 是否需要特殊的访问权限")
-        print("3. 网络连接是否正常")
+        print("\n所有文件同步失败！")
+        print("可能原因：")
+        print("1. 目标服务器禁止GitHub Actions IP访问")
+        print("2. 服务器需要特殊认证")
+        print("3. 网络连接问题")
         exit(1)
+    
     print(f"\n同步完成: 成功 {success_count}/{len(file_urls)} 个文件")
     '
