@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-05-30 21:44:46
-! Total count: 1618
+! Version:    最后同步时间: 2026-06-03 18:11:16
+! Total count: 1625
 ! 此规则游戏拦截
 !This rule game intercepts, only intercepts games
 ! 规则链接地址
@@ -9,6 +9,15 @@
 ! 全由海哥自己制作
 
 
+
+
+||hefx.99.com^
+||hefx.99.com.c.yundunwaf.com^
+||mobavideo.99.com^
+||img5.99.com^
+||img5.99.com.w.kunluncan.com^
+||mobavideo.99.com.volcgslb.com^
+||sx-fjwlpk-v4.volcgtm.com^
 ||m.gamecenter.qq.com^
 ||gameletauth.native.qq.com^
 ||nrc.gcloudcdn.qq.com^
