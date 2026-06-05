@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-06-04 19:41:26
-! Total count: 12668
+! Version:    最后同步时间: 2026-06-05 22:28:56
+! Total count: 12669
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -13,7 +13,10 @@
 
 
 
-
+||45232kc.otwaahn.com^
+||img.ffzy888.com^
+||alipa.mamnvbyiu5od.com^
+||www.nkmasxs.com^
 ||zlks7.vip^
 ||dlnskgug.com^
 ||dkzleb6h.com^
@@ -5689,7 +5692,6 @@
 ||fue0.011.com^
 ||fullstack.vip^
 ||fun.91wwll.com^
-||functional.events.data.microsoft.com^
 ||fund.10jqka.com.cn^
 ||fund.xueqiu.comhgzs.uunat.com
 ||funimg.pddpic.com.a.bdydns.com^
@@ -7327,7 +7329,6 @@
 ||kweuf6k.oseiwiweep.com^
 ||kwha6.xivgxulxgmpsfhwk.com^
 ||kwji.880.net^
-||kwmdmmsp.hongtaitanghua.com^
 ||kwofjwo.ssyymy.com^
 ||kx82kdajlkjsdngjxaas.ldka6232.pictures^
 ||kxdo.yl.ag^
@@ -9997,7 +9998,6 @@
 ||static.9377a.com^
 ||static.bcxgame.com^
 ||static.byld2l.com^
-||static.cloudflareinsights.com^
 ||static.dhsf.996box.com^
 ||static.dhsf.xqhuyu.com^
 ||static.duokan.com^
