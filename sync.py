@@ -13,16 +13,16 @@ GIT_EMAIL = "2771936993@qq.com"
 GIT_NAME = "2771936993"
 
 file_urls = {
-    "http://hgzs.uunat.com/hg.txt": "hg.txt",
-    "http://hgzs.uunat.com/hg1.txt": "hg1.txt",
-    "http://hgzs.uunat.com/hg2.txt": "hg2.txt",
-    "http://hgzs.uunat.com/yx.txt": "yx.txt",
+    "http://10.10.10.251/hg.txt": "hg.txt",
+    "http://10.10.10.251/hg1.txt": "hg1.txt",
+    "http://10.10.10.251/hg2.txt": "hg2.txt",
+    "http://10.10.10.251/yx.txt": "yx.txt",
 }
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
     "Accept": "*/*",
-    "Referer": "http://hgzs.uunat.com/"
+    "Referer": "http://10.10.10.251/"
 }
 
 def is_rule(line: str) -> bool:

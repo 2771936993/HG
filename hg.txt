@@ -1,4 +1,4 @@
-! Version:    最后同步时间: 2026-06-05 22:28:56
+! Version:    最后同步时间: 2026-06-09 10:52:20
 ! Total count: 6
 ! 这只是测试规则文件，无法正常使用
 ! This is just a test rule file and cannot be used properly

@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-06-05 22:28:56
-! Total count: 12669
+! Version:    最后同步时间: 2026-06-09 10:52:20
+! Total count: 12668
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -1598,7 +1598,6 @@
 ||36.27.222.254^
 ||360.tingxi888.com^
 ||360fenxi.mediav.com^
-||360kuai.com^
 ||360mixup.com^
 ||360tg.37.com^
 ||361ct9.vip^
