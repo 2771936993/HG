@@ -1,4 +1,4 @@
-! Version:    最后同步时间: 2026-06-12 07:25:12
+! Version:    最后同步时间: 2026-06-12 07:52:23
 ! Total count: 12667
 # 此规则不定时更新
 # This rule does not regularly updated
