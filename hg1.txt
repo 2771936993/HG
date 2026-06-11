@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-06-09 10:52:35
-! Total count: 12668
+! Version:    最后同步时间: 2026-06-12 07:25:12
+! Total count: 12667
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -5259,7 +5259,6 @@
 ||e106-43.vxkmq6r.com^
 ||e1129928.cnamggg.com^
 ||e15d1c.top^
-||e192961.dscx.akamaiedge.net^
 ||e1cp.k8.com^
 ||e1eq0.xxtdjfxeumgvgr.in^
 ||e1lkihmht5wjj0ipi7ff3iebgrgzslhe.yundunwaf2.com^
