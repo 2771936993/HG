@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-06-12 07:52:23
-! Total count: 12667
+! Version:    最后同步时间: 2026-06-13 01:15:05
+! Total count: 12669
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -12,7 +12,8 @@
 
 
 
-
+||t.adbiding.cn^
+||ads-bid.leadmoad.com^
 ||45232kc.otwaahn.com^
 ||img.ffzy888.com^
 ||alipa.mamnvbyiu5od.com^
