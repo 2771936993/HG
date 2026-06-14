@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-06-14 01:15:06
-! Total count: 12669
+! Version:    最后同步时间: 2026-06-15 01:15:06
+! Total count: 12759
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -12,6 +12,96 @@
 
 
 
+||kkaa3399.com^
+||api.wwzz8899.com^
+||api.qq66aa11.cc^
+||api.2255uukk.com^
+||api.aakk6655.com^
+||api.hhaa6699.com^
+||api.nnyy6633.com^
+||api.5500cctt.cc^
+||tpimg.aheadst.com^
+||tewsxs.serx17.top^
+||viance.aheadst.com^
+||maopu.app^
+||mpc-prod-27-s6uit34pua-uk.a.run.app^
+||*.dzi43.com^
+||www.facebook.com^
+||bx280.com^
+||zu76b.top^
+||gwx2.jgqvji.com^
+||g1ada11.tz.iflvopx.net^
+||9418d.vip^
+||7730dd.cc^
+||72872f.com^
+||892017.cc^
+||wvip66.cc^
+||wvip012.cc^
+||vvzh5.wudaoia.top^
+||ywvipnapi1.raypro.top^
+||ywvipnapi5.bltiwl.qpon^
+||ywvipnapi4.acvcrh.qpon^
+||ywvipnapi3.bppnld.qpon^
+||ywvipapi.dzwk03.xyz^
+||ywvipnapi2.gcbcb.top^
+||t2json.wcsndm.my^
+||t2json.jwfljs.my^
+||t2json.ewxwyo.my^
+||t3json.cgnjzd.my^
+||t3json.baxgfa.my^
+||t3json.bufspj.my^
+||t1json.kangmengwangluo.top^
+||download.liyankeji.top^
+||a.a5y9c.com^
+||www.45chat.com^
+||32797.hnkgfx.com^
+||74481.vip^
+||189u.vip^
+||189c.vip^
+||fc.vip^
+||fcyl.vip^
+||mktyvip80.com^
+||kyty3674.com^
+||www.pcxsue.vip^
+||kyty4390.com^
+||ml2022.com^
+||mlcp320.com^
+||www.mlcp320.com^
+||newy901.lwqhym.com^
+||y9go.lwqhym.com^
+||pi.lwqhym.com^
+||www.fm9mrc.vip^
+||www.561aty.com^
+||y5gossl.5rwyrv.com^
+||pe.5rwyrv.com^
+||a998899.site^
+||connect.facebook.net^
+||img.goodvip.com^
+||d2et0xqpmy5615.cloudfront.net^
+||bs688.cc^
+||www.964af6.vip^
+||kyty3674.com^
+||kyty4390.com^
+||yyty39.com^
+||yyvip21.net^
+||shturl.c^
+||shturl.cc^
+||mlcp320.com^
+||561aty.com^
+||879aitiyu.com^
+||leyuty76.com^
+||hthvip1876.com^
+||hthvip1877.com^
+||g6e3h.q1jx.moxicodes.cn^
+||www.ccms3l.vip^
+||zctnf486.com^
+||www.shibo254.com^
+||shibo254.com.gtm-sharkddos.net^
+||sdab217.edgmcon.com^
+||www.shibo57.app^
+||yr.i.lencr.org^
+||shibo.gtm-cloudflare.net^
+||gtm-sg-r0v3jyeyr02.gtm-alibaba.net^
 ||t.adbiding.cn^
 ||ads-bid.leadmoad.com^
 ||45232kc.otwaahn.com^
