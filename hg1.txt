@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-06-15 01:15:06
-! Total count: 12759
+! Version:    最后同步时间: 2026-06-16 01:15:08
+! Total count: 12747
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -80,16 +80,10 @@
 ||d2et0xqpmy5615.cloudfront.net^
 ||bs688.cc^
 ||www.964af6.vip^
-||kyty3674.com^
-||kyty4390.com^
-||yyty39.com^
-||yyvip21.net^
 ||shturl.c^
 ||shturl.cc^
-||mlcp320.com^
 ||561aty.com^
 ||879aitiyu.com^
-||leyuty76.com^
 ||hthvip1876.com^
 ||hthvip1877.com^
 ||g6e3h.q1jx.moxicodes.cn^
@@ -3715,7 +3709,6 @@
 ||apithird.hzwxbz3.cn^
 ||apithirdnew.hzwxbz2.cn^
 ||apiup-cf.cbfes.com^
-||apiv2.douyucdn.cn^
 ||apiv4-iyes.youku.com^
 ||apiyd.my91app.com^
 ||apiyq996.lltgm.com^
@@ -4723,9 +4716,7 @@
 ||coreuserbiz.zhihu.com^
 ||corp.msch.f.360.cn^
 ||cos*.cos.ap-nanjing^
-||cos-fire-cs01-1317885953.cos.ap-hongkong.myqcloud.com^
-||cos-www.sanygroup.com^
-||cos.accelerate.myqcloud.com^
+||sanygroup.com^
 ||cosmo001.top^
 ||coss-shark-down.fenqile.com^
 ||cover-al.bspprnz.com.w.kunlunaq.com^
@@ -6112,7 +6103,6 @@
 ||gsvxs062.top^
 ||gsxcdn.com^
 ||gt4f8v7a318.cc^
-||gtc.getui.net^
 ||gtm-cn-2r42g1jbe02.gtm-a2b4.com^
 ||gtm-cn-v3m47odrv01.openinstall.com^
 ||gtngfd.ntuzr6688.com^
@@ -7868,7 +7858,6 @@
 ||m.y20k.guru^
 ||m.yoojia.com^
 ||m.yuliao360.com^
-||m.zhuanzhuan.com^
 ||m0fanxing.kugou.com^
 ||m0kb.yide.com^
 ||m1.ad.10010.com^
@@ -8060,7 +8049,6 @@
 ||minigame5-normal-lf.zijieapi.com^
 ||minih5.jiayans.net^
 ||miniproduct.doutuimao.net^
-||miniprogram.ishansong.com^
 ||miniuser.doutuimao.net^
 ||mirtjurl.27tj.com^
 ||miscellany.shouji.360.cn^
