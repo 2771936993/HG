@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-06-19 01:15:05
-! Total count: 12554
+! Version:    最后同步时间: 2026-06-20 01:15:05
+! Total count: 12580
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,6 +11,34 @@
 # 全由海哥自己制作
 #
 
+
+||y394j2dr.atvtkf.com^
+||eqc4ks3h.atvtkf.com^
+||tse3v9my.11cname.cn^
+||zt8cwmx2.11cname.cn^
+||miglljpt1luiv.entsbio.com^
+||0sdf2.sfsf.y1-fwd.com^
+||0sdf2.sfsf.y1-fwd.com.a1.initxb.com^
+||mvn3ubv.xinpacker.com^
+||mvn3ubv.xinpacker.com.w.cdngslb.com^
+||rxebh.czbjcy.com^
+||utfdw.lqlvjzx.com^
+||xdlsq74a4d0rskc.entsbio.com^
+||ozfvf.vbtvaa.com^
+||cdn8.iyvpw.com^
+||d97op8vw5.ydzj2016.com^
+||vpqmtqdhit.entsbio.com^
+||zfjai.cyiobdc.com^
+||tptpn.czbjcy.com^
+||gsoxx.vbtvaa.com^
+||substrate.office.com^
+||logdn.vbtvaa.com^
+||innfg.3x1fo.com^
+||5b2d.smk.3145cn.com^
+||xwxug.gwwogjp.com^
+||teoxn.vbtvaa.com^
+||ridmqo.vip^
+||pkxbz1368.com^
 ||*-99wanyou-com-idvkrgg.qiniudns.com^
 ||*-default.ixigua.com^
 ||*-hl.toutiaoapi.com^
@@ -5764,7 +5792,6 @@
 ||fyshvb.cn^
 ||fyvwggcj.com^
 ||fz5k.ag8.com^
-||fzbbt.gat.zj.gov.cn^
 ||fzz0.154.com^
 ||g-adnet.dutils.com^
 ||g-adnet.hiaiabc.com^
