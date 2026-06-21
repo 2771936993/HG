@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-06-21 01:15:05
-! Total count: 12586
+! Version:    最后同步时间: 2026-06-22 01:15:06
+! Total count: 12592
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,16 +11,26 @@
 # 全由海哥自己制作
 #
 
+
+
+||fsrt3c.xn--57q23bieq57h.com^
+||ghj7saa.xn--54qu66awkkshgsf475q.com^
+||wjqgrri.com^
+||st1913.xjqjzti.com^
+||205232kc.yxqycpp.com^
+||vip.lz-cdn8.com^
+||lziplayer.com^
+||ss2022.wtskvhc.com^
 ||t0yj779.8342j.com^
 ||i7yuo.bjmscfmcn.com^
 ||jps2.abc2p62xs.com^
-||jps2.adeptaiplus.com^
+||jps2.*.com^
 ||a0yj777.tfmhwc.com^
 ||imagex-settings.volcimagex.net^
 ||y394j2dr.atvtkf.com^
-||eqc4ks3h.atvtkf.com^
+||*.atvtkf.com^
 ||tse3v9my.11cname.cn^
-||zt8cwmx2.11cname.cn^
+||*.11cname.cn^
 ||miglljpt1luiv.entsbio.com^
 ||0sdf2.sfsf.y1-fwd.com^
 ||0sdf2.sfsf.y1-fwd.com.a1.initxb.com^
@@ -8101,7 +8111,6 @@
 ||medproad.com^
 ||meitegou.com^
 ||mejj577.com^
-||member.shouji.360.cn^
 ||memti79268.cc^
 ||memto18908.cc^
 ||mengxirou.cn^
@@ -10068,7 +10077,6 @@
 ||shoppingcampaigns-api-drcn.ai.dbankcloud.com^
 ||shopstatic.v3mh.com^
 ||shortconn.im.qcloud.com^
-||shouji.360.cn^
 ||shouyou.xy.com^
 ||show-3.mediav.com^
 ||show-g.mediav.com^
