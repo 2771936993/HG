@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-06-23 01:15:05
-! Total count: 12592
+! Version:    最后同步时间: 2026-06-24 01:15:06
+! Total count: 12625
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,8 +11,51 @@
 # 全由海哥自己制作
 #
 
-
-
+||s2.dcloud.net.cn^
+||ycbklg.951610.xyz^
+||3068.951610.xyz^
+||agwewef.631987.xyz^
+||track.951610.xyz^
+||diosl6621n1.edge-02.xn--nertuu72ewr2b.xn--fiqs8s^
+||9nn.me^
+||w3dh.nqtdcx.cn^
+||3eug.rdgmvso.cn^
+||cdn.tailwindcss.com^
+||opl51.v5ydht7.com.cn^
+||wbep-image.sf-express.com^
+||quuyod647i.cn^
+||hn1jpw5sjo.cn^
+||qpd.qp242361.cc^
+||r6zhhjie.cloud.sniu.sdkddos.com^
+||gftx2i8w.hino5t99.com^
+||d2idatshsgmfes.cloudfront.net^
+||max-y.mediav.com^
+||r776131.cc^
+||e165f7aa.75737156.com^
+||cluster56c73b29.75737156.com^
+||jttpiokjehagbnmnahag.ww9rljk.com^
+||api.1tghspc.com^
+||ubr4hh1419b59q1.bzyongjia.com^
+||xjkf.zzhang1.com^
+||xjkf.zzhang1.com.w.cdngslb.com^
+||www.binance.com^
+||hgty2236.com^
+||gyyd.wpdpt.com^
+||2648aumt.n.cdn6ao.vip^
+||www.wpdpt.com^
+||ytjhg675-229145685.ap-northeast-2.elb.amazonaws.com^
+||drty45-qw3trs-dtuy53-bsd4g.bullrun.junnojin.net^
+||www.oragiexundowsmasivve.com^
+||dns4.os20250803.com^
+||all.bullrun.junnojin.net.w.cdngslb.com^
+||wdgeufgjtydycb.kfsjgbdighsfsjdrqwdssfs.com^
+||xz.3389vb.com^
+||4hymbs8j-u.fly8899.com^
+||xq2ynfgv.n.fly8899.com^
+||fpnsx.vqwjucmfdsqznfn.in^
+||d7tif5m5alcud.cloudfront.net.^
+||w71ke.vqwjucmfdsqznfn.in^
+||jhpr8.vqwjucmfdsqznfn.in^
 ||fsrt3c.xn--57q23bieq57h.com^
 ||ghj7saa.xn--54qu66awkkshgsf475q.com^
 ||wjqgrri.com^
@@ -3982,7 +4025,6 @@
 ||b.weatherol.com.cn^
 ||b02537c3.489897.com.cname.byteshieldcdn.com^
 ||b08wh.top^
-||b0eydm.z.cjjd14.com^
 ||b0fe2304c355.com^
 ||b0yf.880.net^
 ||b1-data.ads.heytapmobi.com^
@@ -4661,7 +4703,6 @@
 ||cj7fy.anoukverdonk.com^
 ||cje9.7790.com^
 ||cjhd.mediav.com^
-||cjjd14.com^
 ||cjxx7p.shop^
 ||ck2.ppos.com^
 ||ckam3uxg8nvd.com^
@@ -5734,7 +5775,6 @@
 ||fonts.yinxiang.com^
 ||footprint.996hezi.com^
 ||forecast.sina.cn^
-||foreign.cdnhwcaoc115.cn^
 ||forge-test.speedtest.cn^
 ||forjson.46z02bj3.com^
 ||forms.ebdan.net^
@@ -5880,7 +5920,6 @@
 ||g94a980.cdn.nkuytzv.com^
 ||g97a6fd.cdn.1xabc.com^
 ||g9ev.143.cc^
-||g9hc4.cn^
 ||g9si.6t.com^
 ||g9v2.6t.com^
 ||ga.cpatrk.net^
@@ -6425,7 +6464,6 @@
 ||hlurl.pro^
 ||hlwxj.xyz^
 ||hm-tjj.gycss.cn^
-||hm.baidu.com^
 ||hm.tslyun.com^
 ||hm77oke.j9n1c8r6.work^
 ||hmcdns.dkbizj.com^
@@ -9204,7 +9242,6 @@
 ||przy.8269.net^
 ||psd188.com^
 ||pss.alicdn.com^
-||pss.bdstatic.com^
 ||pt-my-api-ads0345-sdfk.siu5.com^
 ||pt.clickdata.37wan.com^
 ||pt29zx.com^
@@ -9698,7 +9735,6 @@
 ||rtlog3-applog-hl.toutiaoapi.com^
 ||rtlog5-applog-lq.fqnovel.com^
 ||rtx.smzdm.com^
-||rumt-zh.com^
 ||rup4a04-c02.tos-cn-hongkong.bytepluses.com^
 ||rv68.cc^
 ||rvdr6u.cc^
@@ -9742,7 +9778,6 @@
 ||s.openmediation.com^
 ||s.opfed.com^
 ||s.qdtech.ai^
-||s.qhupdate.com^
 ||s.thsi.cn^
 ||s.tk.cn^
 ||s.tuia.cn^
@@ -9788,8 +9823,6 @@
 ||s3a.bytecdn.cn^
 ||s3a.pstatp.com^
 ||s3cddfhyhww.cn-beijing.taihangpfm.cn^
-||s3dljm.z.cjjd14.com^
-||s3drcn.z.cjjd14.com^
 ||s3m.mediav.com^
 ||s3m1.nzwgs.com^
 ||s3m4.fenxi.com^
@@ -10506,7 +10539,6 @@
 ||talkingdata.net^
 ||talog-dk1.postarlight.com^
 ||taluo-h5res.*.com^
-||tam.cdn-go.cn^
 ||tampermonkey.net^
 ||tan3.67ak.com^
 ||tanan119.com^
@@ -11099,7 +11131,6 @@
 ||uutalk.info^
 ||uuu671.top^
 ||uuumml.cn^
-||uuxrv1.z.cjjd14.com^
 ||uv43ck.xyz^
 ||uv4905r82wk2566i.aliyunddos0015.com^
 ||uv7dz.q8ft6wf5.com^
