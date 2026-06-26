@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-06-26 01:15:05
-! Total count: 12625
+! Version:    最后同步时间: 2026-06-27 01:15:06
+! Total count: 12622
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -5723,7 +5723,6 @@
 ||fileserverpcdn.cdn.huya.com^
 ||filesys.53kf.com^
 ||filq.psihhsz.cn^
-||filters.adtidy.org^
 ||financeft.cfp.qq.com^
 ||fio3s8d.kfzcyxc.com^
 ||firebase-settings.crashlytics.com^
@@ -9867,7 +9866,6 @@
 ||saveu5-normal-lf.zijieapi.com^
 ||saveu5-normal-lq.zijieapi.com^
 ||sax.sina.com.cn^
-||sb.adtidy.org^
 ||sb.caonima.cn^
 ||sb.vap1.cn^
 ||sb7kpjag.a906-mycdn.com^
@@ -12481,7 +12479,6 @@
 ||zgsdk.zhugeio.com^
 ||zguq.7790.com^
 ||zgzlymrmot.ejttpj.com^
-||zh.china.com^
 ||zh.sugar.xxx^
 ||zh06.720lu.com^
 ||zh3.anyuqinggan.com^
