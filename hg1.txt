@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-07-04 01:15:05
-! Total count: 12622
+! Version:    最后同步时间: 2026-07-05 01:15:05
+! Total count: 12706
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,7 +10,90 @@
 # 作者：海哥
 # 全由海哥自己制作
 #
-
+||sd.qunliao.info^
+||cloudflareinsights.com^
+||cdn5.telesco.pe^
+||ksn-ca-geo.kaspersky-labs.com^
+||ksn-ca.geoksn.kaspersky.com^
+||ds.kaspersky.com^
+||8k091.com^
+||ee.8k1021.com^
+||8k1028.com^
+||8k1027.com^
+||8k1029.com^
+||pp.8k1023.com^
+||bb.8k1022.com^
+||8k1026.com^
+||img.thethsdnadagvx.com^
+||www.63game.com^
+||res.63game.com^
+||dl.home.dka3hu.com^
+||m.63game.com^
+||www.63game.xyz^
+||dl.zhongxinnianbao.com^
+||r4icno88.hk.cdnnice2.com^
+||2okm22le.hk.cdnnice2.com^
+||oneclient.sfx.ms^
+||85b.me^
+||i0eqgvsx.com^
+||lf1tytzs.com^
+||klxgw9h6.com^
+||nxf248s5.com^
+||b1406c58.theedgeplus.com^
+||g764a51.cdn.theedgeplus.com^
+||wjd00l3u.com^
+||cf.y1k7u.com^
+||3s.xbgbzz.com^
+||1zlks.vip^
+||zlks6.vip^
+||zl885.com^
+||btt86.com^
+||wkyic6rr.com^
+||538c2ecb.theedgeplus.com^
+||ge62e12.cdn.theedgeplus.com^
+||918tq.vip^
+||zl775.cc^
+||tibisj6n.com^
+||dqclub.tibisj6n.com^
+||gci.bnm8585.com^
+||ng211.mdvuz.com^
+||uik.etwlt.com^
+||1820668.com^
+||abc.1823030.com^
+||abc.1823032.com^
+||abc.1823031.com^
+||pdk.1823012.com^
+||gogekiji.cdnfree.org^
+||i8442.vip^
+||i8mckp1.xdpstorage.com^
+||api.9563245.com^
+||www.u5575.com^
+||ud81.com^
+||www.ud73.com^
+||ud73.com^
+||s.q5qo.com^
+||d9qj2d9ngy.vuprppwldvo.com^
+||vqptw27j.rycmp.com^
+||znqxdekt.rycmp.com^
+||i7s0g8p5.podnm.com^
+||x03k89o0jg.wgbos.com^
+||ua61.com^
+||u5575.com^
+||www.ured.vip^
+||ua15.com^
+||u1979.com^
+||www.ua15.com^
+||www.u1979.com^
+||phoddto36box.tc87.top^
+||yoqal.xdlandd.gciepk.cn^
+||ssg.static.tsspzn.com^
+||q9toz5n3.ulnask.top^
+||fgshh.s4xnh.top^
+||www.isez7s.vip^
+||www.aluqno.vip^
+||www.irug8y.vip^
+||fzbbt.gat.zj.gov.cn^
+||www.shibo249.com^
 ||s2.dcloud.net.cn^
 ||ycbklg.951610.xyz^
 ||3068.951610.xyz^
