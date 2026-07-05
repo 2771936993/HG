@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-07-05 01:15:05
-! Total count: 12706
+! Version:    最后同步时间: 2026-07-06 01:15:05
+! Total count: 12728
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -9,7 +9,31 @@
 # QQ   630814741
 # 作者：海哥
 # 全由海哥自己制作
-#
+
+||hgty8577.com^
+||e2843c3b.85073232.com^
+||gaf1e13.cdn.85073232.com^
+||clibs.17xianwan.com.w.kunlunaq.com^
+||j497wntg0ov8s6a9.aliyunddos1002.com^
+||api.91taojin.com.cn.w.kunlunca.com^
+||p2-085588-com.yueyundns.com^
+||p2.085588.com.chuzhan.volcfake.com.volcgslb.com^
+||ct-common-v4.volcgtm.com^
+||ppcds.60ssq.com^
+||ppcds.4fx2e.com^
+||bes-mtj.baidu.com^
+||mdp-appconf-cn.heytapdownload.com^
+||cimgs.17xianwan.com^
+||api.ads66.com^
+||api.91taojin.com.cn^
+||h5.17xianwan.com^
+||p2.085588.com^
+||als.baidu.com^
+||cpu-openapi.baidu.com^
+||at-data.tapque.com^
+||ossapi.baidu.com^
+||tb.tapque.com^
+||daa.shuzilm.cn^
 ||sd.qunliao.info^
 ||cloudflareinsights.com^
 ||cdn5.telesco.pe^
@@ -92,14 +116,12 @@
 ||www.isez7s.vip^
 ||www.aluqno.vip^
 ||www.irug8y.vip^
-||fzbbt.gat.zj.gov.cn^
 ||www.shibo249.com^
 ||s2.dcloud.net.cn^
 ||ycbklg.951610.xyz^
 ||3068.951610.xyz^
 ||agwewef.631987.xyz^
 ||track.951610.xyz^
-||diosl6621n1.edge-02.xn--nertuu72ewr2b.xn--fiqs8s^
 ||9nn.me^
 ||w3dh.nqtdcx.cn^
 ||3eug.rdgmvso.cn^
