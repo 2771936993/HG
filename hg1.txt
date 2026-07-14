@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-07-14 01:15:06
-! Total count: 12728
+! Version:    最后同步时间: 2026-07-15 01:15:05
+! Total count: 12720
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,11 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+
+
+
+
+||ads3-normal-hl.zijieapi.com^
 ||hgty8577.com^
 ||e2843c3b.85073232.com^
 ||gaf1e13.cdn.85073232.com^
@@ -4226,10 +4231,6 @@
 ||bd-adaptive.pull.yximgs.com^
 ||bd-b-1.appmobile.cn^
 ||bd-b-2.appmobile.cn^
-||bd-l7-online-qiniu-ipv6.s.vedcdnlb.com^
-||bd-l7-online-qiniu-ka-v6.s.vedcdnlb.com^
-||bd-l7-online-tob-default-ipv6.s.bdsa.cdnbuild.net^
-||bd-l7-overseatob-global-v6-default.s.vedcdnlb.com^
 ||bd.hmedustudy.com^
 ||bd.zzpingxue.cn^
 ||bd1.zuimeitianqi.com^
@@ -4649,7 +4650,6 @@
 ||cdn.cqgnsc.com^
 ||cdn.d1zd8.xyz^
 ||cdn.daikuan.360.cn^
-||cdn.dcloud.net.cn^
 ||cdn.dewu.com^
 ||cdn.dhsf.996db.cn^
 ||cdn.dongyixiang.com^
@@ -6234,7 +6234,6 @@
 ||gqtbt.cn^
 ||gr5h.880.net^
 ||gr8g.7790.com^
-||graph.facebook.com^
 ||green.longdatafull.xyz^
 ||grejskx.com^
 ||gres.602.com^
@@ -7098,7 +7097,6 @@
 ||iwbf8yazxosand7j.costdns.com^
 ||iwdtv.chuangwei.iwangding.com^
 ||iwdtv.iwangding.com^
-||iwisdom.apps.coloros.com^
 ||iwttbz.xyz^
 ||ix44tpk--o12ld8.pk5j.com^
 ||ixav-cse.avlyun.com^
@@ -7959,7 +7957,6 @@
 ||log.z3.cn^
 ||log.zijieapi.com^
 ||log.zuimeitianqi.com^
-||log1.cmpassport.com^
 ||log1.wanmei.com^
 ||log2.wanmei.com^
 ||log3-normal-lq.toutiaoapi.com
@@ -11280,7 +11277,6 @@
 ||v1-ad.video.yximgs.com^
 ||v1.cnzz.com^
 ||v1.keepcdn.com^
-||v1.play.log.hunantv.com^
 ||v10.kwaicdn.com^
 ||v11-reading-ad.qznovelvod.com^
 ||v11.xsj.wasu.tv^
