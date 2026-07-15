@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-07-15 01:15:05
-! Total count: 12720
+! Version:    最后同步时间: 2026-07-16 01:15:08
+! Total count: 12719
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -199,7 +199,6 @@
 ||zfjai.cyiobdc.com^
 ||tptpn.czbjcy.com^
 ||gsoxx.vbtvaa.com^
-||substrate.office.com^
 ||logdn.vbtvaa.com^
 ||innfg.3x1fo.com^
 ||5b2d.smk.3145cn.com^
