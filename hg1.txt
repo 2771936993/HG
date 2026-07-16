@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-07-16 01:15:08
-! Total count: 12719
+! Version:    最后同步时间: 2026-07-17 01:15:06
+! Total count: 12741
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,10 +10,29 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
-
-
-
+||api.ylg33xjywkcfmdb5e.cc^
+||web-flzz63.openinstalljs.com^
+||314jbzsw4nv4.openinstalljs.com.eo.dnse3.com^
+||yidun-3line-gy-yw.ntes53.netease.com^
+||res000.000584.com^
+||download.000zb09.com^
+||000uuuu.com^
+||www.000aaaa.com^
+||app.000aaaa.com^
+||yidun-bgp-gy-yw.ntes53.netease.com^
+||zero.zero00.cc^
+||kkimg.uqumjd.com^
+||www.dotvipad.cfd^
+||000bbbb.com^
+||app.000bbbb.com^
+||000*.com^
+||app.000cccc.com^
+||app.000*.com^
+||000gggg.com^
+||000iiii.com^
+||000hhhh.com^
+||000ffff.com^
+||kefu.bet^
 ||ads3-normal-hl.zijieapi.com^
 ||hgty8577.com^
 ||e2843c3b.85073232.com^
@@ -6099,7 +6118,6 @@
 ||gcali.cdn.al86989chatddfgfgbos.com^
 ||gcb40ce.cdn.skr001.cc^
 ||gcc.rbwljs.com^
-||gccdn.net^
 ||gchat.qpic.cn^
 ||gci.chdienc.com^
 ||gci.ppchina00.icu^
