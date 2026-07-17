@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-07-17 01:15:06
-! Total count: 12741
+! Version:    最后同步时间: 2026-07-18 01:15:05
+! Total count: 12739
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -9,6 +9,8 @@
 # QQ   630814741
 # 作者：海哥
 # 全由海哥自己制作
+
+
 
 ||api.ylg33xjywkcfmdb5e.cc^
 ||web-flzz63.openinstalljs.com^
@@ -5604,7 +5606,6 @@
 ||erghh3717.cc^
 ||ero-labs.*^
 ||err.taobao.com^
-||errc.zztfly.com^
 ||errlog.umeng.com^
 ||errorlog.sobot.com^
 ||ertewz.juzhengtong.com^
@@ -12745,7 +12746,6 @@
 ||zzhc.vnet.cn^
 ||zzjq.720lu.com^
 ||zzke.btpol.cn^
-||zztfly.com^
 ||zzuad.btpol.cn^
 ||zzxx97043.ww7e9.com^
 ||zzztl.com^
