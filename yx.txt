@@ -1,4 +1,4 @@
-! Version:    最后同步时间: 2026-07-19 01:15:08
+! Version:    最后同步时间: 2026-07-20 01:15:06
 ! Total count: 1927
 ! 此规则游戏拦截
 !This rule game intercepts, only intercepts games

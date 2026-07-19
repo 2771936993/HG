@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-07-19 01:15:08
-! Total count: 12739
+! Version:    最后同步时间: 2026-07-20 01:15:06
+! Total count: 12755
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,7 +11,22 @@
 # 全由海哥自己制作
 
 
-
+||adsfs.heytapimage.com^
+||api-sdk.clickwifi.net^
+||media-common.kouxincdn.com^
+||v-news02-tc.lsttnews.com^
+||static-coinsdk.y5coin.com^
+||rcv.aishuttler.com^
+||devc.zztfly.com^
+||smp.uncletalk.com^
+||app.aishuttler.com^
+||connectivitycheck.platform.hicloud.com^
+||0f0e7841-dnsotls-ds.metric.gstatic.com^
+||upc.zztfly.com^
+||di.aishuttler.com^
+||short.kouxinapp.com^
+||static.kouxincdn.com^
+||as.xiaohongshu.com^
 ||api.ylg33xjywkcfmdb5e.cc^
 ||web-flzz63.openinstalljs.com^
 ||314jbzsw4nv4.openinstalljs.com.eo.dnse3.com^
