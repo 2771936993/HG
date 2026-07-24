@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-07-24 01:15:08
-! Total count: 12759
+! Version:    最后同步时间: 2026-07-25 01:15:08
+! Total count: 12761
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,10 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+
+||b9no6.yqgh65cba.top^
+||originfastly.jsdelivr.net^
+||verify.verifybot.ink^
 ||t2.fancyapi.com^
 ||xadsmartget.adgain.cn^
 ||fapi.hongxiu158.com^
@@ -7832,7 +7836,6 @@
 ||lf6-cdn-tos.bytegeckoext.com^
 ||lf6-orange.byteorge.com^
 ||lf6-sf-be-pack-sign.pglstatp-toutiao.com^
-||lf6-vccdn.ndcpp.com^
 ||lf85-webcast-cdn-tos-ncdn.bytegecko.com^
 ||lf9-orange.byteorge.com^
 ||lf9-sf-be-pack-sign.pglstatp-toutiao.com^
