@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-07-26 01:15:05
-! Total count: 12761
+! Version:    最后同步时间: 2026-07-27 01:15:08
+! Total count: 12765
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,7 +10,10 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
+||adlog-js.e.kuaishou.com^
+||adlog.e.kuaishou.cn^
+||ad.v6.kuaishou.cn^
+||pdns.dnspod.cn^
 ||b9no6.yqgh65cba.top^
 ||originfastly.jsdelivr.net^
 ||verify.verifybot.ink^
