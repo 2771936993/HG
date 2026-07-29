@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-07-29 01:15:06
-! Total count: 12765
+! Version:    最后同步时间: 2026-07-30 01:15:08
+! Total count: 12768
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,12 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+
+
+||amap-aos-info-nogw.amap.com^
+||1t16.cc^
+||kou.dbs5d.cn^
+||9900.xuwft.com^
 ||adlog-js.e.kuaishou.com^
 ||adlog.e.kuaishou.cn^
 ||ad.v6.kuaishou.cn^
@@ -3626,7 +3632,6 @@
 ||akapi.aggextr2e47.net.edgesuite.net^
 ||akapi.aggextr2e47.net^
 ||akn.safe.360.cn^
-||aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com^
 ||aks.jdpay.com^
 ||aksins.jishangsw.xyz^
 ||aksnis.baofengpinpai.xyz^
