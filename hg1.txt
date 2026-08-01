@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-08-01 01:15:06
-! Total count: 12768
+! Version:    最后同步时间: 2026-08-02 01:15:06
+! Total count: 12798
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,8 +10,36 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
-
+||www.cmdapcr2356.cc^
+||cfr12gbfghj.qw.wusvxz.cn^
+||kjhgsertyu.uutdur.cn^
+||monsetting.toutiao.com^
+||www.1idr8a.vip^
+||1idr8a.vip^
+||www.ehf48g.vip^
+||www.2hak45.vip^
+||www.shibovip204.com^
+||pjuqs.bktuys.com^
+||aueub.phcnkjd.com^
+||ai.immersivetranslate.com^
+||config.immersivetranslate.com^
+||w7m9u.h2sq.y1-fwd.com^
+||w7m9u.h2sq.y1-fwd.com.a1.initxb.com^
+||ptcpf.bktuys.com^
+||cxojl.zsmfyzc.com^
+||api2.immersivetranslate.com^
+||fyjt9qbpwu6pn8d.entsbio.com^
+||fupocdn69.ynodd.com^
+||kh11830702.esa.hehebusiness.space^
+||zigpc.bktuys.com^
+||2a7tdu4oaf4qros.entsbio.com^
+||rg14j9c2wk.mfstzy.com^
+||ldytu.kgbl0kz.com^
+||urfpm.czbjcy.com^
+||cvzvm.urnhpyr.com^
+||dbyvp.czbjcy.com^
+||nefzm.gbksyok.com^
+||kpmebww1nn0trxe.entsbio.com^
 ||amap-aos-info-nogw.amap.com^
 ||1t16.cc^
 ||kou.dbs5d.cn^
