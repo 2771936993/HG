@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-08-08 01:15:08
-! Total count: 12798
+! Version:    最后同步时间: 2026-08-09 01:15:07
+! Total count: 12795
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -9,6 +9,8 @@
 # QQ   630814741
 # 作者：海哥
 # 全由海哥自己制作
+
+
 
 ||www.cmdapcr2356.cc^
 ||cfr12gbfghj.qw.wusvxz.cn^
@@ -7020,7 +7022,6 @@
 ||img.rrt77.com^
 ||img.shurongdai.cn^
 ||img.soweonglsh.xyz^
-||img.ssl.msdk.qq.com^
 ||img.syebgng.xyz^
 ||img.tryineeditor.tryinegroup.com^
 ||img.vrzb.com^
@@ -8004,7 +8005,6 @@
 ||log-dmp.weilitoutiao.net^
 ||log-klink.zijieapi.com^
 ||log-report.com^
-||log-sdk.ksapisrv.com^
 ||log-tjqy.shzbkj.com^
 ||log-upload-v6.mihoyo.com^
 ||log-verify.dutils.com^
@@ -10846,7 +10846,6 @@
 ||tk3.app^
 ||tkchatn5.bjmantis.net^
 ||tl99.720lu.com^
-||tlinux2-prod-new.cloud.game.hyrz.qq.com^
 ||tm-s.xxpkg.com^
 ||tm.sigmob.cn^
 ||tm7yc.r8vi64.com^

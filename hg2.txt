@@ -1,9 +1,11 @@
-! Version:    最后同步时间: 2026-08-08 01:15:08
-! Total count: 287
+! Version:    最后同步时间: 2026-08-09 01:15:07
+! Total count: 288
 #放行单
 #只适合海哥规则
 
 
+@@||log-sdk.ksapisrv.com^
+#↑快手极速版金币↑#
 @@||login.360kuai.com^
 @@||member.shouji.360.cn^
 @@||logout2.shouji.360.cn^
