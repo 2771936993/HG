@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-08-09 01:15:07
-! Total count: 12795
+! Version:    最后同步时间: 2026-08-10 01:15:06
+! Total count: 12826
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,8 +10,37 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
-
+||223ek.fi4ake03.com^
+||hgty9632.com^
+||kph8gvfz.m.chenzhongtech.com^
+||multi-az-www-api.kuaishou.com^
+||3vh3gr0.t46weka7.com^
+||nlusoco.com.364cyd.net^
+||wsall.qzxtsg.*^
+||dkff3v093x3pi.*^
+||hb815784.cc^
+||www.hbty111.com^
+||hbty111.com.gtm-sharkddos.net^
+||ca73436f.hb815784.cc.cname.scname.com^
+||hyoonyenbackfi.nlusoco.com^
+||vcihsa.vhwoyxd.com^
+||www.gstatic.cn^
+||chatsocket.vnoiavt.com^
+||www.hb5529.com^
+||chatsocket.uhgue.com^
+||www.hb115943.cc^
+||ijanngn.com.bshslb.com^
+||ijanngn.com.364cyd.net^
+||hb5529.com^
+||3b9e64a0.uhgue.com.cname.scname.com^
+||k5w5.cc^
+||uuxcaeb7.yaskdjsalkdadkad.cn^
+||ksdjsadad.icu^
+||r13.i.lencr.org^
+||kf.8a9q.com^
+||tp.ftlvav.cn^
+||iframe.isahua.com^
+||jty.ftlvav.cn^
 ||www.cmdapcr2356.cc^
 ||cfr12gbfghj.qw.wusvxz.cn^
 ||kjhgsertyu.uutdur.cn^
