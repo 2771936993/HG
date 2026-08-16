@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-08-16 01:15:05
-! Total count: 12826
+! Version:    最后同步时间: 2026-08-17 01:15:05
+! Total count: 12833
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,16 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+
+||badjs.weixinbridge.com^
+||file.daihuo.qq.com^
+||playable.qpic.cn^
+||lqq37.d2x2whz0.top^
+||gszpyqkktlsw.ssuyrzj.top^
+||93300cb.scdn.91dun.vip^
+||vdwyj6xw6hd5.7ua3cf7su5e2.dbmtei.cn^
+||7z6yvct8-u.turzeg.cn^
+||hvr4ub6p.n.turzeg.cn^
 ||223ek.fi4ake03.com^
 ||hgty9632.com^
 ||kph8gvfz.m.chenzhongtech.com^
@@ -138,7 +148,6 @@
 ||ppcds.60ssq.com^
 ||ppcds.4fx2e.com^
 ||bes-mtj.baidu.com^
-||mdp-appconf-cn.heytapdownload.com^
 ||cimgs.17xianwan.com^
 ||api.ads66.com^
 ||api.91taojin.com.cn^
@@ -8993,7 +9002,6 @@
 ||open.scmccboss.com^
 ||open.srv.jj.cn^
 ||open.ximalaya.com^
-||openapi-slp.heytapmobi.com^
 ||openapi.vmall.com^
 ||opencdnpddpic.jomodns.com^
 ||opencloud.wostore.cn^
