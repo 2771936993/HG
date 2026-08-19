@@ -1,9 +1,16 @@
-! Version:    最后同步时间: 2026-08-19 01:15:05
-! Total count: 288
+! Version:    最后同步时间: 2026-08-20 01:15:07
+! Total count: 293
 #放行单
 #只适合海哥规则
 
 
+@@||bs1.360sres.com^$important
+@@||se2.360simg.com^$important
+#↑360浏览器应用插件市场#
+@@||a.nel.cloudflare.com^$important
+@@||translate-cdn.xiangtatech.com^$important
+@@||translate-api.xiangtatech.com^$important
+#↑360翻译登录↑#
 @@||log-sdk.ksapisrv.com^
 #↑快手极速版金币↑#
 @@||login.360kuai.com^

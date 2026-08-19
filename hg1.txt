@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-08-19 01:15:05
-! Total count: 12833
+! Version:    最后同步时间: 2026-08-20 01:15:07
+! Total count: 12868
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -9,6 +9,51 @@
 # QQ   630814741
 # 作者：海哥
 # 全由海哥自己制作
+
+
+
+||h636290.cc^
+||wd3gvp5b.n.cdn7ab.vip^
+||n9ujxzht.n.cdn7ab.vip^
+||cdn7ab.vip^
+||ubr4hh1419b59q.33444579.com^
+||xjkf5.3yiot.com^
+||pg780820.cc^
+||pg113958.cc^
+||download.jsjcsgy.com^
+||ydfd.itmrright.com^
+||l.heiwuya.cn^
+||xtyj.lmdbw.com^
+||r2ermw.com^
+||gfd8ir.com^
+||8f76c96b.nkvybmrj.com^
+||5myjfi.cdn.nkvybmrj.com^
+||xjkf5.3yiot.com.w.cdngslb.com^
+||4aa8636f.itjnziwe.com^
+||e1qjq1.cdn.itjnziwe.com^
+||download.jsjcsgy.com.w.cdngslb.com^
+||l.heiwuya.cn.eo.dnse1.com^
+||xtyj.lmdbw.com.pages.dnsoe5.com^
+||ydfd.itmrright.com.019eced4.cdnhwc9.com^
+||hcdnd101.sme.foreign.cdnhwcaoc115.cn^
+||de800a48.nk71l.com^
+||cluster676107f9.nk71l.com^
+||ydd8.cc^
+||d2.jsjcsgy.com^
+||cdn.lumayun.top^
+||cdn-lumayun-top-idvmz9c.qiniudns.com^
+||vod-all.ipv4v6.qiniu.com.volcgslb.com^
+||sz-qiniu-all.volcgtm.com^
+||d2.jsjcsgy.com.w.cdngslb.com^
+||ffyd.cr5fy.com^
+||www.cr5fy.com^
+||static.c79q3.com^
+||kkxz.xwdq3.com^
+||hgty6268.com^
+||img.hgty8778.com^
+||16h412857.cc^
+@@||wzzqlm.erbaiwulaoge.com^
+#↑临时解开，网站的预览图#
 
 
 ||badjs.weixinbridge.com^
@@ -3317,7 +3362,6 @@
 ||a.in-neo.cn^
 ||a.kimiao.xyz^
 ||a.n2mg.cn^
-||a.nel.cloudflare.com^
 ||a.nstool.ntes53.netease.com^
 ||a.qchannel03.cn^
 ||a.vmall.com^
@@ -4493,7 +4537,6 @@
 ||bs-adaptive.pull.yximgs.com^
 ||bs-origin.pull.yximgs.com^
 ||bs0cf.com^
-||bs1.360sres.com^
 ||bs688.cc^
 ||bsb.baidu.com^
 ||bscloudcdncmnet.inter.iqiyi.com^
@@ -10187,7 +10230,6 @@
 ||sdnjl6.hqeydsv.cn^
 ||sdp.qihucdn.com^
 ||se11.k8.com^
-||se2.360simg.com^
 ||se3.360simg.com^
 ||se80.cc^
 ||sealaly.net^
@@ -10982,8 +11024,6 @@
 ||traffic-operation-cn.allawntech.com^
 ||traffic.xilu.com^
 ||transit2.wslog.chinanetcenter.com^
-||translate-api.xiangtatech.com^
-||translate-cdn.xiangtatech.com^
 ||translate-useraction-api.xiangtatech.com^
 ||translate.googleapis.com^
 ||tre1.11000.vip^
@@ -12003,7 +12043,6 @@
 ||wzpxh5-qcdn.huaduonet.com^
 ||wzr4hkd.julkqz.nl^
 ||wzuader087.japaneast.cloudapp.azure.com^
-||wzzqlm.erbaiwulaoge.com^
 ||x.0jpf7u.com^
 ||x.hd13.cn^
 ||x.seeyouyima.com^
