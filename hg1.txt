@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-08-24 01:15:08
-! Total count: 12868
+! Version:    最后同步时间: 2026-08-25 01:15:05
+! Total count: 12866
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -9,7 +9,6 @@
 # QQ   630814741
 # 作者：海哥
 # 全由海哥自己制作
-
 
 
 ||h636290.cc^
@@ -5782,7 +5781,6 @@
 ||events-drcn.op.dbankcloud.cn^
 ||events-drcn.op.dbankcloud.com^
 ||events-op-hicloud-com-drcn.appacc.dbankedge.net^
-||events.gx.nvidia.cn^
 ||events.mz.unity3d.com^
 ||events.op.hicloud.com^
 ||events.wan.360.cn^
@@ -6455,7 +6453,6 @@
 ||gwmeeyn.yytivlczxixhub.top^
 ||gwr5cep2uai200vhrnvjuybftkvzv4p.deliv82slkamain.com^
 ||gwx2.jgqvji.com^
-||gx-target-experiments-frontend-api.gx.nvidia.cn^
 ||gx.huangtai.net^
 ||gx4.j9n1c8r6.work^
 ||gxmhmmoa.orionxyz.com^
