@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-08-30 01:15:07
-! Total count: 12866
+! Version:    最后同步时间: 2026-08-31 01:15:07
+! Total count: 12875
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,7 +10,15 @@
 # 作者：海哥
 # 全由海哥自己制作
 
-
+||foid139.top^
+||venrfjlew.aaakxjiajx200ss01.com^
+||stats.54ads.com^
+||stats-dss4111-serving.com^
+||4seyaweiykcmitistry0f.fvsfty6rydweq.jcdixdh.com^
+||flh4lmtmyd0.icuys8ew.gqyvyq.com^
+||3u4k9hfbq4sz.fvsfty6rydweq.jcdixdh.com.eo.dnse4.com^
+||ri1.xlfn.cc^
+||static.nresystems.com^
 ||h636290.cc^
 ||wd3gvp5b.n.cdn7ab.vip^
 ||n9ujxzht.n.cdn7ab.vip^
