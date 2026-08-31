@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-08-31 01:15:07
-! Total count: 12875
+! Version:    最后同步时间: 2026-09-01 01:15:06
+! Total count: 12877
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,12 @@
 # 作者：海哥
 # 全由海哥自己制作
 
+
+||share.hntv.tv^
+||res.hntv.tv^
+||static.hntv.tv^
+||mediadata.xuexi.cn^
+||wifi.chenshipin.com^
 ||foid139.top^
 ||venrfjlew.aaakxjiajx200ss01.com^
 ||stats.54ads.com^
@@ -5034,7 +5040,6 @@
 ||cmhd.cscmgg.com^
 ||cmhdoss.cscmgg.com^
 ||cmll721.xyz^
-||cmread.com^
 ||cms-9f12240916e9ca39.abcty1.com^
 ||cms-fa4dhz1m0acvgr45.kfcitr1.com^
 ||cmsmanage-siteapi.gwm.com.cn^
@@ -6911,7 +6916,6 @@
 ||i.loli.net^
 ||i.lsttapp.com^
 ||i.meee.com.tw^
-||i.meituan.com^
 ||i.opfed.com^
 ||i.sanguomenlu.com^
 ||i.snssdk.com.queniuyk.com^
@@ -9856,7 +9860,6 @@
 ||rcf-img-hk.fdhs31slkoihkkcn.com^
 ||rcv.aiclk.com^
 ||rdcyr.cn^
-||rdelivery.qq.com^
 ||rdhn.143.cc^
 ||rdsnufl.com^
 ||rdstat.tanx.com^
