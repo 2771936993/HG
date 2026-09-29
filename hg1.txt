@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-09-29 01:15:05
-! Total count: 13022
+! Version:    最后同步时间: 2026-09-30 01:15:04
+! Total count: 13029
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -12,7 +12,14 @@
 #
 
 
-
+||vector.rwgstkp.cn^
+||jxycds.7qvn.com^
+||927nali052.ougbx.com^
+||cb4982.scdn287.91cdncdn.com^
+||2w3p.cc^
+||zuozu.xvbj5.cn^
+||cdn.0551web.com^
+||cdn.0551web.com.w.kunlungr.com^
 ||cdn.dingxiang-inc.com^
 ||926df3.e5aq7u.top^
 ||93016cb.scdn.91dun.vip^
@@ -9113,7 +9120,6 @@
 ||p.sda1.dev^
 ||p.typekit.net-stls-v3.edgesuite.net^
 ||p.typekit.net^
-||p0.meituan.net^
 ||p01.gz.hw.pool.4366.com^
 ||p0jp.yl.ag^
 ||p0nkhy03m.top^
