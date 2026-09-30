@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-09-30 01:15:04
-! Total count: 13029
+! Version:    最后同步时间: 2026-10-01 01:15:11
+! Total count: 13027
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10,6 +10,7 @@
 # 作者：海哥
 # 全由海哥自己制作
 #
+
 
 
 ||vector.rwgstkp.cn^
@@ -7868,7 +7869,6 @@
 ||leyuty76.com^
 ||leyuty77.com^
 ||lf-c-flwb.bytetos.com^
-||lf-cdn-tos.bytescm.com^
 ||lf-fe.fqnovelstatic.com^nt
 ||lf-leads-fe-scm.bytecdn.com^
 ||lf-normal-gr-sourcecdn.bytegecko.com^
@@ -11891,7 +11891,6 @@
 ||web999.teshuyy.com^
 ||webapp.kuaishou.com^
 ||webcache.10jqka.com.cn^
-||webcast5-normal-c-hl.amemv.com^
 ||webcast5-wbnormal-lq.toutiaoapi.com^
 ||webgate.ujn.edu.cn^
 ||webh5.24705a4.com^

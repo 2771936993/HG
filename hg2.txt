@@ -1,10 +1,13 @@
-! Version:    最后同步时间: 2026-09-30 01:15:04
-! Total count: 321
+! Version:    最后同步时间: 2026-10-01 01:15:11
+! Total count: 323
 #放行单
 #只适合海哥规则
 
 
 
+@@||lf-cdn-tos.bytescm.com^
+@@||webcast5-normal-c-hl.amemv.com^
+#↑抖音直播伴侣#
 @@||v.hupu.com^
 @@||video.hupu.com^
 @@||live.hupu.com^
