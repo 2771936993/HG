@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-10-02 01:15:04
-! Total count: 13027
+! Version:    最后同步时间: 2026-10-03 01:15:04
+! Total count: 13032
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -13,6 +13,11 @@
 
 
 
+||mf39.cc^
+||xzcds.60ssq.com^
+||qingdao.53gv9.cn^
+||ipinfo.io^
+||xzcds.60ssq.com.w.cdngslb.com^
 ||vector.rwgstkp.cn^
 ||jxycds.7qvn.com^
 ||927nali052.ougbx.com^
