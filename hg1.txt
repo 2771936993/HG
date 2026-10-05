@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-10-05 01:15:20
-! Total count: 13032
+! Version:    最后同步时间: 2026-10-06 01:15:05
+! Total count: 13029
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -5421,7 +5421,6 @@
 ||duba.net^
 ||duihl.cn^
 ||duodunj.com^
-||duodutek.com^
 ||duul.143.cc^
 ||duxiaomanfintech.com^
 ||duzhanread.cdn.bcebos.com^
@@ -5728,7 +5727,6 @@
 ||f9x.cn^
 ||fa86.720lu.com^
 ||face.mobilem.360.cn^
-||facebook.com^
 ||fafau03.top^
 ||fahvrbgk.n.ttge.ru^
 ||fake-domain^
@@ -8735,7 +8733,6 @@
 ||newamjs.cqpwz.com^
 ||newapi.39center.com^
 ||newapi.commom.pangbaoapp.com^
-||newddmh.manager.duodutek.com^
 ||newdownload.tipt71v7.com^
 ||newetc.xn--czrq32anzck17c.net^
 ||newpay.263pk.com^
