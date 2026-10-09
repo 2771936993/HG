@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-10-09 01:15:06
-! Total count: 13029
+! Version:    最后同步时间: 2026-10-10 01:15:04
+! Total count: 13026
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -13,6 +13,8 @@
 
 
 
+
+||cnc9.cc^
 ||mf39.cc^
 ||xzcds.60ssq.com^
 ||qingdao.53gv9.cn^
@@ -3745,7 +3747,6 @@
 ||api.kingdata.ksyun.com^
 ||api.kpgxb.com^
 ||api.ksport.io^
-||api.kuaishouzt.com^
 ||api.liuliangguo.com^
 ||api.look.360.cn^
 ||api.mapps.uve.weibo.com^
@@ -6354,7 +6355,6 @@
 ||gyyd.wpdpt.com^
 ||gz.adsl.cn^
 ||gz.ejnjyc.cn^
-||gz.file.myqcloud.com^
 ||gz.gzyunguo.com^
 ||gz360.tv^
 ||gzhxjiaoyu.com^
@@ -8606,7 +8606,6 @@
 ||mul1py.vip^
 ||mulm.6t.com^
 ||multi-az-ad.kuaishou.com^
-||multi-az-www-api.kuaishou.com^
 ||multimedia.tns-global.com^
 ||mum.hzchengdun.com^
 ||mus-nettech.youku.com^
@@ -9439,7 +9438,6 @@
 ||ppdaicdn.com^
 ||ppdn.bzszyy123.com^
 ||ppdzl.cn^
-||ppg.m.etoote.com^
 ||ppg.viviv.com^
 ||ppoga2512211151.gtxnf.com^
 ||ppqqzkn.com^
