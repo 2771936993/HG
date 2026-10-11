@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-10-11 15:26:01
-! Total count: 13023
+! Version:    最后同步时间: 2026-10-12 01:15:05
+! Total count: 13121
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -13,7 +13,104 @@
 
 
 
-
+||7yn479p4.tzcdn.gznsrck.cn.bplslb.com^
+||4tsmyc6z.litecdncname.com^
+||4js5m38n.n.litecdncname.com^
+||hbw.7ee7jia.xyz^
+||jiqun.7ee7jia.xyz^
+||sdhjda.yy0188.com.slowdark.com^
+||sdhjda.yy0188.com.gccdn.net^
+||gj89gfg.hyojzu.cn.slowdark.com^
+||gj89gfg.hyojzu.cn.gccdn.net^
+||hongguo01.xsjyqy.cn.slowdark.com^
+||hongguo01.xsjyqy.cn.gccdn.net^
+||2000.td0000.cn^
+||app.td2026.cn^
+||cdn.3dw11.cn.eo.dnse2.com^
+||tyyall.gp2install.w150e.com.ctadns.cn^
+||84115.82cdn.91cdncdn.com^
+||5c83f256.alidns-2.com^
+||deepedge-free.alidns-2.com^
+||jinyu666.org^
+||www.j6jj.cc^
+||bstnr39v.bdcdn.zjyxqb.cn.bplslb.com^
+||sug.so.qss-lb.com^
+||hf743ds.agkath.cn.slowdark.com^
+||hf743ds.agkath.cn.gccdn.net^
+||all.xiaozhouhou.com.a1.initaa.com^
+||xcbc11210740.bc157g55vvd1.bccdk.lqscg.cn^
+||2e840d1d.bccdnn.nematode.cn.cname.maoyun.net^
+||j9q2dr4h.bccdnn.nematode.cn.bplslb.com^
+||yfxhkxpr.wpwvxm.cn^
+||gdgsdlkwy.go5kvsiay5wx.com^
+||baodao1011210500.0neqlzgt.xmqvtl.cn^
+||www.3737q.cc^
+||tp.jnydyfd.com.cdn.dnsv1.com^
+||c0b38zgi.slt.sched.tdnsv8.com^
+||www.aj6zsp1u.gtwjev.cn^
+||3vo6dgp0uq71.gtwjev.cn.eo.dnse5.com^
+||tp.jnydyfd.com^
+||iframe.baodaods.com^
+||jt.jnydyfd.com^
+||pp.sqdenghui.com^
+||z4musw8872.br0ken.cnnyhs.com^
+||89tt.my^
+||1011dw599.cdcvb.top^
+||uytl1011sed.xiaoxingculture.com^
+||266n.cn^
+||bnjvihg.cn^
+||hf743ds.agkath.cn^
+||www.266n.cn^
+@@||sug.so.360.cn^
+||46v2.cc^
+||hkps30.rapn35.bdcdn.zjyxqb.cn^
+||vfgt53.hxwy39.tzcdn.gznsrck.cn^
+||cnn3.cc^
+||m.cdsk120.com^
+||omppf01ibu.lanmansg.xyz^
+||prw2iyxvos.julitongxun.xyz^
+||111s1.cc^
+||ybim01.tencentyuanbao.com^
+||5vv.my^
+||jy21006ld099.mxjrtgg.cn^
+||tai2dhakd029.nymgkva.cn^
+||6vv.my^
+||vn43.cc^
+||www.zheguankj.com^
+||tvy02.bps-tw.com^
+||16688.lol^
+||16688.lat^
+||wd.jumeiyou.com^
+||wd.loisyassat.com^
+||gqj.yenivaziyet.com^
+||1011h541.nvjm9.com^
+||qlmavyoz.gp2install.w150e.com^
+||cdn.3dw11.cn^
+||m3ukb6sy0p.ntpeovv.cn^
+||h6v.cc^
+||gj89gfg.hyojzu.cn^
+||411g.cc^
+||hongguo01.xsjyqy.cn^
+||www.411g.cc^
+||sdhjda.yy0188.com^
+||74wp.cc^
+||jump.7ee7e.xyz^
+||tvy02.grand-field.com^
+||tvy02.51yueqi.com^
+||tvy02.senang2.com^
+||tvy02.tehnotrade-ua.com^
+||74wp.com^
+||fv99.cc^
+||688s.my^
+||ob.sd559908.js.2gnc.com^
+||699c.my^
+||yfdabv8.com^
+||toxmx6497rskmobrfd20.qtlcdn.com^
+||ybim01.tencentyuanbao.com.cdn.dnsv1.com^
+||o4xmrnd8.sched.sma-dk.tdnsstic1.cn^
+||cdsk120.com^
+||a-xbsm1.3xbx.com^
+||fivgl6lr6iwfnidtiqz7.qtlcdn.com^
 ||cnc9.cc^
 ||mf39.cc^
 ||xzcds.60ssq.com^
