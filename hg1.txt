@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-10-10 01:15:04
-! Total count: 13026
+! Version:    最后同步时间: 2026-10-11 15:25:45
+! Total count: 13023
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -8889,8 +8889,6 @@
 ||o3k9z.nah107.com^
 ||o3m5.76065.com^
 ||o3tsuk.vip^
-||o4510347059200000.ingest.de.sentry.io^
-||o4510602019209216.ingest.us.sentry.io^
 ||o5hx.yl.ag^
 ||o6a2.ag8.com^
 ||o6j.cn^
@@ -10270,7 +10268,6 @@
 ||sentry-src.easy-h5.com^
 ||sentry.17zjh.com^
 ||sentry.d.xiaomi.net^
-||sentry.io^
 ||sentry.kuaishou.com^
 ||sentryapi.89609335.com^
 ||sentryapi1.hbcdfc.com^
