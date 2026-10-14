@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-10-14 01:15:04
-! Total count: 13121
+! Version:    最后同步时间: 2026-10-15 01:15:05
+! Total count: 13120
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -10838,7 +10838,6 @@
 ||syz1.cn^
 ||syz9.cn^
 ||syzbd57.com^
-||sz-qiniu-all.volcgtm.com^
 ||sz7yo.com^
 ||szcy12.anfairy.net^
 ||sze8t.qzqgsewldxu.com^
