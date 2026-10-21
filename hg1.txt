@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-10-21 01:15:05
-! Total count: 13120
+! Version:    最后同步时间: 2026-10-22 01:15:04
+! Total count: 13124
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -12,7 +12,15 @@
 #
 
 
-
+||wzzqlm.erbaiwulaoge.com^
+||wzzqlm.erbaiwulaoge.com.wsdvs.com^
+||track.liuliangguo.com^
+||alb-8icit8djh3771ycffj.cn^
+||static.liuliangguo.com^
+||1021n10.rfvwu.shop^
+||d5d3cc50.gheqjz.com^
+||g887478.cdn.gheqjz.com^
+||tongji2.u3es4c.top^
 ||7yn479p4.tzcdn.gznsrck.cn.bplslb.com^
 ||4tsmyc6z.litecdncname.com^
 ||4js5m38n.n.litecdncname.com^
@@ -3592,7 +3600,6 @@
 ||ahvc4wetyat9.kykfe.cn^
 ||ai-bmp.odjlwvdrks06img.com^
 ||ai-bmp.qnetonpgab01img.com^
-||ai.immersivetranslate.com^
 ||ai0.j9n1c8r6.work^
 ||ai81y.com^
 ||aibaaiba.xyz^
@@ -4717,7 +4724,6 @@
 ||cdn.dongyixiang.com^
 ||cdn.doumvip.com^
 ||cdn.exp.xiaomi.com^
-||cdn.ghostery.com^
 ||cdn.goodq.top^
 ||cdn.h5.phone-card.cn^
 ||cdn.icomoon.io^
@@ -4980,7 +4986,6 @@
 ||conf.wsm.360.cn^
 ||config-ipv6.jpush.cn^
 ||config-p2p-other.vcloud.ks-live.com^
-||config.immersivetranslate.com^
 ||config.jpush.cn^
 ||config2.cmpassport.com^
 ||configcdn.quickapi.net^
@@ -6298,7 +6303,6 @@
 ||ghdd.720lu.com^
 ||ghdviw.com^
 ||ghj7saa.xn--54qu66awkkshgsf475q.com^
-||ghostery.net^
 ||ghpykhgf.cc^
 ||gi7w.880.net^
 ||gif.fpaixfl.com^
@@ -9911,7 +9915,6 @@
 ||qzbw-vip-idvn20n.www.qiniudns.com^
 ||qzfyumkktd.edgescloud.org^
 ||qzfyumkktd.sun-ecdn.com^
-||qzs.gdtimg.com^
 ||r.139.com^
 ||r.878wan.com^
 ||r.99wanyou.com^
