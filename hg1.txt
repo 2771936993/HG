@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-10-23 01:15:04
-! Total count: 13124
+! Version:    最后同步时间: 2026-10-24 01:15:05
+! Total count: 13122
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -7065,7 +7065,6 @@
 ||imff.aiyuhfd.com^
 ||imff.lajjfnjclshf.com^
 ||img*.bitauto.com^
-||img*.bitautoimg.com^
 ||img-dbzd.doubaozhidao.com^
 ||img-hwy.9liuda.com^
 ||img-miniprogram-o.doutuimao.net^
@@ -12685,7 +12684,6 @@
 ||yhty.bet^
 ||yhw2.cn^
 ||yhwf.hc7zo.com^
-||yiche.com^
 ||yiche.hnzzff.club^
 ||yidun-3line-gy-yw.ntes53.netease.com^
 ||yidun-bgp-gy-yw.ntes53.netease.com^
