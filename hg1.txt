@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-10-26 01:15:05
-! Total count: 13122
+! Version:    最后同步时间: 2026-10-27 01:15:05
+! Total count: 13131
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,7 +11,16 @@
 # 全由海哥自己制作
 #
 
-
+||nolatec.org^
+||z8q4.cc^
+||2481d401.gjuzgsa.com.cdn.dnsv1.com^
+||c6pfgqgh.slt.sched.tdnsv8.com^
+||n6q9tvrw.bnzvt.com^
+||5k43dvwu.bnzvt.com^
+||tysyapk.tiankongshuyu.cn^
+||s.feiyuezhan.com^
+||gobf6p.gjuzgsa.com^
+||asfsgfbjn556.wmhdk.com^
 ||wzzqlm.erbaiwulaoge.com^
 ||wzzqlm.erbaiwulaoge.com.wsdvs.com^
 ||track.liuliangguo.com^
@@ -13120,7 +13129,6 @@
 ||zysdk.locojoy.com^
 ||zyuyxi2yuv5uay92jm2h8ydqm.rdtm50983.com^
 ||zywjcpjgafmwrsscbgitmkwdepnbmzhg.actlube.net^
-||zz.bdstatic.com^
 ||zz.jjawa.com^
 ||zz1.yirujs.com^
 ||zz2.yirujs.com^
