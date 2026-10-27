@@ -1,10 +1,12 @@
-! Version:    最后同步时间: 2026-10-27 01:15:05
-! Total count: 323
+! Version:    最后同步时间: 2026-10-28 01:15:04
+! Total count: 325
 #放行单
 #只适合海哥规则
 
 
-
+@@||resource.wesure100.com^
+@@||inf-prdapi.wesure.cn^
+#↑腾讯微保#
 @@||lf-cdn-tos.bytescm.com^
 @@||webcast5-normal-c-hl.amemv.com^
 #↑抖音直播伴侣#

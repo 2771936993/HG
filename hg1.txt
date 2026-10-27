@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-10-27 01:15:05
-! Total count: 13131
+! Version:    最后同步时间: 2026-10-28 01:15:04
+! Total count: 13140
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,6 +11,19 @@
 # 全由海哥自己制作
 #
 
+
+||oss.5gbok.com^
+||tongji5.o7um9s.top^
+||1027hh001.7x4zj.top^
+||jzn9g6yd.lgctufsvkgb.tencentdns.net^
+||vtjw3ae5.tencentdns.net^
+||0-asd-sf.h6mcpdzhic5b.com^
+||7sbuuwzjj620ukw817em.7vxc3x.cc^
+||7z6yvct8-u.qlfega.cn^
+||hvr4ub6p.n.qlfega.cn^
+||etq.lxgtqi.cn^
+||ebz.fjp3gbx.cn^
+||wsall.fjp3gbx.cn.gccdn.net^
 ||nolatec.org^
 ||z8q4.cc^
 ||2481d401.gjuzgsa.com.cdn.dnsv1.com^
@@ -7185,7 +7198,6 @@
 ||inb967.com^
 ||indabai.com^
 ||indexs.zjqfart.cn^
-||inf-prdapi.wesure.cn
 ||infinitedata-pa.googleapis.com^
 ||information.youljr.com^
 ||infwd.xyz^
@@ -10028,7 +10040,6 @@
 ||resource.hnchjkj.cn^
 ||resource.jianli.com^
 ||resource.oss.yatiku.com^
-||resource.wesure100.com^
 ||resources.easy-h5.com^
 ||resq.cmsv5.iyunzk.com^
 ||restsdk.amap.com^
@@ -11818,7 +11829,6 @@
 ||volcsiriusbd.com^
 ||volctracer.com^
 ||volctrack.com^
-||voowebpbssdl.kugou.com^
 ||votea.1-278-xz-zeaycrfx.cc^
 ||voul.by6.app^
 ||vp5cwmvp.jpx7wynxk6.com^
