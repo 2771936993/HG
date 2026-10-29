@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-10-29 01:15:04
-! Total count: 13140
+! Version:    最后同步时间: 2026-10-30 01:15:04
+! Total count: 13152
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,7 +11,19 @@
 # 全由海哥自己制作
 #
 
-
+||www.programming-rabbit.com^
+||d2fx7sb0xa7rjy.cloudfront.net^
+||lxdblzka2xrh5g8f45la.fdw84egqu7lf.kgbbzc.cn^
+||all.fdw84egqu7lf.kgbbzc.cn.w.cdngslb.com^
+||af.ahzhxx.asia^
+||nr.fymc.space^
+||d2hisg7wl6plsb.cloudfront.net^
+||qmcectj.dbslwt.cn^
+||all.dbslwt.cn.a1.initba.com^
+||ub.muxin.pub^
+||1029sf16.fwo78v.top^
+||f372e.djtuba.cn^
+||all.djtuba.cn.a1.initff.com^
 ||oss.5gbok.com^
 ||tongji5.o7um9s.top^
 ||1027hh001.7x4zj.top^
@@ -11824,7 +11836,6 @@
 ||voipfinderrdsliveplay1.wxqcloud.qq.com^
 ||volc-track-dsp.66mobi.com^
 ||volceapplog.com^
-||volces.com^
 ||volcgslb-mlt.com^
 ||volcsiriusbd.com^
 ||volctracer.com^
