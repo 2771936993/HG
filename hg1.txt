@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-11-01 01:15:05
-! Total count: 13152
+! Version:    最后同步时间: 2026-11-02 01:15:05
+! Total count: 13156
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,6 +11,10 @@
 # 全由海哥自己制作
 #
 
+||cku.svtznj.cn^
+||wsall.svtznj.cn.gccdn.net^
+||1031hh001.og48v.com^
+||28849.oajhos.cn^
 ||www.programming-rabbit.com^
 ||d2fx7sb0xa7rjy.cloudfront.net^
 ||lxdblzka2xrh5g8f45la.fdw84egqu7lf.kgbbzc.cn^
