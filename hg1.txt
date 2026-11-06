@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-11-06 01:15:04
-! Total count: 13156
+! Version:    最后同步时间: 2026-11-07 01:15:04
+! Total count: 13169
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,6 +11,20 @@
 # 全由海哥自己制作
 #
 
+
+||img.kzfjjaox.cn^
+||9000.nhwkj.com^
+||wsall.nhwkj.com.gccdn.net^
+||img.kzfjjaox.cn.gccdn.net^
+||111gj127.lxfutp.cn^
+||2648aumt.n.cdnrn.com^
+||tp4.drleao.cn^
+||tp7.drleao.cn^
+||s10.voicecloud.cn^
+||s5.voicecloud.cn^
+||inputl1.xfinfr.com^
+||imeclient.openspeech.cn^
+||imeaigc.openspeech.cn^
 ||cku.svtznj.cn^
 ||wsall.svtznj.cn.gccdn.net^
 ||1031hh001.og48v.com^
