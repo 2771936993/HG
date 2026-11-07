@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-11-07 01:15:04
-! Total count: 13169
+! Version:    最后同步时间: 2026-11-08 01:15:04
+! Total count: 13162
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -12,6 +12,8 @@
 #
 
 
+||gyyd.dvf77.com^
+||tp7.drleao.cn^
 ||img.kzfjjaox.cn^
 ||9000.nhwkj.com^
 ||wsall.nhwkj.com.gccdn.net^
@@ -3979,11 +3981,9 @@
 ||api2.openinstall.io^
 ||api2.srbs35.com^
 ||api3-normal-lf.fqnovel.com^
-||api3-normal-sinfonlinec.fqnovel.com^
 ||api3.matangame.com^
 ||api5-normal-lf.fqnovel.com^
 ||api5-normal-lq.toutiaoapi.com^
-||api5-normal-sinfonlinec.fqnovel.com^
 ||api88.shananfen.com^
 ||api8800.swarnor.com^
 ||apiapm.gz4399.com^
@@ -4430,7 +4430,6 @@
 ||bk8n.ag8.com^
 ||bkappad.189.cn^
 ||bkevsr.cn^
-||bkimg.cdn.bcebos.com^
 ||bksdkconfig.video.qq.com^
 ||bksdksp.video.qq.com^
 ||bktvggkkd4nm2ppn5jmx.cdn.bcebos.com^
@@ -5680,7 +5679,6 @@
 ||ec3-core-lq.ecombdapi.com^
 ||ech2hq.top^
 ||ecir.143.cc^
-||ecmb.bdimg.com^
 ||ecom5-normal-lf.ecombdapi.com^
 ||ecs-113-45-175-45.compute.hwclouds-dns.com^
 ||ecs.daikuan.360.cn^
@@ -8436,9 +8434,6 @@
 ||mapi.m.jd.com^
 ||maplocatesdksnapshot.d.meituan.net^
 ||maplocatesdksnapshot.dreport.meituan.net^
-||maponline0.bdimg.com^
-||maponline1.bdimg.com^
-||maponline2.bdimg.com^
 ||market.mian520.com^
 ||market1.moojing.com^
 ||marketing-api.yangqianguan.com^
@@ -10809,7 +10804,6 @@
 ||storage.qiuyugame.com^
 ||stream.snssdk.com^
 ||strongwill100.com^
-||stsdk.vivo.com.cn^
 ||study-image.nos.netease.com^
 ||study.tenclass.net.cn^
 ||studypic.aigc.cctv.com^
@@ -10821,7 +10815,6 @@
 ||stun.l.google.com^
 ||stun.qqlive.qq.com^
 ||stun.rapidnet.de^
-||stun.services.mozilla1.com^
 ||stun.syncthing.net^
 ||stun.voipstunt.com^
 ||stun.voipwise.com^
