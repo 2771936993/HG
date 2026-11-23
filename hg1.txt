@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-11-22 01:15:05
-! Total count: 13183
+! Version:    最后同步时间: 2026-11-23 21:55:09
+! Total count: 13218
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,6 +11,44 @@
 # 全由海哥自己制作
 #
 
+
+
+||lclf.lol^
+||www.wlnmxti2356.vip^
+||hgvui987y7.x3m7bw8bdk86.com^
+||www.73a230387.cc^
+||34c40b9d.hb749303.cc.cname.scname.com^
+||hn68fvwj.n.cdnrn.com^
+||ekx742s9-u.cdnrn.com^
+||wd3gvp5b.n.cdnrn.com^
+||dmdpnsa7egugt.cloudfront.net^
+||n9ujxzht.n.cdnrn.com^
+||7c67a0f5.99844666.com^
+||99844666.com^
+||73a584249.cc^
+||xjkf1.esszqw.com.w.cdngslb.com^
+||6edcbe0be9588537.aladcdn.com^
+||cdn-cluster.com^
+||www.snin76.cc^
+||ylwlasflslalsd21.cehmr.com^
+||a0b8d980.75737156.com^
+||7c00c5cf.cdn.75737156.com^
+||ylwlasflslalsd21.cehmr.com.019ecedc.cdnhwcvix16.com^
+||hcdnw101.sme.foreign.cdnhwcaoc115.cn^
+||xjkf1.esszqw.com^
+||sentryapi3.codema0.com^
+||kpbydfdbcgzjniv13.dgqvy.com^
+||s5ne39g.rkeiv7xs.com^
+||hgty3232.com^
+||ffyd.ffgxv.com^
+||kft.2dhxa.com^
+||ftpk.2dhxa.com^
+||static.p7zgr.com^
+||www.ffgxv.com^
+||epfzydzaorcq3tr811ka.hb-hyhg.com^
+||2q40st.com^
+||www.dd2557.com^
+||hb749303.cc^
 ||pp51718xbt.urbwjec.top^
 ||v2.ppjvcl.com^
 ||910928.toplakehorizon.com^
@@ -7483,7 +7521,6 @@
 ||jkry.8890.com^
 ||jkshl.iaaaz.com^
 ||jm73.yide.com^
-||jmdanjonproxy.*^
 ||jmin0dug.cloud.model.opendun.com^
 ||jmk.nndzsw2.com^
 ||jml.adongyu.com^
