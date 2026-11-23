@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-11-23 21:55:09
-! Total count: 13218
+! Version:    最后同步时间: 2026-11-24 01:15:05
+! Total count: 13220
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -12,7 +12,8 @@
 #
 
 
-
+||www.tb6999.com^
+||*kpdz.com^
 ||lclf.lol^
 ||www.wlnmxti2356.vip^
 ||hgvui987y7.x3m7bw8bdk86.com^

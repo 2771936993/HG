@@ -1,12 +1,12 @@
-! Version:    最后同步时间: 2026-11-23 21:55:09
+! Version:    最后同步时间: 2026-11-24 01:15:05
 ! Total count: 1927
-! 此规则游戏拦截
+! ┤╦╣µÈ‗Ë╬¤À└╣¢Ï
 !This rule game intercepts, only intercepts games
-! 规则链接地址
+! ╣µÈ‗┴┤¢ËÁÏÍÀ
 ! Rules link address
-! QQ：630814741
-! 作者：海哥
-! 全由海哥自己制作
+! QQú║630814741
+! Î¸ı▀ú║║ú©þ
+! ╚½Ë╔║ú©þÎÈ╝║ÍãÎ¸
 
 
 
@@ -967,7 +967,7 @@
 ||uic.gamesafe.qq.com^
 ||m3ios.jgm.qq.com^
 @@||thirdqq.qlogo.cn^
-#↑头像#
+#í³═À¤±#
 ||download.2.221234005.tc.gcloudgbs.com^
 ||download.949687666-1-1.gcloudsvcs.com^
 ||down.tyscyrj.qq.com^
@@ -1025,7 +1025,7 @@
 ||line3-log.biligame.net^
 ||mall.51haoka.shop^
 ||game.weixin.qq.com^
-#↑↑微信有些打不开就关闭他#
+#í³í³╬óð┼Ëðð®┤‗▓╗┐¬¥═╣Ï▒ı╦¹#
 ||s11gatefumo.yyxxgame.com^
 ||fumocdn1.yyxxgame.com^
 ||fumoapi.yyxxgame.com^
@@ -1528,7 +1528,7 @@
 ||ver.spaceparty.cn^
 ||channel.sdk.mobileztgame.com^
 ||openapi.music.163.com^
-##定位##
+##Â¿╬╗##
 @@||apilocate.amap.com^
 @@||dualstack-restapi.amap.com^
 @@||dualstack-logs.amap.com^
@@ -1855,7 +1855,7 @@
 ||union.gdtimg.com^
 ||info.3g.qq.com^
 @@||i.gtimg.cn^
-!!登录
+!!ÁÃ┬╝
 ||report.gamecenter.qq.com^
 ||update1.dlied.qq.com^
 ||update5.dlied.qq.com^
