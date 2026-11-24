@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-11-24 01:15:05
-! Total count: 13220
+! Version:    最后同步时间: 2026-11-25 01:15:04
+! Total count: 13239
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,7 +11,25 @@
 # 全由海哥自己制作
 #
 
-
+||6ef74d.shibovip95.com^
+||3xmbv9gu1fbn.r5v2f1d9swpaq.ezalnp.com.eo.dnse3.com^
+||shibovip95.com.gtm-sharkddos.net^
+||1988ad.shibo27.app^
+||www.shibo27.app^
+||shibo27.app.361cyd.net^
+||download.shirui1004.com.gccdn.net^
+||download.shirui1004.com^
+||www.yperrdd1400.vip^
+||urpmf1400.com^
+||65r7t8y9uhi.us4yfshwvacd.com^
+||r7t8y9uhi.us4yfshwvacd.com^
+||gs4nyuo5dxtegc.r5v2f1d9swpaq.ezalnp.com^
+||htxcdf.59qnh.com^
+||ttlspop.fcwxpb.cn^
+||tangshan.cheurq.cn^
+||wisdomlab.new.oberyun.com^
+||6999h.cc^
+||cdn.ghostery.com^
 ||www.tb6999.com^
 ||*kpdz.com^
 ||lclf.lol^
