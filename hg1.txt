@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-11-25 01:15:04
-! Total count: 13239
+! Version:    最后同步时间: 2026-11-26 01:15:05
+! Total count: 13255
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,6 +11,23 @@
 # 全由海哥自己制作
 #
 
+
+||ardxv.170758.coupons^
+||bnmjk.htsc.xn--jc2a749bpa.com^
+||2ur7z4am.n.gqvsg.com^
+||i1.go2yd.com.wscdns.com^
+||node94.aizhantj.com.eo.dnse1.com^
+||www.wiedb4i1np9nxcd3.net^
+||241766ngyht.mapjwym.net^
+||htsc-xn--jc2a749bpa-com-wa.larklouddns.com^
+||c09735c0.htsc.xn--jc2a749bpa.com.cdn.dnsv1.com^
+||790brv32.sched.vodtylego.tdnsvod1.cn^
+||node94.aizhantj.com^
+||xzsgfv.187753.lifestyle^
+||i1.go2yd.com^
+||gyyd.ap3xc.com^
+||ai.immersivetranslate.com^
+||kft.2nrpv.com^
 ||6ef74d.shibovip95.com^
 ||3xmbv9gu1fbn.r5v2f1d9swpaq.ezalnp.com.eo.dnse3.com^
 ||shibovip95.com.gtm-sharkddos.net^
