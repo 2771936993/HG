@@ -1,5 +1,5 @@
-! Version:    最后同步时间: 2026-11-27 01:15:01
-! Total count: 13255
+! Version:    最后同步时间: 2026-11-28 01:15:05
+! Total count: 13254
 # 此规则不定时更新
 # This rule does not regularly updated
 # This rules ad blocking, ad blocking only
@@ -11,7 +11,11 @@
 # 全由海哥自己制作
 #
 
-
+||271766ghtsj.yvhavuc.com^
+||271766ghtsj.tdtgawc.com^
+||htcc.lmzz.lm-dns.com^
+||c0d811ae.lm-dns.com^
+||g031e13.cdn.lm-dns.com^
 ||ardxv.170758.coupons^
 ||bnmjk.htsc.xn--jc2a749bpa.com^
 ||2ur7z4am.n.gqvsg.com^
@@ -31,10 +35,7 @@
 ||6ef74d.shibovip95.com^
 ||3xmbv9gu1fbn.r5v2f1d9swpaq.ezalnp.com.eo.dnse3.com^
 ||shibovip95.com.gtm-sharkddos.net^
-||1988ad.shibo27.app^
-||www.shibo27.app^
-||shibo27.app.361cyd.net^
-||download.shirui1004.com.gccdn.net^
+||shibo27.app^
 ||download.shirui1004.com^
 ||www.yperrdd1400.vip^
 ||urpmf1400.com^
@@ -301,12 +302,9 @@
 ||sensors-log.dongqiudi.com^
 ||voc.dongqiudi.com^
 ||sdk.verification.jiguang.cn^
-||device.dongqiudi.com^
 ||apppubliclogs-ext.mop.com^
 ||fms.ipinyou.com^
-||dab.dongqiudi.com^
-||stat.dongqiudi.com^
-||im-ap.dongqiudi.com^
+||dongqiudi.com^
 ||public1.alidns.com^
 ||*-99wanyou-com-idvkrgg.qiniudns.com^
 ||*-default.ixigua.com^
